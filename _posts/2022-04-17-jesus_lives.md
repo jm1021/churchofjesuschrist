@@ -4,7 +4,7 @@ layout: post
 description: Easter, The Atonement of Jesus Christ
 categories: [old-testament]
 title: Jesus Lives
-image: images/logo.jpeg
+image: images/jesus-lives.jpeg
 permalink: /old-testament/jesus_lives
 ---
 
