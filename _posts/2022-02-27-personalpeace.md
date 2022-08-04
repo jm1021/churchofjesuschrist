@@ -9,8 +9,6 @@ image: images/qcook.png
 
 ## Quentin L Cook | Personal Peace in Challenging Times | Oct 2021 | Faith To Act
 
-{% include home.html %}
-
 [2021 Oct Sunday Morning Conference Talk](https://www.churchofjesuschrist.org/study/general-conference/2021/10/46cook?lang=eng)
 
 [Youtube Video](https://www.youtube.com/watch?v=ADe6G5u0ljw)

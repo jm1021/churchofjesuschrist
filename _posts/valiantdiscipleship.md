@@ -1,7 +1,5 @@
 ## Jörg Klebingat Of the Seventy | Valiant Discipleship in the Latter Days | Apr 2022 | Faithful, not fearful
 
-{% include home.html %}
-
 [2022 Apr Sunday Afternoom Conference Talk](https://abn.churchofjesuschrist.org/study/general-conference/2022/04/53klebingat?lang=eng)
 
 [Youtube Video](https://www.youtube.com/watch?v=HBv8FCzGBNQ)
