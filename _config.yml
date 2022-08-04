@@ -40,7 +40,7 @@ baseurl: "/churchofjesuschrist" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: Ch_JesusChrist
-    github: jm1021/churchofjesuschrist
+    github: jm1021\/churchofjesuschrist
 
 # Set this to true to get LaTeX math equation support
 use_math: 
