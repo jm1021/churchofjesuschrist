@@ -4,7 +4,7 @@ layout: post
 description: The Covenant
 categories: [old-testament]
 title: Abraham and Sarah
-image: images/abraham_sarah.png
+image: images/abraham_sarah.jpeg
 permalink: /old-testament/abraham_sarah
 ---
 
