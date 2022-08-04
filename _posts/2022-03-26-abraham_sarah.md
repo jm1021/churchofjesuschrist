@@ -10,10 +10,9 @@ permalink: /old-testament/abraham_sarah
 
 ## Abraham and Sarah: The Covenant
 
-[Covenants: Genesis 12-17; Abraham 1–2](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/07?lang=eng) >> <a href="/old-testament/isaac_rebekah">Isaac and Rebekah</a>, <a href="/old-testament/jacob_leah_rachel">Jacob, Leah, Rachel</a>
+[Covenants: Genesis 12-17; Abraham 1–2](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/07?lang=eng)
 
-
-### ![abraham](images/abraham_sarah.jpeg) Warm-Up activity, abbreviated review of Abraham and Covenants
+### ![img]({{site.baseurl}}/images/abraham_sarah.jpeg) Warm-Up activity, abbreviated review of Abraham and Covenants
 1. As individual or in groups of 2 or 3. Ponder desire and its relationship to blessings. What comes when we establish a relationship with God?  What is the Abrahamic Covenant?  What is the promise from the covenant to each of us?
 2. Read: [Abraham 1:2](https://abn.churchofjesuschrist.org/study/scriptures/pgp/abr/1.2?lang=eng#p1)
 3. Read: [Genesis 12:2-3](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/12.2-3?lang=eng#p1)
@@ -27,7 +26,7 @@ permalink: /old-testament/abraham_sarah
 * The Lord's promises are fulfilled  -- [Abraham has received thrones: Doctrine and Covenants 132:29](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132.29?lang=eng#p29)
 * Our promise is made through temple covenants, [Exaltation and glory in all things](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132.19?lang=eng#p19)
 
-### <img src="images/thinking.png" height="200" alt=""> Thoughts from our Day
+### <img src="{{site.baseurl}}/images/thinking.png" height="200" alt=""> Thoughts from our Day
 * Revelations/Thoughts while reading
     * What have you pondered?  What revelations/thoughts have you received as you have read about the Abrahamic Covenant?
     * Have you considered the importance of counsels and covenants with God?
