@@ -48,7 +48,7 @@ outline-offset: 5px;
   Let me come and dwell with you.
 </div>
 
-### <img src="{{site.baseurl}}/thinking.png" height="200" alt=""> Thoughts from our Day
+### <img src="{{site.baseurl}}/images/thinking.png" height="200" alt=""> Thoughts from our Day
 * What are some good things you have found as read the scriptures on the creation?
 * Peter Bybee spoke of "science being a religion last week", something that is ever-changing.  
     * Do you think about how old the earth is?  [National Geographic](https://www.nationalgeographic.org/article/how-did-scientists-calculate-age-earth/)
