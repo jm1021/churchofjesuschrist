@@ -1,10 +1,20 @@
+---
+toc: true
+layout: post
+description: The Covenant Renewed
+categories: [old-testament]
+title: Isaac and Rebekah
+image: images/rebekah_portrait.jpeg
+permalink: /old-testament/isaac_rebekah
+---
+
 ## Isaac and Rebekah: The Covenant Renewed
 
-[The Covenant Renewed: Genesis 24:27](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/09?lang=eng) >> <a href="/docs/otlessons/abrahamcovenant">Abraham: The Covenant</a>, <a href="/docs/otlessons/jacob_leah_rachel">Jacob, Leah, Rachel</a>
+[The Covenant Renewed: Genesis 24:27](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/09?lang=eng) >> <a href="/old-testament/abraham_sarah">Abraham: The Covenant</a>, <a href="/old-testament/jacob_leah_rachel">Jacob, Leah, Rachel</a>
 
-### ![abraham](/docs/assets/images/rebekah_portrait.jpeg) 
+### ![abraham](images/rebekah_portrait.jpeg) 
 Warm-Up activity, abbreviated review of Servant finding Rebekah, wife for Isaac.
-As individual or in groups of 2 or 3 review this story of finding Rebekah.  Think and enumberate the qualities of Rebekah.  Think of characterisitics that you believe demonstrates qualities that can help a person create happiness?   Qualities in marriage—and other aspects of life?  Add to that qualities you see in the servant.
+As individual or in groups of 2 or 3 review this story of finding Rebekah.  Think and enumerate the qualities of Rebekah.  Think of characteristics that you believe demonstrates qualities that can help a person create happiness?   Qualities in marriage—and other aspects of life?  Add to that qualities you see in the servant.
 1. Servant call to go to land of Abraham: [Genesis 24:2](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/24.2?lang=eng#p1)
 2. Servant takes camels and goods to Mesopotamia, Nahor: [Genesis 24:10](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/24.10?lang=eng#p9)
 3. Rebekah an answer to Servant prayers: [Genesis 24:42-48](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/24.42-48?lang=eng#p41)
@@ -21,7 +31,7 @@ Genesis 25
 23 And the Lord said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.
 ```
 
-2. Lord tells Issac he will bless nations per Abrahamic Coventant [Genesis 26:1-5](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/26.1-5?lang=eng#p1)
+2. Lord tells Issac he will bless nations per Abrahamic Covenant [Genesis 26:1-5](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/26.1-5?lang=eng#p1)
 3. Rebekah and Jacob deceive Isaac [Genesis 26:6-24](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/27.6-24?lang=eng#p5)
 4. Blessing of Jacob as he impersonates Esau
 
@@ -48,7 +58,7 @@ Genesis 25
 We can choose between immediate gratification and things of greater value. Jacob acquires birth right from Esau.
 
 ```text
-Genisis 25
+Genesis 25
 
 29 ¶ And Jacob sod pottage: and Esau came from the field, and he was faint:
 
@@ -60,5 +70,5 @@ Genisis 25
 
 33 And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.
 
-34 Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.
+34 Then Jacob gave Esau bread and pottage of lentils; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.
 ```

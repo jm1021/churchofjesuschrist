@@ -1,6 +1,16 @@
+---
+toc: true
+layout: post
+description: Surely the Lord Is in This Place
+categories: [old-testament]
+title: Isaac, Leah, and Rachel
+image: images/jacobs-ladder.jpeg
+permalink: /old-testament/jacob_leah_rachel
+---
+
 ## Jacob, Leah, and Rachel: Surely the Lord Is in This Place
 
-[The Covenant Renewed: Genesis 28:33](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/10?lang=eng) >> <a href="/docs/otlessons/abrahamcovenant">Abraham: The Covenant</a>, <a href="/docs/otlessons/isaac_rebekah">Isaac and Rebekah</a>
+[The Covenant Renewed: Genesis 28:33](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/10?lang=eng) >> <a href="/old-testament/abraham_sarah">Abraham: The Covenant</a>, <a href="/old-testament/isaac_rebekah">Isaac and Rebekah</a>
 
 ### ![abraham](/docs/assets/images/jacobsladder.jpeg) Warm-Up activity, Jacobs ladder.
 As individual or in groups of 2 or 3 review this story of Jacob making covenants.  Think of a place where you have felt safe, comforted, holy ground? Is it hoome, Temple, other?  What are the covenants Jacob makes?  Do we make similar?  Why is the story of Jacob's Ladder given parallels to the temple?  What does it mean "one who perseveres with God"?
