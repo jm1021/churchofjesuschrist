@@ -12,7 +12,7 @@ permalink: /old-testament/isaac_rebekah
 
 [The Covenant Renewed: Genesis 24:27](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/09?lang=eng)
 
-### ![image]({{site.baseurl}}/images/rebekah_portrait.jpeg) 
+### ![image]({{site.baseurl}}/images/rebekah_portrait.jpeg) Warm-up finding Rebekah
 Warm-Up activity, abbreviated review of Servant finding Rebekah, wife for Isaac.
 As individual or in groups of 2 or 3 review this story of finding Rebekah.  Think and enumerate the qualities of Rebekah.  Think of characteristics that you believe demonstrates qualities that can help a person create happiness?   Qualities in marriage—and other aspects of life?  Add to that qualities you see in the servant.
 1. Servant call to go to land of Abraham: [Genesis 24:2](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/24.2?lang=eng#p1)

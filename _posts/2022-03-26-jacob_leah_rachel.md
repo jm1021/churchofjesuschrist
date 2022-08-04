@@ -12,7 +12,7 @@ permalink: /old-testament/jacob_leah_rachel
 
 [Surely the Lord is in This Place: Genesis 28:33](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/10?lang=eng)
 
-### ![img]({{site.baseurl}}/images/jacobsladder.jpeg) Warm-Up activity, Jacobs ladder.
+### ![img]({{site.baseurl}}/images/jacobs-ladder.jpeg) Warm-Up activity, Jacobs ladder.
 As individual or in groups of 2 or 3 review this story of Jacob making covenants.  Think of a place where you have felt safe, comforted, holy ground? Is it home, Temple, other?  What are the covenants Jacob makes?  Do we make similar?  Why is the story of Jacob's Ladder given parallels to the temple?  What does it mean "one who perseveres with God"?
 1. Jacob makes pillows of stone: [Genesis 28:11](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/28.11?lang=eng#p10)
 2. Ladder which Angels ascend and descend: [Genesis 28:12](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/28.12?lang=eng#p11)
