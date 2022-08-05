@@ -4,7 +4,7 @@ title: Jesus Lives
 permalink: /jesus/
 ---
 
-## The Restoration of the Fulness of the Gospel of Jesus Christ: A Bicentennial 
+## The Restoration of the Fulness of the Gospel of Jesus Christ
 > We solemnly proclaim that God loves His children in every nation of the world. God the Father has given us the divine birth, the incomparable life, and the infinite atoning sacrifice of His Beloved Son, Jesus Christ. By the power of the Father, <mark>Jesus rose again and gained the victory over death. He is our Savior, our Exemplar, and our Redeemer</mark>.
 
 ### JohnTheBloggers Testimony
