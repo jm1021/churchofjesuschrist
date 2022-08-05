@@ -5,7 +5,6 @@ description: Egypt and The Exodus
 categories: [old-testament]
 title: Moses
 image: images/burning_bush.jpeg
-permalink: /old-testament/jesus_lives
 ---
 
 ## Moses: Egypt and The Exodus
@@ -34,12 +33,12 @@ Will we or the powers that rule be able to turn away from things that seem "comf
 ### The Plagues of Egypt
 This story parallels many of the troubling events in our world today.  Often logic, power, and glories of God do not stop man from carrying on according to what they perceive as "comfortable" or "entitled".  Pharoah was obviously enamored with having the children of Israel work for them.  Do we have things of comfort that make us similar to Pharoah?
 
-1. Turning water to blood: [Ex. 7:14–24](https://abn.churchofjesuschrist.org/study/scriptures/ot/ex/7.14-24?lang=eng#p13), Algae from excess water usage or drought
-2. Frogs: [Ex. 8:2-4](https://abn.churchofjesuschrist.org/study/scriptures/ot/ex/8.2-4?lang=eng#p1), Frogs leaving the river
-3. Lice: [Ex. 8:16–19](https://abn.churchofjesuschrist.org/study/scriptures/ot/ex/8.16-19?lang=eng#p15), Dead frogs decomposing
-4. Flies: [Ex. 8:24](https://abn.churchofjesuschrist.org/study/scriptures/ot/ex/8.24?lang=eng#p23), Flies breeding from decomposition
-5. Pestilence of livestock: [Ex. 9:1–7](https://abn.churchofjesuschrist.org/study/scriptures/ot/ex/9.3-7?lang=eng#p2), Disease spreading
-6. Boils: [Ex. 9:8–12](https://abn.churchofjesuschrist.org/study/scriptures/ot/ex/9.8-12?lang=eng#p7), Greek Santorini volcano and acid rain
+1. Turning water to blood: [Ex. 7:14–24](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/7.14-24?lang=eng#p13), Algae from excess water usage or drought
+2. Frogs: [Ex. 8:2-4](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/8.2-4?lang=eng#p1), Frogs leaving the river
+3. Lice: [Ex. 8:16–19](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/8.16-19?lang=eng#p15), Dead frogs decomposing
+4. Flies: [Ex. 8:24](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/8.24?lang=eng#p23), Flies breeding from decomposition
+5. Pestilence of livestock: [Ex. 9:1–7](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/9.3-7?lang=eng#p2), Disease spreading
+6. Boils: [Ex. 9:8–12](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/9.8-12?lang=eng#p7), Greek Santorini volcano and acid rain
 7. Thunderstorm of hail and fire: Ex. 9:13–35
 8. Locusts: Ex. 10:1–20
 9. Darkness for three days: Ex. 10:21–29

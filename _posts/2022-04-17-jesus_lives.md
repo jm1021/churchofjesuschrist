@@ -5,7 +5,6 @@ description: Easter, The Atonement of Jesus Christ
 categories: [old-testament]
 title: Jesus Lives
 image: images/jesus-lives.jpeg
-permalink: /old-testament/jesus_lives
 ---
 
 ### Easter, The Atonement of Jesus Christ
