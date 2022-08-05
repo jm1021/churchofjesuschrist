@@ -9,18 +9,18 @@ image: images/creation.jpeg
 
 ## In the Beginning God Created the Heaven and the Earth
 
-[Genesis 1–2; Moses 2–3; Abraham 4–5](https://abn.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/02?lang=eng) >> <a href="/docs/otlessons/thefall">The Fall</a>
+[Genesis 1–2; Moses 2–3; Abraham 4–5](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/02?lang=eng) >> <a href="/docs/otlessons/thefall">The Fall</a>
 
 ### ![creation]({{site.baseurl}}/images/creation.jpeg) Warm-Up activity, abbreviated review of the periods of creation
 1. Form Groups of Three
-2. Person 1 read: [Genesis 1](https://abn.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng): 1-5, and 31
-3. Person 2 read: [Moses 2](https://abn.churchofjesuschrist.org/study/scriptures/pgp/moses/2?lang=eng): 1-5, and 31
-4. Person 3 read: [Abraham 4](https://abn.churchofjesuschrist.org/study/scriptures/pgp/abr/4?lang=eng): 1-5, and 31
+2. Person 1 read: [Genesis 1](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng): 1-5, and 31
+3. Person 2 read: [Moses 2](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/2?lang=eng): 1-5, and 31
+4. Person 3 read: [Abraham 4](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/4?lang=eng): 1-5, and 31
 5. Discuss the Deltas, What is different about each?  Talk about something distinct according to the restored Gospel.
 
 ### Classroom read of the creation of Adam and Eve
 1. Genesis 1:26–28; Moses 2:26–28; Abraham 4:26–28
-2. What is a key takeaway?  Read [Romans 8:16,17](https://abn.churchofjesuschrist.org/study/scriptures/nt/rom/8.16-17?lang=eng#p16), [Psalms 82:6](https://abn.churchofjesuschrist.org/study/scriptures/ot/ps/82.6?lang=eng#p6)
+2. What is a key takeaway?  Read [Romans 8:16,17](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/8.16-17?lang=eng#p16), [Psalms 82:6](https://www.churchofjesuschrist.org/study/scriptures/ot/ps/82.6?lang=eng#p6)
 
 <style>
 .boxBorder {
@@ -62,7 +62,7 @@ outline-offset: 5px;
    
 
 ### Revelation continues, Restoration continues
-* Everyone will always be left to grapple between Wisdom of the World versus Wisdom of God. But the Gospel and Faith enable us to obtain continuous and pertinent revelation, even enlightenment if we study and ask.  There are four accounts of creation in our scriptures [3 accounts, plus the temple](https://abn.churchofjesuschrist.org/study/ensign/1986/01/four-accounts-of-the-creation?lang=eng&adobe_mc_ref=https%3A%2F%2Fwww.churchofjesuschrist.org%2Fstudy%2Fensign%2F1986%2F01%2Ffour-accounts-of-the-creation%3Flang%3Deng&adobe_mc_sdid=SDID%3D2966C9A2BF731193-23273073DDBBB7D8%7CMCORGID%3D66C5485451E56AAE0A490D45%2540AdobeOrg%7CTS%3D1642272237).
+* Everyone will always be left to grapple between Wisdom of the World versus Wisdom of God. But the Gospel and Faith enable us to obtain continuous and pertinent revelation, even enlightenment if we study and ask.  There are four accounts of creation in our scriptures [3 accounts, plus the temple](https://www.churchofjesuschrist.org/study/ensign/1986/01/four-accounts-of-the-creation?lang=eng&adobe_mc_ref=https%3A%2F%2Fwww.churchofjesuschrist.org%2Fstudy%2Fensign%2F1986%2F01%2Ffour-accounts-of-the-creation%3Flang%3Deng&adobe_mc_sdid=SDID%3D2966C9A2BF731193-23273073DDBBB7D8%7CMCORGID%3D66C5485451E56AAE0A490D45%2540AdobeOrg%7CTS%3D1642272237).
     * Abraham account says ... "“We will go down, for there is space there, and we will take of these materials, and we will make an earth whereon these may dwell.”
     * Adam is Michael, who helped Jehovah in the Creation. Elder Joseph Fielding Smith wrote: “Adam helped to form this earth. He labored with our Savior Jesus Christ. I have a strong … conviction that there were others also who assisted them. Perhaps Noah and Enoch; and why not Joseph Smith, and those who were appointed to be rulers before the earth was formed?” (Doctrines of Salvation, 1:75.)
     * Each of us comes into the world as a unique spirit with a capacity for becoming what our Creator is, in whose image we are formed.
