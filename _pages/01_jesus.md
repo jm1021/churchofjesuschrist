@@ -12,5 +12,3 @@ permalink: /jesus/
 
 ### JohnTheBloggers Life
 > I have had 5 wonderful children.  My 1st wife I met at Catalina Island, for both of us it was a love at first site experience.  We framed our life on following the Savior, fighting cancer, and adopting children.  Tamara left this earth at age 42.  My first 3 children and I suffered from that loss.  In my darkest moments, I felt the presence of the Savior and had visits from him in dreams from and he presented to me my deceased wife Tamara.  Two years raising a family alone, I looked across the Celestial room in the San Diego Temple.  Once again, I found myself in love with Lora.  This brought a blended family and my first biological son.  As with Job, in adversity "I know that my redeemer lives" and that "the latter end of my life has more than my beginning".  Through all, their has been a clarity that Jesus Lives and that my have a divine connection a child of God continues.
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
