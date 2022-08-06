@@ -1,7 +1,7 @@
 ---
-permalink: /testimony/
+permalink: /about/
 layout: page
-title: Testimony
+title: About
 ---
 
 ## Jesus Lives 
