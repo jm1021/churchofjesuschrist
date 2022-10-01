@@ -55,7 +55,7 @@ categories: [conference]
 - Jesus resisted temptation of adversary.   Fast and applies scripture as he answered Satan.
 - Satan or adversity can leave marks/cracks in our lives.  But, by building resistance we can avoid temptations beyond what we can bear.
 
-### D Todd Christopherson
+### D Todd Christofferson
 > Centrality of Jesus Christ is belonging.  
 - Diversity of Church is naturally occurring.  It started with mostly European white people.
 - Root prejudice of Church, Homes, and Hearts.
