@@ -56,3 +56,5 @@ __pycache__/
 
 # Ignore code-workspaces
 *.code-workspace
+.vscode/dryrun.log
+.vscode/targets.log
