@@ -9,26 +9,18 @@ image: images/wooden-tablets.jpeg
 
 ## Preexistence
 > [Premortality](https://www.churchofjesuschrist.org/study/manual/gospel-topics/premortality?lang=eng) is an amazing study.  In relating with people of other faiths, Jeremiah is an awesome starting point on the topic of preexistence or foreordination.  
-- Biblical Translations of Jeremiah 1:5
-    - KJV: [King James Version](https://www.churchofjesuschrist.org/study/scriptures/ot/jer/1?lang=eng&id=5#p4)
-    ```
-    Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.
-    ``` 
 
-    - NIV: New International Version
-    ```
-    “Before I formed you in the womb I knew you, before you were born I set you apart; I appointed you as a prophet to the nations.”
-    ```
+- KJV: [King James Version](https://www.churchofjesuschrist.org/study/scriptures/ot/jer/1?lang=eng&id=5#p4)
+Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.
 
-    - NLT: New Living Translation
-    ```
-    “I knew you before I formed you in your mother’s womb. Before you were born I set you apart and appointed you as my prophet to the nations.”
-    ```
+- NIV: New International Version
+“***Before I formed you in the womb I knew you***, before you were born I set you apart; I appointed you as a prophet to the nations.”
 
-    - ESV: English Standard Version
-    ```
-    “Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations.”
-    ```
+- NLT: New Living Translation
+“I knew you before I formed you in your mother’s womb. ***Before you were born I set you apart and appointed you as my prophet to the nations.***”
+
+- ESV: English Standard Version
+“Before I formed you in the womb I knew you, and before you were born I consecrated you; ***I appointed you a prophet to the nations.***”
 
 > Related scriptures, the [Antemortal existence of Man](https://www.churchofjesuschrist.org/study/scriptures/tg/man-antemortal-existence-of?lang=eng)
 - This Antemortal doctrine is foundation of the doctrine from Psalms 82:6, "Ye are gods; and all of you are children of the most High.". We are all [Spirit Children of Heavenly Father](https://www.churchofjesuschrist.org/study/scriptures/tg/man-a-spirit-child-of-heavenly-father?lang=eng)
