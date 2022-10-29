@@ -67,31 +67,32 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 > So "who are we?".   Here is a synopsis of "2 hours with us" as we try to be people of God, plus some quotes from our prophets.
 
 ### Betsy Dam
-> Spoke on agency and the cunning of the adversary.   She said that joy comes in and through Gospel of Jesus Christ.  <mark>She prayed for our ability to make great choices</mark>.
+> Spoke on agency and the cunning of the adversary.   She said that joy comes in and through Gospel of Jesus Christ.  ***She prayed for our ability to make great choices***.
 
 ### Mark Cuthbert
-> Sacrifice.  Adam and Eve were told to worship the Lord and sacrifice the first king of the flock.  Jesus, part man and part God personally experience all loss and foolishness.  Jesus did this as live of all mankind.  <mark>Bring are hearts into submission</mark>, love mankind, practice becoming celestial beings.  Reflect light and love of God.
+> Sacrifice.  Adam and Eve were told to worship the Lord and sacrifice the first king of the flock.  Jesus, part man and part God personally experience all loss and foolishness.  Jesus did this as live of all mankind.  ***Bring are hearts into submission***, love mankind, practice becoming celestial beings.  Reflect light and love of God.
 
-### Priesthood Meeting
+### Priesthood Meeting in October
 > By Mark Cuthbert - Susan Cuthbert Talk
 - What do I do now?  3 takeaways
 1. Past and present circumstances do not determine our future
 2. Each of us is child of God with divinity in our souls
 3. Savior made it possible to be cleansed from sin and healed from wounds
 4. Turn to Savior for strength and healing
-5. <mark>Covenants for now and eternity</mark>.
+5. ***Covenants for now and eternity***.
 
 > Classroom comments
 - Grudges diminish.
 - Performer to Petroleum to Horticulture, life blessings and turns
-- Grandchildren change how you behave.  They make you think of the person of who you should be
+- Grandchildren change how you behave.  They make you think of ***the person of who you should be***
 - Aspire to heavenly things can change our perspective
-- Try to be like a General Authority, be with people that are an example to us
+- Try to act like a General Authority, ***be with people that are an example to us***
 - Control how we act and react
-- Submarine can be lonely, sacrament 100 feet under the sea you can feel the spirit
+- Submarine can be lonely, ***sacrament 100 feet under the sea you can feel the spirit***, all man made signals do not travel there
 - Love one and loss.  We have ability to move on.
-- Quorum member Mother went to see Father who left her when he was 6 years old.  Reuniting of family is more important than feeling of abandonments.
+- Quorum member Mother went to see Father who left her when he was 6 years old.  ***Reuniting of family is more important than feeling of abandonments***.
 - Share the [purpose of life](https://www.churchofjesuschrist.org/study/ensign/2015/12/the-new-and-everlasting-covenant?lang=eng&id=p3#p3).  This was one of the closing comments.  Reference that describes it is very much to Mark Cuthbert's intro.
+    - Each human being is a beloved son or daughter of heavenly parents. Heavenly Father’s plan of salvation provides to each the opportunity to receive ***eternal life, which is the life God leads***.  There is no greater gift.  Knowledge of the plan of salvation explains the purpose of life and, if we so choose, will inform our ***decision-making from an eternal perspective***.
 
 ### Restoration of a New Covenant
 > Joseph Smith receive revelation of [The New and Everlasting Covenant](https://www.churchofjesuschrist.org/study/ensign/2015/12/the-new-and-everlasting-covenant?lang=eng#:~:text=Doctrine%20and%20Covenants%20132%3A19,the%20covenant%20will%20be%20exalted.)
@@ -111,7 +112,7 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 4 ¶ And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst thereof as the colour of amber, out of the midst of the fire.
 5 Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the ***likeness of a man***.
 the living creature was in the wheels.
-21 When those went, these went; and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.
+21 When those went, these went; and when those stood, these stood; and ***when those were lifted up from the earth, the wheels were lifted up over against them: for the spirit of the living creature was in the wheels***.
 22 And the likeness of the firmament upon the heads of the living creature was as the colour of the terrible crystal, stretched forth over their heads above.
 23 And under the firmament were their wings straight, the one toward the other: every one had two, which covered on this side, and every one had two, which covered on that side, their bodies.
 
@@ -124,15 +125,15 @@ the living creature was in the wheels.
 # Stick of Judah and stick of Joseph
 > Old Testament prophecy of the Book of Mormon.  [Lesson](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-ezekiel/lesson-142-ezekiel-37?lang=eng)
 15 ¶ The word of the Lord came again unto me, saying,
-16 Moreover, thou son of man, take thee one stick, and write upon it, For cJudah, and for the children of Israel his companions: then take another stick, and write upon it, For eJoseph, the stick of Ephraim, and for all the house of Israel his companions:
+16 Moreover, thou son of man, take thee one stick, and write upon it, ***For Judah***, and for the children of Israel his companions: then take another stick, and write upon it, ***For Joseph***, the stick of Ephraim, and for all the house of Israel his companions:
 17 And join them one to another into one stick; and they shall become one in thine hand.
 18 ¶ And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?
-19 Say unto them, Thus saith the Lord God; Behold, I will take the stick of aJoseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.
+19 Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, ***and make them one stick***, and they shall be one in mine hand.
 
 > From the lesson
-- “Commonly translated stick, the Hebrew word used is etz, a generic word meaning ‘wood’ (there are other words meaning ‘stick,’ ‘staff,’ ‘branch,’ or ‘scepter’). This was wood upon which it was possible to write. Babylonian writing tablets of wood have been found hinged together and faced with wax, with writing engraved on them. Two wooden tablets represent the scriptures from Judah (the Bible) and Joseph (the Book of Mormon) to ‘be one in mine hand’ (Ezek. 37:15–19 and fn.)” (A Latter-day Saint Commentary on the Old Testament [1993], 608).
+- “***Commonly translated stick, the Hebrew word used is etz***, a generic word meaning ‘wood’ (there are other words meaning ‘stick,’ ‘staff,’ ‘branch,’ or ‘scepter’). This was wood upon which it was possible to write. ***Babylonian writing tablets of wood have been found hinged together and faced with wax***, with writing engraved on them. Two wooden tablets represent the scriptures from Judah (the Bible) and Joseph (the Book of Mormon) to ‘be one in mine hand’ (Ezek. 37:15–19 and fn.)” (A Latter-day Saint Commentary on the Old Testament [1993], 608).
 - In addition, while serving as an associate professor of ancient scripture at Brigham Young University, Keith Meservy commented on the discovery of some ancient wooden tablets:
-- “The discovery in 1953 of these writing boards from biblical Calah in Mesopotamia altered the thinking of scholars about how Middle Eastern cultures made records. Wooden tablets filled with wax represent the ‘earliest known form of ancient book’ and help us understand an important prophecy of Ezekiel foretelling the uniting of the Bible and Book of Mormon” (“Ezekiel’s Sticks and the Gathering of Israel,” Ensign, Feb. 1987, 4).
+- “The discovery in 1953 of these writing boards from biblical Calah in Mesopotamia altered the thinking of scholars about how Middle Eastern cultures made records. ***Wooden tablets filled with wax represent the ‘earliest known form of ancient book’*** and help us understand an important prophecy of Ezekiel foretelling the uniting of the Bible and Book of Mormon” (“Ezekiel’s Sticks and the Gathering of Israel,” Ensign, Feb. 1987, 4).
 - Ezekiel’s prophecy that the two sticks would be joined “one to another into one stick” (Ezekiel 37:17) is clarified by the phrase “shall grow together,” which is found in 2 Nephi 3:12. This phrase helps us understand that the joining together of the two sticks is a process that will occur over time.
 
 <img src="{{site.baseurl}}/images/parchment_scroll_lamps.jpeg" height="200" alt="">   <img src="{{site.baseurl}}/images/wooden-tablets.jpeg" height="200" alt="">
