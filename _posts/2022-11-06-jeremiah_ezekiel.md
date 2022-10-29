@@ -122,8 +122,8 @@ the living creature was in the wheels.
 3 And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness.
 
 
-## I Will Be Their God; They Shall Be My People; “They shall become one in thine hand”
-> Old Testament prophecy of the Book of Mormon.  [Lesson](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-ezekiel/lesson-142-ezekiel-37?lang=eng)
+## I Will Be Their God; They Shall Be My People; “They shall become one in thine hand”; Two Sticks, two people, two written records.
+> Often referred to us as Old Testament prophecy of the Book of Mormon.  [Lesson](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-ezekiel/lesson-142-ezekiel-37?lang=eng)
 15 ¶ The word of the Lord came again unto me, saying,
 16 Moreover, thou son of man, take thee one stick, and write upon it, ***For Judah***, and for the children of Israel his companions: then take another stick, and write upon it, ***For Joseph***, the stick of Ephraim, and for all the house of Israel his companions:
 17 And join them one to another into one stick; and they shall become one in thine hand.
