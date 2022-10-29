@@ -4,7 +4,7 @@ layout: post
 description: Historically, Jeremiah is the prophet during the fall of Jerusalem and Ezekiel lived in captivity.
 categories: [old-testament]
 title: Jeremiah and Ezekiel
-image: images/jesus-lives.jpeg
+image: images/wooden-tablets.jpeg
 ---
 
 ## Preexistence
