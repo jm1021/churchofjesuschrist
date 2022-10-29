@@ -30,7 +30,7 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 - The Covenant Path has many on ramps.  We continue to repent.  If we are asking the question, we are on the right path.  Keep trending upward.
 - Fill your life with positive events.  Hobbies, music, scriptures and do many thing which are wholesome.
 - Keep coming back to the Sacrament.  Keep renewing that covenant.  
-- In my life, I have felt that ***one little backslide*** has helped me know where ***the true joy*** in life is through the commandments.
+- In my life, I have felt that ***one little backslide*** has helped me know where ***the true joy*** in life is through the commandments.  Is this doctrine?
 
 > Jeremiah 3
 14 Turn, O backsliding children, saith the Lord; for I am married unto you: and I will take you one of a city, and two of a family, and I will bring you to Zion:
@@ -44,7 +44,7 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 > "How do the scriptures turn me away from evil?"  Jeremiah has a great story on the process of writing and rewriting scripture.  Thoughts infused by conference...
 - The very act of trying to have God in your life will turn you away from evil.  Our disposition to do evil will go away.
 - Or, the very act of looking to increase our own testimonies will bring the spirit.  We may see many turn away from the scriptures, but with the spirit increased as we read the scriptures we can prevail.
-- Try to be in the spirit of the people of that day, enter into their zone.
+- In my life, when I rewrite my thoughts and go over things, I find I have more to say.  Even as years transpire, I have more to add.  Writing begats more writing. 
 
 > Jeremiah 36
 2 Take thee a roll of a book, and write therein all the words that I have spoken ...
@@ -56,7 +56,7 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 31 And I will punish him and his seed and his servants for their iniquity; and I will bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Judah, ***all the evil that I have pronounced against them; but they hearkened not***.
 32 ¶ Then took Jeremiah another roll, and gave it to Baruch the ascribe, the son of Neriah; who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire: and ***there were added besides unto them many like words***.
 
-> As Jeremiah rewrote the versus it seemed like it was a process to receive more revelation.  In my life, when I rewrite my thoughts and go over things, I find I have more to say.  Even as years transpire, I have more to add.  Writing begats more writing. 
+> As Jeremiah rewrote the versus it seemed like it was a process to receive more revelation.  
 - Modern scripture, [15 messages from conference](https://www.thechurchnews.com/leaders/2022/10/9/23391635/invitations-from-october-2022-general-conference-president-nelson-first-presidency-apostles)
 
 
@@ -103,10 +103,10 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 
 
 ## I saw visions of God.
-> Ezekiel is the prophet of captivity.  Taken away from the destroyed Jerusalem, as prophesied by Jeremiah.  Ezekiel is a contemporary of Nephi who was taken to a new land as a result of the prophecies of Jeremiah and following the direction of his Father. [Lesson](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-ezekiel/lesson-139-ezekiel-1-3?lang=eng)
+> Ezekiel is the prophet of captivity.  Taken away from the destroyed Jerusalem, as prophesied by Jeremiah.  Ezekiel is a contemporary of Nephi who was taken to a new land as a result of the prophecies of Jeremiah and following the direction of his Father. [Lesson](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-ezekiel/lesson-139-ezekiel-1-3?lang=eng) and thoughts as I reviewed this scripture.
+- As a family, we read chapters 1 to 3, Shay really perked up on chapter 1.  In reading the scripture, we need to enter into their zone.  Try to be in the spirit of the people of that day.  Also, it is kind of fun to speculate that Ezekiel was seeing things that sound like engines, visors and planes... 
 
-
-> Ezekiel has a revelation like vision.   Kind of fun to speculate that he was seeing things that sound like engines and planes... According to Old Testament manual "the full meaning of Ezekiel’s vision has not yet been revealed to us by the Lord".
+> Ezekiel has a revelation like vision. According to Old Testament manual "the full meaning of Ezekiel’s vision has not yet been revealed to us by the Lord".
 1 Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as ***I was among the captives*** by the river of Chebar, that the heavens were opened, and I saw visions of God.
 4 ¶ And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst thereof as the colour of amber, out of the midst of the fire.
 5 Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the ***likeness of a man***.
