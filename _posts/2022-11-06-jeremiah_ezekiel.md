@@ -49,14 +49,14 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 > Jeremiah 36
 2 Take thee a roll of a book, and write therein all the words that I have spoken ...
 3 ... I purpose to do unto them; that they may ***return every man from his evil way***; that I may forgive their iniquity and their sin.
-4 Then Jeremiah called Baruch the son of Neriah: and aBaruch wrote from the mouth of Jeremiah all the words of the Lord, which he had spoken unto him, upon a roll of a book.
-6 Therefore go thou, and read in the roll, which thou hast written from my mouth, the words of the Lord in the ears of the people in the Lord’s house upon the fasting day: and also thou shalt read them in the ears of all Judah that come out of their cities.
+4 Then Jeremiah called Baruch the son of Neriah: and Baruch ***wrote*** from the mouth of Jeremiah ***all the words of the Lord***, which he had spoken unto him, upon a roll of a book.
+6 Therefore go thou, and ***read in the roll***, which thou hast written from my mouth, the words of the Lord in the ears of the people in the Lord’s house upon the fasting day: and also thou shalt ***read them in the ears of all Judah*** that come out of their cities.
 27 ¶ Then the word of the Lord came to Jeremiah, after that the king had burned the roll, and the words which Baruch wrote at the mouth of Jeremiah, saying,
-28 Take thee again another roll, and write in it all the former words that were in the first roll, which Jehoiakim the king of Judah hath burned.
+28 Take thee again another roll, and ***write in it all the former words*** that were in the first roll, which Jehoiakim the king of Judah hath burned.
 31 And I will punish him and his seed and his servants for their iniquity; and I will bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Judah, ***all the evil that I have pronounced against them; but they hearkened not***.
-32 ¶ Then took Jeremiah another roll, and gave it to Baruch the ascribe, the son of Neriah; who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire: and ***there were added besides unto them many like words***.
+32 ¶ Then took Jeremiah another roll, and gave it to Baruch the scribe, the son of Neriah; who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire: and ***there were added besides unto them many like words***.
 
-> As Jeremiah rewrote the versus it seemed like it was a process to receive more revelation.  
+> As Jeremiah rewrote the versus it seemed like it was a process to receive more revelation.   Read the roll, a second writing, more words are like the process of preparing for a conference.
 - Modern scripture, [15 messages from conference](https://www.thechurchnews.com/leaders/2022/10/9/23391635/invitations-from-october-2022-general-conference-president-nelson-first-presidency-apostles)
 
 
