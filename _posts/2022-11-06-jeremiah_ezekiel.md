@@ -192,6 +192,7 @@ the living creature was in the wheels.
 - Allegory of the tame and wild olive trees [Jacob 5:76-77](https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/5?lang=eng&id=p76-p77#p76)
 - Church of the Devil [Nephi 14:11-14](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p11-p14#p11)
 - And then cometh the battle of the great God; and the devil and his armies shall be cast away into their own place, that they shall not have power over the saints any more at all" [D&C 88:110–119](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=eng&id=p110-p119#p110).
+
 ## [Stories in Daniel](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/1?lang=eng)
 > Daniel seemed like a relief to me as we transitioned from Isaiah, Jeremiah, and Ezekiel.  The narrative goes back to story telling.  The reading is very familiar.
 - Daniel and other royal youth of Judah obey a law of health [Kings opinion](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/1?lang=eng&id=p19-p20#p19). 
