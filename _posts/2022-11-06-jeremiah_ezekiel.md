@@ -39,9 +39,9 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 
 > [Jeremiah 3](https://www.churchofjesuschrist.org/study/scriptures/ot/jer/3?lang=eng&id=p14-p15#p14)
 14 Turn, O backsliding children, saith the Lord; for I am married unto you: and I will take you one of a city, and two of a family, and I will bring you to Zion:
-15 And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding.
+15 And I will give you pastors according to mine heart, ***which shall feed you with knowledge and understanding***.
 
-> Life requires us to understand the balance of Faith in a God and becoming Like God.
+> Life requires us to understand the balance of Faith in a God and ***becoming Like God***.
 - faith and hope, The ***Joy of redemption*** the mercy of the Lord Jesus Christ
 - becoming perfect, ***Turning our will to the Lord***, making covenants, an upward slope
 
