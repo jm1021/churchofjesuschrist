@@ -7,10 +7,12 @@ title: Jeremiah, Ezekiel and Daniel
 image: images/wooden-tablets.jpeg
 ---
 
-## Major Prophets of the Old Testament.
-> Isaiah, Jeremiah, Ezekiel, and Daniel. ***Isaiah*** spoke to the nation of Judah about ***150 years before their exile*** into Babylonia and called them to be faithful to God. ***Jeremiah*** cried out to those same people on the ***brink of that exile*** and pleaded for their repentance. Lamentations, written by Jeremiah, presents ***a dirge as Judah went into exile***. The last two major prophets, ***Ezekiel and Daniel***, spoke and wrote to the ***people in exile***, encouraging them to remember that God was still in control and would eventually restore the spiritual fortunes of His disciplined nation.
+## Old Testament, The Books of the Prophets
+> The prophets warned Israel of her sins and testified of the blessings that come from obedience. They prophesied of the coming of Christ, who would atone for the sins of those who repent, receive the ordinances, and live the gospel. ***The books of the prophets*** are ***Isaiah, Jeremiah, Ezekiel, Daniel***, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, and Malachi.  ***Isaiah*** spoke to the nation of Judah about ***150 years before their exile*** into Babylonia and called them to be faithful to God. ***Jeremiah*** cried out to those same people on the ***brink of that exile*** and pleaded for their repentance. Lamentations, written by Jeremiah, presents ***a dirge as Judah went into exile***. The last two major prophets of this lesson, ***Ezekiel and Daniel***, spoke and wrote to the ***people in exile***, encouraging them to remember that God was still in control and would eventually restore the spiritual fortunes of His disciplined nation.
+- Isaiah, Jeremiah, Ezekiel, Daniel were written by them.
 - Jeremiah was the Prophet when Lehi and family left Jerusalem
 - Nephi and Ezekiel were prophets in respective new lands and circumstances
+![Bible Authors]({{site.baseurl}}/images/Authors-of-the-Bible.png)
 
 ## Preexistence
 > [Premortality](https://www.churchofjesuschrist.org/study/manual/gospel-topics/premortality?lang=eng) is an amazing study.  In relating with people of other faiths, Jeremiah is an awesome starting point on the topic of preexistence or foreordination.  
