@@ -42,8 +42,8 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 15 And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding.
 
 > Life requires us to understand the balance of Faith in a God and becoming Like God.
-- faith and hope, The Joy of redemption the mercy of the Lord Jesus Christ
-- becoming perfect, Turning or will to the Lord, making covenants, an upward slope
+- faith and hope, The ***Joy of redemption*** the mercy of the Lord Jesus Christ
+- becoming perfect, ***Turning our will to the Lord***, making covenants, an upward slope
 
 ## Scriptures used to overcome Evil
 > "How do the scriptures turn me away from evil?"  Jeremiah has a great story on the process of writing and rewriting scripture.  Thoughts infused by conference...
