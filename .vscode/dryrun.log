@@ -1,5 +1,3 @@
 make --dry-run --always-make --keep-going --print-directory
-make: Entering directory `/Users/johnmortensen/vscode/churchofjesuschrist'
-cat Makefile
-make: Leaving directory `/Users/johnmortensen/vscode/churchofjesuschrist'
- 
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+

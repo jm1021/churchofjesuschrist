@@ -1,11 +1,14 @@
 ---
 toc: true
 layout: post
-description: Historically, Jeremiah is the prophet during the fall of Jerusalem and Ezekiel lived in captivity.
+description: Historically, Jeremiah is the prophet during the fall of Jerusalem and Ezekiel lived in captivity.  Daniel was a noble Jewish youth of Jerusalem taken into captivity by Nebuchadnezzar II of Babylon.
 categories: [old-testament]
-title: Jeremiah and Ezekiel
+title: Jeremiah, Ezekiel and Daniel
 image: images/wooden-tablets.jpeg
 ---
+
+## Major Prophets of the Old Testament.
+> Isaiah, Jeremiah, Ezekiel, and Daniel. ***Isaiah*** spoke to the nation of Judah about ***150 years before their exile*** into Babylonia and called them to be faithful to God. ***Jeremiah*** cried out to those same people on the ***brink of that exile*** and pleaded for their repentance. Lamentations, written by Jeremiah, presents ***a dirge as Judah went into exile***. The last two major prophets, ******Ezekiel and Daniel***, spoke and wrote to the ***people in exile***, encouraging them to remember that God was still in control and would eventually restore the spiritual fortunes of His disciplined nation.
 
 ## Preexistence
 > [Premortality](https://www.churchofjesuschrist.org/study/manual/gospel-topics/premortality?lang=eng) is an amazing study.  In relating with people of other faiths, Jeremiah is an awesome starting point on the topic of preexistence or foreordination.  
@@ -181,4 +184,9 @@ the living creature was in the wheels.
 > Ezekiel 37:15–20 — New American Standard Bible: 1995 Update (NASB95)
 15 The word of the Lord came again to me saying, 16 “And you, son of man, take for yourself one stick and write on it, ‘For Judah and for the sons of Israel, his companions’; then take another stick and write on it, ‘For Joseph, the stick of Ephraim and all the house of Israel, his companions.’ 17 “Then join them for yourself one to another into one stick, that they may become one in your hand. 18 “When the sons of your people speak to you saying, ‘Will you not declare to us what you mean by these?’19 say to them, ‘Thus says the Lord God, “Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel, his companions; and I will put them with it, with the stick of Judah, and make them one stick, and they will be one in My hand.” ’20 “The sticks on which you write will be in your hand before their eyes.
 
-
+## Stories in Daniel
+> Daniel seemed like a relief to me as we transitioned from Isaiah, Jeremiah, and Ezekiel.  The narrative goes back to story telling.  The reading is very familiar.
+- Daniel and other royal youth of Judah show the law of health.
+- Nebuchadnezzar’s Dream, Daniel's vision and interpretation
+- Nebuchadnezzar’s Idol, Shadrach, Meshach, Abednego
+![Nebuchadnezzar Dream]({{site.baseurl}}/images/nebuchadnezzars-dream.jpeg)
