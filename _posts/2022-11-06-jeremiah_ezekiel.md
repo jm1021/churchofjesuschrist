@@ -100,7 +100,7 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
     - Each human being is a beloved son or daughter of heavenly parents. Heavenly Father’s plan of salvation provides to each the opportunity to receive ***eternal life, which is the life God leads***.  There is no greater gift.  Knowledge of the plan of salvation explains the purpose of life and, if we so choose, will inform our ***decision-making from an eternal perspective***.
 
 ### Restoration of a New Covenant
-> Joseph Smith receive revelation of [The New and Everlasting Covenant](https://www.churchofjesuschrist.org/study/ensign/2015/12/the-new-and-everlasting-covenant?lang=eng#:~:text=Doctrine%20and%20Covenants%20132%3A19,the%20covenant%20will%20be%20exalted.)
+> Joseph Smith receive revelation of [The New and Everlasting Covenant](https://www.churchofjesuschrist.org/study/ensign/2015/12/the-new-and-everlasting-covenant?lang=eng)
 
 ### President Nelson
 > Today the Prophet encourages us to make covenants.  [Quotes form Oct talk](https://www.thechurchnews.com/general-conference/2022/10/2/23381236/president-nelson-october-2022-general-conference-find-rest-overcome-the-world#:~:text=Notable%20quotes%20from%20President%20Nelson's,Work%20for%20it.)
