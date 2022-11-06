@@ -37,7 +37,7 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 - Keep coming back to the Sacrament.  Keep renewing that covenant.  
 - In my life, I have felt that ***one little backslide*** has helped me know where ***the true joy*** in life is through the commandments.  Is this doctrine?
 
-> Jeremiah 3
+> [Jeremiah 3](https://www.churchofjesuschrist.org/study/scriptures/ot/jer/3?lang=eng&id=p14-p15#p14)
 14 Turn, O backsliding children, saith the Lord; for I am married unto you: and I will take you one of a city, and two of a family, and I will bring you to Zion:
 15 And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding.
 
