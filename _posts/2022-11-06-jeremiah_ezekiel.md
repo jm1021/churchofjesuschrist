@@ -8,7 +8,7 @@ image: images/wooden-tablets.jpeg
 ---
 
 ## Major Prophets of the Old Testament.
-> Isaiah, Jeremiah, Ezekiel, and Daniel. ***Isaiah*** spoke to the nation of Judah about ***150 years before their exile*** into Babylonia and called them to be faithful to God. ***Jeremiah*** cried out to those same people on the ***brink of that exile*** and pleaded for their repentance. Lamentations, written by Jeremiah, presents ***a dirge as Judah went into exile***. The last two major prophets, ******Ezekiel and Daniel***, spoke and wrote to the ***people in exile***, encouraging them to remember that God was still in control and would eventually restore the spiritual fortunes of His disciplined nation.
+> Isaiah, Jeremiah, Ezekiel, and Daniel. ***Isaiah*** spoke to the nation of Judah about ***150 years before their exile*** into Babylonia and called them to be faithful to God. ***Jeremiah*** cried out to those same people on the ***brink of that exile*** and pleaded for their repentance. Lamentations, written by Jeremiah, presents ***a dirge as Judah went into exile***. The last two major prophets, ***Ezekiel and Daniel***, spoke and wrote to the ***people in exile***, encouraging them to remember that God was still in control and would eventually restore the spiritual fortunes of His disciplined nation.
 - Jeremiah was the Prophet when Lehi and family left Jerusalem
 - Nephi and Ezekiel were prophets in respective new lands and circumstances
 
