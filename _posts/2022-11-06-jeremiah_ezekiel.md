@@ -9,6 +9,8 @@ image: images/wooden-tablets.jpeg
 
 ## Major Prophets of the Old Testament.
 > Isaiah, Jeremiah, Ezekiel, and Daniel. ***Isaiah*** spoke to the nation of Judah about ***150 years before their exile*** into Babylonia and called them to be faithful to God. ***Jeremiah*** cried out to those same people on the ***brink of that exile*** and pleaded for their repentance. Lamentations, written by Jeremiah, presents ***a dirge as Judah went into exile***. The last two major prophets, ******Ezekiel and Daniel***, spoke and wrote to the ***people in exile***, encouraging them to remember that God was still in control and would eventually restore the spiritual fortunes of His disciplined nation.
+- Jeremiah was the Prophet when Lehi and family left Jerusalem
+- Nephi and Ezekiel were prophets in respective new lands and circumstances
 
 ## Preexistence
 > [Premortality](https://www.churchofjesuschrist.org/study/manual/gospel-topics/premortality?lang=eng) is an amazing study.  In relating with people of other faiths, Jeremiah is an awesome starting point on the topic of preexistence or foreordination.  
@@ -104,7 +106,6 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 > Today the Prophet encourages us to make covenants.  [Quotes form Oct talk](https://www.thechurchnews.com/general-conference/2022/10/2/23381236/president-nelson-october-2022-general-conference-find-rest-overcome-the-world#:~:text=Notable%20quotes%20from%20President%20Nelson's,Work%20for%20it.)
 - As an apostle Preside Nelson gave a talked titled [Covenants](https://www.churchofjesuschrist.org/study/general-conference/2011/10/covenants?lang=eng)
 - <mark>His law is written in our hearts. He is our God and we are His people.</mark>
-
 
 ## Ezekiel, I saw visions of God.
 > Ezekiel was taken away from the destroyed Jerusalem, as prophesied by Jeremiah. In 597 BC, at age 25, Ezekiel was one of the many carried captive to Babylon by Nebuchadnezzar. Ezekiel is a contemporary of Nephi in Jerusalem, Nephi left and was guided to a new land. Ezekiel becomes the prophet of captivity.  [Lesson](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-ezekiel/lesson-139-ezekiel-1-3?lang=eng)
