@@ -107,9 +107,10 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 - As an apostle Preside Nelson gave a talked titled [Covenants](https://www.churchofjesuschrist.org/study/general-conference/2011/10/covenants?lang=eng)
 - <mark>His law is written in our hearts. He is our God and we are His people.</mark>
 
+
 ## Ezekiel, I saw visions of God.
 > Ezekiel was taken away from the destroyed Jerusalem, as prophesied by Jeremiah. In 597 BC, at age 25, Ezekiel was one of the many carried captive to Babylon by Nebuchadnezzar. Ezekiel is a contemporary of Nephi in Jerusalem, Nephi left and was guided to a new land. Ezekiel becomes the prophet of captivity.  [Lesson](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-ezekiel/lesson-139-ezekiel-1-3?lang=eng)
-- 
+
 > As a family, we read chapters 1 to 3, Shay really perked up on chapter 1.  In reading the scripture, we need to ***enter into their zone***.  Try to be in the spirit of the people of that day.  Also, ***it can be kind fun to speculate*** what Ezekiel was seeing things that sound like engines, visors and planes.
 ***Ezekiel 1 has a revelation like vision***. According to Old Testament manual "the full meaning of Ezekiel’s vision has not yet been revealed to us by the Lord".
 1 Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as ***I was among the captives*** by the river of Chebar, that the heavens were opened, and I saw visions of God.
