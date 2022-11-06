@@ -204,7 +204,7 @@ the living creature was in the wheels.
 - Nebuchadnezzar’s Dream, Daniel's vision and interpretation [Kings dream](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/2?lang=eng&id=p31-p35#p3)
 - Nebuchadnezzar’s Idol, Shadrach, Meshach, Abednego [Kings observation](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p26-p28#p26)
 - Nebuchadnezzar’s great tree that reaches the heaven is hewn down. [Kings confession](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/4?lang=eng&id=p34-p37#p34)
-- New King Darius forced to cast Daniel to the lions by his law. [New King after nigh of fast](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/6?lang=eng&id=p18-p23#p18)
+- New King Darius forced to cast Daniel to the lions by his law. [New King after night of fast](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/6?lang=eng&id=p18-p23#p18)
 ![Nebuchadnezzar Dream]({{site.baseurl}}/images/nebuchadnezzars-dream.jpeg)
 
 ```
