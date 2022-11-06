@@ -32,7 +32,7 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 > Related scriptures, the [Antemortal existence of Man](https://www.churchofjesuschrist.org/study/scriptures/tg/man-antemortal-existence-of?lang=eng)
 - This Antemortal doctrine is foundation of the doctrine from Psalms 82:6, "Ye are gods; and all of you are children of the most High.". We are all [Spirit Children of Heavenly Father](https://www.churchofjesuschrist.org/study/scriptures/tg/man-a-spirit-child-of-heavenly-father?lang=eng)
 
-## Lord gives us lots of opportunities
+## Backsliding, Lord gives us lots of opportunities
 > "How do I keep from backsliding?"  Backsliding is mentioned over and over in Jeremiah 3.  Thoughts infused by conference...
 - The Covenant Path has many on ramps.  We continue to repent.  If we are asking the question, we are on the right path.  Keep trending upward.
 - Fill your life with positive events.  Hobbies, music, scriptures and do many thing which are wholesome.
@@ -47,7 +47,7 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 - faith and hope, The ***Joy of redemption*** the mercy of the Lord Jesus Christ
 - becoming perfect, ***Turning our will to the Lord***, making covenants, an upward slope
 
-## Scriptures used to overcome Evil
+## Scriptures, an aid used to overcome Evil
 > "How do the scriptures turn me away from evil?"  Jeremiah has a great story on the process of writing and rewriting scripture.  Thoughts infused by conference...
 - The very act of trying to have God in your life will turn you away from evil.  Our disposition to do evil will go away.
 - Or, the very act of looking to increase our own testimonies will bring the spirit.  We may see many turn away from the scriptures, but with the spirit increased as we read the scriptures we can prevail.
@@ -67,11 +67,11 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 - Modern scripture, [15 messages from conference](https://www.thechurchnews.com/leaders/2022/10/9/23391635/invitations-from-october-2022-general-conference-president-nelson-first-presidency-apostles)
 
 
-## Covenants -- Why the Old Testament
+## Covenants provide Godly power, Old Testament provides insights
 > Sometimes I think the Old Testament is weird.  But, a big thing I have received in this round of study is seeing sacrifice and covenants.  Our oldest scripture, unite very well with our modern revelation. Jeremiah speaks of covenants.  They shall be my people and I shall be their God.  [Jeremiah 31:31–34](https://www.churchofjesuschrist.org/study/scriptures/ot/jer/31?lang=eng&id=31-34#p31), [Jeremiah 32:37–42](Jeremiah 32:37–42)
 - <mark>And they shall be my people, and I will be their God: And I will give them one heart, and one way</mark>
 
-> So "who are we?".   Here is a synopsis of "2 hours with us" as we try to be people of God, plus some quotes from our prophets.
+> ***So "who are we?"***.   Here is a synopsis of "2 hours with us" as ***we try to be people of God***.  I see how we are ***influenced by the study of the Old Testament*** and quotes from our Prophets.
 
 ### Betsy Dam
 > Spoke on agency and the cunning of the adversary.   She said that joy comes in and through Gospel of Jesus Christ.  ***She prayed for our ability to make great choices***.
@@ -110,7 +110,7 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 - <mark>His law is written in our hearts. He is our God and we are His people.</mark>
 
 
-## Ezekiel, I saw visions of God.
+## I saw visions of God, by Ezekiel
 > Ezekiel was taken away from the destroyed Jerusalem, as prophesied by Jeremiah. In 597 BC, at age 25, Ezekiel was one of the many carried captive to Babylon by Nebuchadnezzar. Ezekiel is a contemporary of Nephi in Jerusalem, Nephi left and was guided to a new land. Ezekiel becomes the prophet of captivity.  [Lesson](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-ezekiel/lesson-139-ezekiel-1-3?lang=eng)
 
 > As a family, we read chapters 1 to 3, Shay really perked up on chapter 1.  In reading the scripture, we need to ***enter into their zone***.  Try to be in the spirit of the people of that day.  Also, ***it can be kind fun to speculate*** what Ezekiel was seeing things that sound like engines, visors and planes.
@@ -132,7 +132,7 @@ the living creature was in the wheels.
 17 Son of man, ***I have made thee a watchman*** unto the house of Israel: therefore hear the word at my mouth, and ***give them warning*** from me.
 
 
-## I Will Be Their God; They Shall Be My People; “They shall become one in thine hand”
+## I Will Be Their God; They Shall Be My People, Two Sticks
 >  ***Two Sticks***, two people, two written records. Often referred to us as Old Testament prophecy of the Book of Mormon.  Though, many Christian faiths think of this as a flag or banner and a uniting event (not a process of time and histories).  [Institute Lesson](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-ezekiel/lesson-142-ezekiel-37?lang=eng)
 15 ¶ The word of the Lord came again unto me, saying,
 16 Moreover, thou son of man, take thee one stick, and write upon it, ***For Judah***, and for the children of Israel his companions: then take another stick, and write upon it, ***For Joseph***, the stick of Ephraim, and for all the house of Israel his companions:
@@ -188,12 +188,14 @@ the living creature was in the wheels.
 > Ezekiel 37:15–20 — New American Standard Bible: 1995 Update (NASB95)
 15 The word of the Lord came again to me saying, 16 “And you, son of man, take for yourself one stick and write on it, ‘For Judah and for the sons of Israel, his companions’; then take another stick and write on it, ‘For Joseph, the stick of Ephraim and all the house of Israel, his companions.’ 17 “Then join them for yourself one to another into one stick, that they may become one in your hand. 18 “When the sons of your people speak to you saying, ‘Will you not declare to us what you mean by these?’19 say to them, ‘Thus says the Lord God, “Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel, his companions; and I will put them with it, with the stick of Judah, and make them one stick, and they will be one in My hand.” ’20 “The sticks on which you write will be in your hand before their eyes.
 
-## Gog and Magog, Apocalypse
+## Gog and Magog, prophecy of the Apocalypse
 > [Ezekiel 38](https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/38?lang=eng) contains a vision that depicts an invasion of "Israel" by a foreign power called "Gog" of the land of "Magog" [Ezek. 38:2](https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/38?lang=eng&id=p1-p2#p1). Gog and his forces will attack the "mountains of Israel," whose people will have been "brought forth out of the nations" [Ezek. 38:7-9](https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/38?lang=eng&id=p7-p9#p7). The Lord will not allow them to succeed. With earthquake, sword, pestilence, blood, rain, hailstones, fire, and brimstone, the Lord will intervene to stop Gog's attack [see Ezek. 38:22–38:23](https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/38?lang=eng&id=p22-p23#p22). [Ezek. 39-1-8](https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/39?lang=eng&id=p1-p9#p1)
 - In Revelation [20:7–10](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/20?lang=eng&id=p7-p10#p7), he writes of those whom Satan will induce to rebel against God in the adversary's final effort to destroy God's work. 
 - Allegory of the tame and wild olive trees [Jacob 5:76-77](https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/5?lang=eng&id=p76-p77#p76)
 - Church of the Devil [Nephi 14:11-14](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p11-p14#p11)
 - And then cometh the battle of the great God; and the devil and his armies shall be cast away into their own place, that they shall not have power over the saints any more at all" [D&C 88:110–119](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=eng&id=p110-p119#p110)
+    - Compare... ***Organize yourselves; prepare every needful thing***; and establish a house, even a house of prayer, a house of fasting, a house of faith, a house of learning, a house of glory, a house of order, a house of God;
+    - Today... In coming days, ***it will not be possible to survive spiritually*** without the guiding, directing, comforting, and constant influence of the Holy Ghost.
 
 ## [Stories in Daniel](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/1?lang=eng)
 > Daniel seemed like a relief to me as we transitioned from Isaiah, Jeremiah, and Ezekiel.  The narrative goes back to story telling.  The reading is very familiar.
