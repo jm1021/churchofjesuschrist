@@ -184,9 +184,11 @@ the living creature was in the wheels.
 > Ezekiel 37:15–20 — New American Standard Bible: 1995 Update (NASB95)
 15 The word of the Lord came again to me saying, 16 “And you, son of man, take for yourself one stick and write on it, ‘For Judah and for the sons of Israel, his companions’; then take another stick and write on it, ‘For Joseph, the stick of Ephraim and all the house of Israel, his companions.’ 17 “Then join them for yourself one to another into one stick, that they may become one in your hand. 18 “When the sons of your people speak to you saying, ‘Will you not declare to us what you mean by these?’19 say to them, ‘Thus says the Lord God, “Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel, his companions; and I will put them with it, with the stick of Judah, and make them one stick, and they will be one in My hand.” ’20 “The sticks on which you write will be in your hand before their eyes.
 
-## Stories in Daniel
+## [Stories in Daniel](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/1?lang=eng)
 > Daniel seemed like a relief to me as we transitioned from Isaiah, Jeremiah, and Ezekiel.  The narrative goes back to story telling.  The reading is very familiar.
-- Daniel and other royal youth of Judah show the law of health.
-- Nebuchadnezzar’s Dream, Daniel's vision and interpretation
-- Nebuchadnezzar’s Idol, Shadrach, Meshach, Abednego
+- Daniel and other royal youth of Judah obey a law of health [Kings opinion](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/1?lang=eng&id=p19-p20#p19). 
+- Nebuchadnezzar’s Dream, Daniel's vision and interpretation [Kings dream](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/2?lang=eng&id=p31-p35#p3)
+- Nebuchadnezzar’s Idol, Shadrach, Meshach, Abednego [Kings observation](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p26-p28#p26)
+- Nebuchadnezzar’s great tree that reaches the heaven is hewn down. [Kings confession](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/4?lang=eng&id=p34-p37#p34)
+- New King Darius forced to cast Daniel to the lions by his law. [New King after nigh of fast](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/6?lang=eng&id=p18-p23#p18)
 ![Nebuchadnezzar Dream]({{site.baseurl}}/images/nebuchadnezzars-dream.jpeg)
