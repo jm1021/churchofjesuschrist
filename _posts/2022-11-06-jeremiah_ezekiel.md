@@ -191,7 +191,7 @@ the living creature was in the wheels.
 - In Revelation [20:7–10](https://www.churchofjesuschrist.org/study/scriptures/nt/rev/20?lang=eng&id=p7-p10#p7), he writes of those whom Satan will induce to rebel against God in the adversary's final effort to destroy God's work. 
 - Allegory of the tame and wild olive trees [Jacob 5:76-77](https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/5?lang=eng&id=p76-p77#p76)
 - Church of the Devil [Nephi 14:11-14](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p11-p14#p11)
-- And then cometh the battle of the great God; and the devil and his armies shall be cast away into their own place, that they shall not have power over the saints any more at all" [D&C 88:110–119](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=eng&id=p110-p119#p110).
+- And then cometh the battle of the great God; and the devil and his armies shall be cast away into their own place, that they shall not have power over the saints any more at all" [D&C 88:110–119](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=eng&id=p110-p119#p110)
 
 ## [Stories in Daniel](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/1?lang=eng)
 > Daniel seemed like a relief to me as we transitioned from Isaiah, Jeremiah, and Ezekiel.  The narrative goes back to story telling.  The reading is very familiar.
@@ -201,3 +201,24 @@ the living creature was in the wheels.
 - Nebuchadnezzar’s great tree that reaches the heaven is hewn down. [Kings confession](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/4?lang=eng&id=p34-p37#p34)
 - New King Darius forced to cast Daniel to the lions by his law. [New King after nigh of fast](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/6?lang=eng&id=p18-p23#p18)
 ![Nebuchadnezzar Dream]({{site.baseurl}}/images/nebuchadnezzars-dream.jpeg)
+
+```
+1. Ye elders of Israel, come join now with me
+And seek out the righteous, where’er they may be—
+In desert, on mountain, on land, or on sea—
+And bring them to Zion, the pure and the free.
+
+2. The harvest is great, and the lab’rers are few;
+But if we’re united, we all things can do.
+We’ll gather the wheat from the midst of the tares
+And bring them from bondage, from sorrows and snares.
+
+3. We’ll go to the poor, like our Captain of old,
+And visit the weary, the hungry, and cold;
+We’ll cheer up their hearts with the news that he bore
+And point them to Zion and life evermore.
+
+[Chorus]
+O Babylon, O Babylon, we bid thee farewell;
+We’re going to the mountains of Ephraim to dwell.
+```
