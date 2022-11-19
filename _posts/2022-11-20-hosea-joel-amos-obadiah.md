@@ -39,5 +39,14 @@ image: images/wooden-tablets.jpeg
 In the book, Edom, a long-time enemy of Israel, is castigated for its refusal to help Israel repel foreigners who invaded and conquered Jerusalem. To many scholars this reference suggests a date of composition after the Babylonian conquest of 586 BC. Others, noting the anti-Edomite sentiments in II Kings 8:20–22, consider a date as early as the 9th century BC also probable.  [Britannica.com](https://www.britannica.com/)
 
 ### Theme 1: The Lord Reveals Truth Through his Prophets
+> How do you hear Christ?  Do you have an example of a pertinent revelation from the Prophet?  Are we prophets in any way?
+- [Amos 3:7](https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng&id=p7#p6)
+    - JST uses word "until he revealeth".  The prophets are supposed to give us "words of warning".  What are some words of warning?  What will happen if we don't hear the warning?  What happened to Israel 600BC?
+    - [Minute 12:39 to 14:00](https://www.byutv.org/16422ac3-6d09-4933-a0bf-4a9adf5fe2a6/come-follow-up-amos;-obadiah?player-open=true&content-id=16422ac3-6d09-4933-a0bf-4a9adf5fe2a6)
+
 
 ### Theme 2: Caring for Those in Need
+> What does the phrase "Eyes to see" mean to you with regards to charity?  How do we show charity to those around us?
+- [Amos 4:1](https://www.churchofjesuschrist.org/study/scriptures/ot/amos/4?lang=eng&id=p1#p1)
+- [Obadiah 1:15, Golden Rule](https://www.churchofjesuschrist.org/study/scriptures/ot/obad/1?lang=eng&id=p14#p15)
+    - [Minute 21:00 to 22:20](https://www.byutv.org/16422ac3-6d09-4933-a0bf-4a9adf5fe2a6/come-follow-up-amos;-obadiah?player-open=true&content-id=16422ac3-6d09-4933-a0bf-4a9adf5fe2a6)
