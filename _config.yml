@@ -38,9 +38,14 @@ baseurl: "" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
+  skin: dark
+  #  social_links:
+  #    twitter: Ch_JesusChrist
+  #    github: 'jm1021/churchofjesuschrist'
   social_links:
-    twitter: Ch_JesusChrist
-    github: 'jm1021/churchofjesuschrist'
+    - { platform: github, user_url: "https://github.com/jm1021/churchofjesuschrist"}
+    - { platform: twitter, user_url: "https://twitter.com/Ch_JesusChrist"}
+
 
 # Set this to true to get LaTeX math equation support
 use_math: 
