@@ -1,10 +1,10 @@
 ---
 toc: true
 layout: post
-description: 
+description: Whosoever heareth the sound of the trumpet and taketh warning shall deliver their soul.
 categories: [old-testament]
 title: Hosea, Joel, Amos, Obadiah
-image: images/wooden-tablets.jpeg
+image: images/trumpet.jpeg
 ---
 
 
