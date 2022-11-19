@@ -25,9 +25,8 @@ image: images/trumpet.jpeg
 
 ### Theme 2: I Will Pour Out My Spirit
 > How do you call upon the Lord?  Does anyone have an experience where the Lord has poured out his spirit on you?  
-- Come Follow Up
-- [Joel 2:32](https://www.churchofjesuschrist.org/study/scriptures/ot/joel/2?lang=eng&id=p32#p31)
 - [Hosea 6:6](https://www.churchofjesuschrist.org/study/scriptures/ot/hosea/6?lang=eng&id=p6#p5)
+- [Joel 2:32](https://www.churchofjesuschrist.org/study/scriptures/ot/joel/2?lang=eng&id=p32#p31)
     - [Minute 28:07 to 29:00; and 31:40 to 35:40](https://www.byutv.org/b6fa43b2-2adb-4a3c-9bac-6d71b6f2bf8b/come-follow-up-hosea-1%E2%80%936;-10%E2%80%9314;-joel?player-open=true&content-id=b6fa43b2-2adb-4a3c-9bac-6d71b6f2bf8b)
 
 
