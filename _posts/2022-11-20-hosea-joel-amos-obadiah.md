@@ -8,6 +8,8 @@ image: images/wooden-tablets.jpeg
 ---
 
 
+## Lesson Plan
+> As we study the gospel, specifically these books... It can be hard to obtain great insight just by reading.   For me, this was the case.  Thus, I decided to look toward outside resources.  This lesson is based on "Come Follow Up" from the BYU channel.
 ## Part 1 Hosea and Joel
 
 ### Background
