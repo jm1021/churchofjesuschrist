@@ -8,8 +8,15 @@ image: images/trumpet.jpeg
 ---
 
 
-## Introduction
+## Don't Sit on the Bench
 > As we study the gospel, specifically these books... It can be difficult to insight just by reading.   For me, this was the case the last two weeks.  Thus, I decided to look toward outside resources for this lesson.  I found "Come Follow Up" on the BYU channel.  Observe from outline, material, and viewing that these lessons were broken down and ***personalized.***
+- [Come Follow Up Minute 49:53](https://www.byutv.org/16422ac3-6d09-4933-a0bf-4a9adf5fe2a6/come-follow-up-amos;-obadiah?player-open=true&content-id=16422ac3-6d09-4933-a0bf-4a9adf5fe2a6)
+- Amos 5.  Seek ye me, and ye shall live.  
+- This was during lots of bad things.  We all have a story.
+    - I lost a wife to cancer. A new life and new miracles. Patriarchal Blessing miracles.
+    - I was impacted by a layoff.  Changes led to Teaching.
+    - I have a farm.  But, any joy seems to always have an adversity. Pray for Josh.
+
 ## Part 1 Hosea and Joel
 
 ### Background
