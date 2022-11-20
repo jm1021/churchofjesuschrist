@@ -9,7 +9,7 @@ image: images/trumpet.jpeg
 
 
 ## Introduction
-> As we study the gospel, specifically these books... It can be difficult to insight just by reading.   For me, this was the case the last two weeks.  Thus, I decided to look toward outside resources.  This lesson is based on "Come Follow Up" from the BYU channel.
+> As we study the gospel, specifically these books... It can be difficult to insight just by reading.   For me, this was the case the last two weeks.  Thus, I decided to look toward outside resources for this lesson.  I found "Come Follow Up" on the BYU channel.  Observe from outline, material, and viewing that these lessons were broken down and ***personalized.***
 ## Part 1 Hosea and Joel
 
 ### Background
