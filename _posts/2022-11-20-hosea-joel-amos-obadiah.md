@@ -8,8 +8,8 @@ image: images/trumpet.jpeg
 ---
 
 
-## Lesson Plan
-> As we study the gospel, specifically these books... It can be hard to obtain great insight just by reading.   For me, this was the case.  Thus, I decided to look toward outside resources.  This lesson is based on "Come Follow Up" from the BYU channel.
+## Introduction
+> As we study the gospel, specifically these books... It can be difficult to insight just by reading.   For me, this was the case the last two weeks.  Thus, I decided to look toward outside resources.  This lesson is based on "Come Follow Up" from the BYU channel.
 ## Part 1 Hosea and Joel
 
 ### Background
@@ -51,3 +51,14 @@ In the book, Edom, a long-time enemy of Israel, is castigated for its refusal to
 - [Amos 4:1](https://www.churchofjesuschrist.org/study/scriptures/ot/amos/4?lang=eng&id=p1#p1)
 - [Obadiah 1:15, Golden Rule](https://www.churchofjesuschrist.org/study/scriptures/ot/obad/1?lang=eng&id=p14#p15)
     - [Minute 21:00 to 22:20](https://www.byutv.org/16422ac3-6d09-4933-a0bf-4a9adf5fe2a6/come-follow-up-amos;-obadiah?player-open=true&content-id=16422ac3-6d09-4933-a0bf-4a9adf5fe2a6)
+
+
+## Saviors on Mount Zion
+> [Obadiah 1:21](https://www.churchofjesuschrist.org/study/scriptures/ot/obad/1?lang=eng&id=p21#p20)
+   - ***Mount*** is a Holy Place
+   - ***Zion*** is were people of God gather
+   - ***Savior*** is a vicarious sacrifice
+- [Becoming Saviors on Mount Zion](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-41?lang=eng)
+    - “How are they to become saviors on Mount Zion? By building their temples, erecting their baptismal fonts, and going forth and receiving all the ordinances … in behalf of all their progenitors who are dead.”
+
+> 2004 October General Conference closing remarks by ***Gordon B Hinckley*** - Most of our temples could be much busier than they are. In this noisy, bustling, competitive world, what a privilege it is to have a sacred house where we may experience the sanctifying influence of the Spirit of the Lord. The element of selfishness crowds in upon us constantly. We need to overcome it, and there is no better way than to ***go to the house of the Lord and there serve in a vicarious relationship in behalf of those who are beyond the veil of death***. What a remarkable thing this is. In most cases, we do not know those for whom we work. We expect no thanks. We have no assurance that they will accept that which we offer. But we go, and in that process we attain to a state that comes of no other effort. ***We literally become saviors on Mount Zion.**** What does this mean? Just as our Redeemer gave His life as a vicarious sacrifice for all men, and in so doing became our Savior, even so we, in a small measure, <mark>when we engage in proxy work in the temple, become as saviors to those on the other side</mark> ***who have no means of advancing unless something is done in their behalf*** by those on earth.
