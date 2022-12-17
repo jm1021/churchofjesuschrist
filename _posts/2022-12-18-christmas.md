@@ -100,4 +100,4 @@ Isaiah 7:14
 Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name ***Immanuel***.
 
 Isaiah 9:6
-For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called ***Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.***
+For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called ***Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.***  [Choir](https://www.google.com/search?q=Mormon+Tabernacle+Choir+Wonderful%2C+Counsellor%2C+The+mighty+God%2C+The+everlasting+Father%2C+The+Prince+of+Peace&oq=Mormon+Tabernacle+Choir+Wonderful%2C+Counsellor%2C+The+mighty+God%2C+The+everlasting+Father%2C+The+Prince+of+Peace&aqs=chrome..69i57.12106j0j4&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:bee72b4e,vid:FJ9wS2J0GOs)
