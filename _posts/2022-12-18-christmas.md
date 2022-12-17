@@ -87,11 +87,11 @@ Moses 5:5–11
 11 And Eve, his wife, heard all these things and was glad, saying: Were it not for our transgression we never should have had seed, and never should have known good and evil, and the joy of our redemption, and the eternal life which God giveth unto all the obedient.
 
 ## “His name shall be called Wonderful.”
-Moses 7:53
-And the Lord said: Blessed is he through whose seed Messiah shall come; for he saith—***I am Messiah, the King of Zion, the Rock of Heaven***...
-
 Psalms 23:1
 The ***Lord is my shepherd***
+
+Moses 7:53
+And the Lord said: Blessed is he through whose seed Messiah shall come; for he saith—***I am Messiah, the King of Zion, the Rock of Heaven***...
 
 Psalms 83:18
 That men may know that thou, whose name alone is ***Jehovah***, art the most high over all the earth.
