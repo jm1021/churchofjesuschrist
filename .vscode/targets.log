@@ -7,7 +7,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 
 # This program built for i386-apple-darwin11.3.0
 
-# Make data base, printed on Sat Dec 17 07:23:01 2022
+# Make data base, printed on Sat Dec 17 08:35:52 2022
 
 # Variables
 
@@ -199,6 +199,9 @@ bash-nb: .FORCE
 #  File has not been updated.
 
 server-detached: .FORCE
+ 
+make: *** No rule to make target `all'.  Stop.
+
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
@@ -309,13 +312,10 @@ convert: .FORCE
 # No general (`VPATH' variable) search path.
 
 # # of strings in strcache: 1
- 
-make: *** No rule to make target `all'.  Stop.
-
 # # of strcache buffers: 1
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Sat Dec 17 07:23:01 2022
+# Finished Make data base on Sat Dec 17 08:35:52 2022
 
  
