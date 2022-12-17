@@ -24,12 +24,6 @@ image: images/wyeth_nativity_painting.jpeg
 - Family Dinner
 - ...
 
-### Merry Christmas
-> One thing we learn from the Old Testament to New Testament transition is that many are waiting or not sure if there was or has been a Messiah.  How do you say ***Merry Christmas?***  This week I was given a present with a Tree on it and said "Thank You" and "Merry Christmas".   I was called out.  Christmas is known as a joyful season because of the joy that Jesus Christ brings to the world. Even people who don’t worship Jesus as the Son of God can often feel the happiness of Christmas.
-- Return to your groups and talk about how you proclaim "Merry Christmas" with kindness, love, and respect.
-- Talk about experiences or wisdom and words you say to invite and respect the season.
-
-
 ### Transition Old Testament to New Testament 
 > Imagine a time before knowing about a Savior.  Imagine challenges in life and not being able to lean on the Atonement.  In that journey ***people like us would likely be following a Faith and a Hope***.
 
@@ -46,6 +40,12 @@ The Spirit of the Lord God is upon me; because the Lord hath anointed me to prea
 
 Luke 2:7
 And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.
+
+
+### Merry Christmas
+> One thing we learn from the Old Testament to New Testament transition is that many are waiting or not sure if there was or has been a Messiah.  How do you say ***Merry Christmas?***  This week I was given a present with a Tree on it and said "Thank You" and "Merry Christmas".   I was called out.  Christmas is known as a joyful season because of the joy that Jesus Christ brings to the world. Even people who don’t worship Jesus as the Son of God can often feel the happiness of Christmas.
+- Return to your groups and talk about how you proclaim "Merry Christmas" with kindness, love, and respect.
+- Talk about experiences or wisdom and words you say to invite and respect the season.
 
 
 ### Additional Christmas Story readings
