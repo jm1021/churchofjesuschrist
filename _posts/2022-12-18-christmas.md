@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: Whosoever heareth the sound of the trumpet and taketh warning shall deliver their soul.
+description: During this Christmas season, consider how the Old Testament has strengthened your testimony of Jesus Christ throughout the year.
 categories: [new-testament]
 title: Birth of Jesus Christ
 image: images/wyeth_nativity_painting.jpeg
