@@ -76,9 +76,6 @@ Zephaniah 3:14–20;
 19 Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
 20 At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the Lord.
 
-Isaiah 9:6
-For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of iPeace.
-
 ## Hope from our 1st Parents
 Moses 5:5–11
 5 And he gave unto them commandments, that they should worship the Lord their God, and should offer the firstlings of their flocks, for an offering unto the Lord. And Adam was obedient unto the commandments of the Lord.
@@ -88,3 +85,19 @@ Moses 5:5–11
 9 And in that day the Holy Ghost fell upon Adam, which beareth record of the Father and the Son, saying: I am the Only Begotten of the Father from the beginning, henceforth and forever, that as thou hast fallen thou mayest be redeemed, and all mankind, even as many as will.
 10 And in that day Adam blessed God and was filled, and began to prophesy concerning all the families of the earth, saying: Blessed be the name of God, for because of my transgression my eyes are opened, and in this life I shall have joy, and again in the flesh I shall see God.
 11 And Eve, his wife, heard all these things and was glad, saying: Were it not for our transgression we never should have had seed, and never should have known good and evil, and the joy of our redemption, and the eternal life which God giveth unto all the obedient.
+
+## “His name shall be called Wonderful.”
+Moses 7:53
+And the Lord said: Blessed is he through whose seed Messiah shall come; for he saith—***I am Messiah, the King of Zion, the Rock of Heaven***...
+
+Psalms 23:1
+The ***Lord is my shepherd***
+
+Psalms 83:18
+That men may know that thou, whose name alone is ***Jehovah***, art the most high over all the earth.
+
+Isaiah 7:14
+Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name ***Immanuel***.
+
+Isaiah 9:6
+For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called ***Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.***
