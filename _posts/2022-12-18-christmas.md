@@ -52,7 +52,7 @@ And she brought forth her firstborn son, and wrapped him in swaddling clothes, a
 ### How do you say Merry Christmas
 > One thing we learn from the Old Testament to New Testament transition is that many are waiting or not sure if there was or has been a Messiah.  How do you say ***Merry Christmas?***  This week I was given a present with a Tree on it and in response to the gift I said "Thank You" and "Merry Christmas".   I was called out!  Christmas is known as a joyful season because of the joy that Jesus Christ brings to the world. Even people who don’t worship Jesus as the Son of God can often feel the happiness of Christmas.  I received many gifts, few from Christians.
 - Return to your groups and talk about how you proclaim "Merry Christmas" with kindness, love, and respect.
-- Talk about experiences or wisdom and words you say to invite and respect the season.
+- Talk about experiences or wisdom and words you say to invite and respect the person and the season.
 
 
 ### Additional Christmas Story readings
