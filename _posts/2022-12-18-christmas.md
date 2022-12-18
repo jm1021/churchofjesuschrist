@@ -24,11 +24,12 @@ image: images/wyeth_nativity_painting.jpeg
 
 ### Christmas Day Traditions
 > Break off into groups of 1, 2, 4 ponder and discuss traditions on Christmas Day with each other: [Less Conspicuous Gifts](https://www.churchofjesuschrist.org/media/video/2021-12-1010-michelle-d-craig?lang=eng).   Think about how to add admonition from Stake Presidency to your traditions.  Come back and share...
-- Christmas Story
 - Christmas Music
-- Christmas Gifts and Giving
 - Christmas Foods
-- Family Dinner
+- Christmas Decorations
+- Christmas Gifts
+- Christmas Dinner
+- Christmas Story
 - ...
 
 ### Transition Old Testament to New Testament 
