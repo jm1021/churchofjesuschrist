@@ -23,7 +23,7 @@ image: images/wyeth_nativity_painting.jpeg
 > We love you! We wish each of you a wonderful Christmas season, and especially a spiritual and uplifting Christmas Day as each of us draw nearer to the babe born in Bethlehem.
 
 ### Christmas Day Traditions
-> Break off into groups of 1, 2, 4 ponder and discuss traditions on Christmas Day with each other: [Less Conspicuous Gifts](https://www.churchofjesuschrist.org/media/video/2021-12-1010-michelle-d-craig?lang=eng).   Think about how to add admonition from Stake Presidency to your traditions.  Come back and share...
+> Break off into groups of 1, 2, 4 ponder and discuss traditions on Christmas with each other.   Think about how to add admonition from Stake Presidency to your traditions.  Come back and share...
 - Christmas Music
 - Christmas Foods
 - Christmas Decorations
@@ -31,6 +31,8 @@ image: images/wyeth_nativity_painting.jpeg
 - Christmas Dinner
 - Christmas Story
 - ...
+
+> [Less Conspicuous Gifts](https://www.churchofjesuschrist.org/study/broadcasts/christmas-devotional/2021/12-01/11craig?lang=eng)  I am grateful for the matchless gift of His Son—a Son who came to earth as a baby, swaddled by a young mother and laid in a manger. A baby who would learn line upon line and grow grace for grace until He laid down His life as an offering for my sins. For your sins. For the sins of all who have ever lived and will ever live on the earth.
 
 ### Transition Old Testament to New Testament 
 > Imagine a time before knowing about a Savior.  Imagine challenges in life and not being able to lean on the Atonement.  In that journey ***people like us would likely be following a Faith and a Hope***.
