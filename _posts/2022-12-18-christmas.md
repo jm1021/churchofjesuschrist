@@ -23,9 +23,11 @@ image: images/wyeth_nativity_painting.jpeg
 > We love you! We wish each of you a wonderful Christmas season, and especially a spiritual and uplifting Christmas Day as each of us draw nearer to the babe born in Bethlehem.
 
 ### Christmas Day Traditions
-> Break of into groups of 1, 2, 4 and discuss traditions on Christmas Day with each other.   Think about how to add admonition from Stake Presidency to your traditions.  Come back and share...
+> Break off into groups of 1, 2, 4 ponder and discuss traditions on Christmas Day with each other: [Less Conspicuous Gifts](https://www.churchofjesuschrist.org/media/video/2021-12-1010-michelle-d-craig?lang=eng).   Think about how to add admonition from Stake Presidency to your traditions.  Come back and share...
 - Christmas Story
-- Presents
+- Christmas Music
+- Christmas Gifts and Giving
+- Christmas Foods
 - Family Dinner
 - ...
 
