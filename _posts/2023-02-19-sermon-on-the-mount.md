@@ -2,7 +2,7 @@
 layout: post
 description: 
 categories: [new-testament]
-title: “The Spirit of the Lord Is upon Me”
+title: “Blessed Are Ye”
 image: images/sermon_on_the_mount.jpeg
 ---
 
