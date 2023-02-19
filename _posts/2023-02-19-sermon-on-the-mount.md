@@ -7,7 +7,7 @@ image: images/sermon_on_the_mount.jpeg
 ---
 
 ## Introduction [Matthew 5](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=eng); [Luke 6](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/6?lang=eng)
-> Two weeks ago we studied Jesus announcing his mission [Luke 4:18-19](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/4?lang=eng&id=18-19#p17).
+> Two weeks ago we studied Jesus announcing his mission [Luke 4:18-19](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/4?lang=eng&id=18-19#p17).  ***Any insights*** on how Jesus's declaration was filled immediately and how it continues to today?
 - 18 The Spirit of the Lord is upon me, because he hath anointed me to ***preach the gospel to the poor***; he hath sent me to ***heal the brokenhearted***, to preach ***deliverance to the captives***, and recovering of ***sight to the blind***, to set at ***liberty them that are bruised***,
 - 19 To preach the acceptable year of the Lord.
 
@@ -15,7 +15,7 @@ image: images/sermon_on_the_mount.jpeg
 ## Sermon on the Mount
 ### ![img]({{site.baseurl}}/images/spirit_of_the_lord.jpeg)
 
-> Today we congregate to remember the teachings of our Lord.  Documentary of how they gathered, is the Mountain important?
+> Today we congregate to remember the teachings of our Lord.  How did they gather?  Is the Mountain important?
 - [Matthew 5:1](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=eng&id=p1#p1) ... 1 And seeing the multitudes, ***he went up into a mountain: and when he was set, his disciples came unto him***:
 - [Luke 6:12](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/6?lang=eng&id=p12#p12) ... 12 And it came to pass in those days, that ***he went out into a mountain to pray***, and continued all night in prayer to God.[Luke 6:17](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/6?lang=eng&id=p17#p17) ... 17 ¶ ***And he came down with them, and stood in the plain***, and the company of his disciples, ***and a great multitude of people out of all Judæa and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him***, and to be healed of their diseases;
 
@@ -29,7 +29,8 @@ image: images/sermon_on_the_mount.jpeg
 
 > Questions for the classroom
 - Do you know anyone who ***exemplifies a beatitude***?
-- What is ***meek***?
+- What is modern definition of ***meek***?
+- What is modern definition of ***reward***?  [Becky Craven, Happiness $15](https://www.churchofjesuschrist.org/study/general-conference/2019/04/12craven?lang=eng&id=p1#p1)
 - Does anyone have a story of how ***mourning** brought comfort?
 - How do we ***make peace***?
 - Any other ***favorite***?  Is there a ***story behind it***?
@@ -49,7 +50,8 @@ image: images/sermon_on_the_mount.jpeg
 
 
 > Insight and clarification on the Two Great Commandments [Matthew 22:37-39](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/22?lang=eng&id=p37-p39#p37)
-[Matthew 5:43-48](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=eng&id=p43-p48#p43) ... 43 ¶ Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. ... 44 But I say unto you, ***Love your enemies, bless them that curse you***, do good to them that hate you, and pray for them which despitefully use you, and persecute you; ... 45 That ye may be the children of your Father which is in heaven: for ***he maketh his sun to rise on the evil and on the good***, and sendeth rain on the just and on the unjust. ... ... 48 ***Be ye therefore perfect, even as your Father which is in heaven is perfect***.
+- [Matthew 5:43-48](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=eng&id=p43-p48#p43) ... 43 ¶ Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. ... 44 But I say unto you, ***Love your enemies, bless them that curse you***, do good to them that hate you, and pray for them which despitefully use you, and persecute you; ... 45 That ye may be the children of your Father which is in heaven: for ***he maketh his sun to rise on the evil and on the good***, and sendeth rain on the just and on the unjust. ... ... 48 ***Be ye therefore perfect, even as your Father which is in heaven is perfect***.
+- [President Nelson, Perfection Pending](https://www.churchofjesuschrist.org/study/general-conference/1995/10/perfection-pending?lang=eng&id=p15-p16#p15)  In Matthew 5:48, the term perfect was translated from the ***Greek teleios***, which means "complete." Teleios is an adjective derived from the noun telos, which means "end." The infinitive form of the verb is teleiono, which means ***"to reach a distant end, to be fully developed, to consummate, or to finish."***  Please note that ***the word does not imply "freedom from error"***; it implies "achieving a distant objective." In fact, when writers of the Greek New Testament wished to describe perfection of behavior—precision or excellence of human effort—they did not employ a form of teleios; instead, they chose different words. ... Teleios is not a total stranger to us. From it comes the prefix tele that we use every day. Telephone literally means ***"distant talk."*** Television means ***"to see distantly."*** Telephoto means ***"distant light,"*** and so on.
 
 
 ## Preparing for the Miracle of feed 5000 
