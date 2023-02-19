@@ -7,7 +7,7 @@ image: images/sermon_on_the_mount.jpeg
 ---
 
 ## Introduction [Matthew 5](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=eng); [Luke 6](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/6?lang=eng)
-> Two weeks ago we heard Jesus announce his mission [Luke 4:18-19](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/4?lang=eng&id=18-19#p17).
+> Two weeks ago we studied Jesus announcing his mission [Luke 4:18-19](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/4?lang=eng&id=18-19#p17).
 - 18 The Spirit of the Lord is upon me, because he hath anointed me to ***preach the gospel to the poor***; he hath sent me to ***heal the brokenhearted***, to preach ***deliverance to the captives***, and recovering of ***sight to the blind***, to set at ***liberty them that are bruised***,
 - 19 To preach the acceptable year of the Lord.
 
