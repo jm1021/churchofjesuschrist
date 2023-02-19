@@ -53,3 +53,26 @@ image: images/sermon_on_the_mount.jpeg
 > It is not often as we are studying the scripture that in parallel there is a mini series that is corresponding to our reading.  
 - [John 6:5-11](https://www.churchofjesuschrist.org/study/scriptures/nt/john/6?lang=eng&id=p5-p11#p5) ... 5 ¶ When Jesus then lifted up his eyes, and saw a great company come unto him, he saith unto Philip, Whence shall we buy bread, that these may eat? ... 6 And this he said to prove him: for he himself knew what he would do. ... 7 Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little. ... 8 One of his disciples, Andrew, Simon Peter’s brother, saith unto him, ... 9 There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many? ... 10 And Jesus said, Make the men sit down. Now there was much grass in the place. So the men sat down, in number about five thousand. ... 11 And Jesus took the loaves; and when he had given thanks, he distributed to the disciples,
 - [4 minutes 45 seconds from The Chosen](https://www.byutv.org/b62ec94e-20f7-4286-a412-60372615f553/the-chosen-sustenance?player-open=true&content-id=b62ec94e-20f7-4286-a412-60372615f553). Starting at 43:15.
+
+> Historical information on Feeding 5000.  This is the question I asked ChatGPT, ***"where did jesus feed 5000?***" ...
+- According to the Christian Bible, Jesus fed 5000 people with just five loaves of bread and two fish in a miracle known as the feeding of the 5000. ***The location of this event is mentioned in all four of the Gospels (Matthew 14:13-21, Mark 6:31-44, Luke 9:10-17, and John 6:1-15)***.
+- Although the exact location is not specified in the Bible, it is said to have taken place ***near the Sea of Galilee, in the vicinity of Bethsaida (John 6:1)*** which was a fishing village on the northern shore of the sea. Some biblical scholars suggest that the location may have been on the eastern side of the Sea of Galilee, near the town of Hippos.
+
+> Next question to ChatGPT ... ***"was this during the Sermon on the Mount?"***
+- ***No, the feeding of the 5000 is not considered to be part of the Sermon on the Mount***. The Sermon on the Mount is a teaching of Jesus that is recorded in the Gospel of Matthew, chapters 5 to 7. It includes the Beatitudes, teachings on various aspects of morality, and the Lord's Prayer.
+- The feeding of the 5000, on the other hand, is ***a miracle that is recorded in all four of the Gospels*** (Matthew 14:13-21, Mark 6:31-44, Luke 9:10-17, and John 6:1-15). It is an event where Jesus miraculously multiplied a few loaves of bread and fish to feed a large crowd of people who had gathered to hear him teach. It took place in a different location from the Sermon on the Mount, ***near the Sea of Galilee.***
+
+> Additional question to ChatGPT ... ***"where was sermon on the mount"***
+- The Sermon on the Mount is a famous sermon given by Jesus Christ that is recorded in the Gospel of Matthew, chapters 5 to 7. While the exact location of the sermon is not mentioned in the Bible, it is generally believed that ***it was given on a hillside near the Sea of Galilee, in the vicinity of Capernaum***, which was a town on the northern shore of the sea.
+- ***Capernaum*** was an important location in the ministry of Jesus, and it is mentioned several times in the Gospels as ***a place where Jesus performed miracles and taught his disciples***. It was also the ***hometown of Peter***, one of Jesus' disciples. While the exact location of the Sermon on the Mount is not known for certain, many biblical scholars believe that it was likely given on a hillside near Capernaum, overlooking the Sea of Galilee.
+
+> Final question to ChatGPT ... ***"what is the distance between Bethsaida and Capernaum"***
+- The distance between Bethsaida and Capernaum is believed to be ***about 4 miles (6.4 kilometers)*** based on historical records and archaeological findings. ***Both Bethsaida and Capernaum were located on the northern shore of the Sea of Galilee***, and they were both important towns during the time of Jesus' ministry. According to the Bible, ***Jesus spent a considerable amount of time in both towns***, performing miracles and teaching the people.
+
+
+
+
+
+
+
+
