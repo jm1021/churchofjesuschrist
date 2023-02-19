@@ -57,11 +57,15 @@ image: images/sermon_on_the_mount.jpeg
 - [Moroni 10:32-33](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p32-p33#p31) teaches “***Come unto Christ***, and be perfected in him, and deny yourselves of all ungodliness; … love God with all your might, mind and strength … [Then] ***ye may be perfect in Christ***, … holy, [and] without spot.”
 
 ## Preparing for the Miracle of feed 5000 
-> It is not often as we are studying the scripture that in parallel there is a mini series that is corresponding to our reading.  I would like to add the miracle of 5000 to our study for today.
+> It is not often, that as we are studying the New Testament a new mini series is releasing episodes that correspond to our reading.  Additionally, media is complemented with technology that can increase our study and insight into events of the New Testament.  I would like to state that the miracle of feeding 5 loaves and 2 fishes to 5000 is enhanced by the producers of this series and the ChatGPT tool.  
 - [John 6:5-11](https://www.churchofjesuschrist.org/study/scriptures/nt/john/6?lang=eng&id=p5-p11#p5) ... 5 ¶ When Jesus then lifted up his eyes, and saw a great company come unto him, he saith unto Philip, Whence shall we buy bread, that these may eat? ... 6 And this he said to prove him: for he himself knew what he would do. ... 7 Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little. ... 8 One of his disciples, Andrew, Simon Peter’s brother, saith unto him, ... 9 ***There is a lad here, which hath five barley loaves, and two small fishes***: but what are they among so many? ... 10 And Jesus said, Make the men sit down. Now there was much grass in the place. So the men sat down, in number about five thousand. ... 11 ***And Jesus took the loaves; and when he had given thanks, he distributed to the disciples***
+
+### Depiction of Teaching and Feeding 5000
+> The mini series depicts John 6.  
 - [4 minutes 45 seconds from The Chosen](https://www.byutv.org/b62ec94e-20f7-4286-a412-60372615f553/the-chosen-sustenance?player-open=true&content-id=b62ec94e-20f7-4286-a412-60372615f553). Starting at 43:15.
 
-> Historical information on Feeding 5000.  This is the question I asked ChatGPT, ***"where did jesus feed 5000?***" ...
+### ChatGPT session question events and relations
+> Historical information on Feeding 5000 vs Sermon on the Mount.  This is the question I asked ChatGPT, ***"where did jesus feed 5000?***" ...
 - According to the Christian Bible, Jesus fed 5000 people with just five loaves of bread and two fish in a miracle known as the feeding of the 5000. ***The location of this event is mentioned in all four of the Gospels (Matthew 14:13-21, Mark 6:31-44, Luke 9:10-17, and John 6:1-15)***.
 - Although the exact location is not specified in the Bible, it is said to have taken place ***near the Sea of Galilee, in the vicinity of Bethsaida (John 6:1)*** which was a fishing village on the northern shore of the sea. Some biblical scholars suggest that the location may have been on the eastern side of the Sea of Galilee, near the town of Hippos.
 
@@ -73,21 +77,10 @@ image: images/sermon_on_the_mount.jpeg
 - The Sermon on the Mount is a famous sermon given by Jesus Christ that is recorded in the Gospel of Matthew, chapters 5 to 7. While the exact location of the sermon is not mentioned in the Bible, it is generally believed that ***it was given on a hillside near the Sea of Galilee, in the vicinity of Capernaum***, which was a town on the northern shore of the sea.
 - ***Capernaum*** was an important location in the ministry of Jesus, and it is mentioned several times in the Gospels as ***a place where Jesus performed miracles and taught his disciples***. It was also the ***hometown of Peter***, one of Jesus' disciples. While the exact location of the Sermon on the Mount is not known for certain, many biblical scholars believe that it was likely given on a hillside near Capernaum, overlooking the Sea of Galilee.
 
-> Distance question to ChatGPT ... ***"what is the distance between Bethsaida and Capernaum"***
+> A distance question to ChatGPT ... ***"what is the distance between Bethsaida and Capernaum"***
 - The distance between Bethsaida and Capernaum is believed to be ***about 4 miles (6.4 kilometers)*** based on historical records and archaeological findings. ***Both Bethsaida and Capernaum were located on the northern shore of the Sea of Galilee***, and they were both important towns during the time of Jesus' ministry. According to the Bible, ***Jesus spent a considerable amount of time in both towns***, performing miracles and teaching the people.
 
 > Background question on the lad to ChatGPT ...***"any additional information on the lad who had 5 loaves and 2 fishes?"***
 - The story of ***the lad who had five loaves and two fishes is recorded in all four of the Gospels*** (Matthew 14:13-21, Mark 6:31-44, Luke 9:10-17, and John 6:1-15). According to the Bible, a large crowd of people had gathered to hear Jesus teach, and they had been following him for some time. As the day wore on, the people grew hungry, and Jesus' disciples suggested that he send them away to buy food.
 - However, Jesus instructed his disciples to feed the people themselves, and they replied that they only had five loaves of bread and two fishes, which they had obtained from a young boy. ******Jesus then took the bread and fishes, blessed them***, and began to distribute them among the crowd. Amazingly, everyone was able to eat their fill, and there were even twelve baskets of leftovers.
 - ***The story of the lad who had five loaves and two fishes is often seen as a symbol of the power of faith and the generosity of spirit. Despite having very little, the young boy was willing to share his food with others, and this act of kindness ultimately led to one of the most famous miracles of Jesus' ministry.***
-
-
-
-
-
-
-
-
-
-
-
