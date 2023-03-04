@@ -10,7 +10,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target `all'.  Stop.
 
 
-# Make data base, printed on Fri Mar  3 22:36:50 2023
+# Make data base, printed on Sat Mar  4 14:10:36 2023
 
 # Variables
 
@@ -18,8 +18,6 @@ make: *** No rule to make target `all'.  Stop.
 <D = $(patsubst %/,%,$(dir $<))
 # automatic
 ?F = $(notdir $?)
-# environment
-ELECTRON_NO_ATTACH_CONSOLE = 1
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # automatic
@@ -33,13 +31,14 @@ SHELL = /bin/sh
 # environment
 VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
 # environment
+ 
 _ = /usr/bin/make
 # makefile (from `Makefile', line 1)
 MAKEFILE_LIST :=  Makefile
 # environment
 __CFBundleIdentifier = com.microsoft.VSCode
 # environment
-VSCODE_CWD = /Users/johnmortensen/vscode
+VSCODE_CWD = /
 # environment
 PATH = /opt/local/bin:/opt/local/sbin:/Users/johnmortensen/opt/anaconda3/bin:/Users/johnmortensen/opt/anaconda3/condabin:/Users/johnmortensen/.nix-profile/bin:/nix/var/nix/profiles/default/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands
 # environment
@@ -67,8 +66,6 @@ HOME = /Users/johnmortensen
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
-VSCODE_CLI = 1
-# environment
 VSCODE_CODE_CACHE_PATH = /Users/johnmortensen/Library/Application Support/Code/CachedData/441438abd1ac652551dbe4d408dfcec8a499b8bf
 # environment
 LOGNAME = johnmortensen
@@ -89,7 +86,7 @@ MAKE = $(MAKE_COMMAND)
 # default
 MAKECMDGOALS := all
 # environment
-SHLVL = 3
+SHLVL = 2
 # environment
 NIX_PROFILES = /nix/var/nix/profiles/default /Users/johnmortensen/.nix-profile
 # default
@@ -98,16 +95,12 @@ MAKE_VERSION := 3.81
 USER = johnmortensen
 # makefile
 .DEFAULT_GOAL := help
-# environment
-TERM_SESSION_ID = 240FD9EC-9460-422C-8D27-6A84B88F0A0C
 # automatic
 %D = $(patsubst %/,%,$(dir $%))
 # environment
 CONDA_SHLVL = 1
 # default
 MAKE_COMMAND := /Library/Developer/CommandLineTools/usr/bin/make
-# environment
-TERM_PROGRAM = Apple_Terminal
 # default
 .VARIABLES := 
 # environment
@@ -125,9 +118,7 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-TERM_PROGRAM_VERSION = 447
-# environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.383378786.383378792.606A9DA6-CD0E-46DA-A51F-5CCDE78F03C4
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.383378786.383378792
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
 # automatic
@@ -157,13 +148,11 @@ MAKELEVEL := 0
 # environment
 CONDA_PREFIX = /Users/johnmortensen/opt/anaconda3
 # environment
-TERM = xterm-256color
-# environment
 VSCODE_PID = 442
 # environment
 LANG = C
 # variable set hash-table stats:
-# Load=74/1024=7%, Rehash=0, Collisions=2/98=2%
+# Load=68/1024=7%, Rehash=0, Collisions=2/92=2%
 
 # Pattern-specific Variable Values
 
@@ -171,9 +160,9 @@ LANG = C
 
 # Directories
 
-# . (device 16777220, inode 380056302): 28 files, no impossibilities.
+# . (device 16777220, inode 380056302): 31 files, no impossibilities.
 
-# 28 files, no impossibilities in 1 directories.
+# 31 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -191,6 +180,7 @@ stop: .FORCE
 	
 
 # Not a target:
+ 
 all:
 #  Command-line target.
 #  Implicit rule search has been done.
@@ -228,7 +218,6 @@ Makefile:
 #  Last modified 2023-02-05 07:28:08
 #  File has been updated.
 #  Successfully updated.
- 
 # variable set hash-table stats:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
 
@@ -329,6 +318,6 @@ convert: .FORCE
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Fri Mar  3 22:36:50 2023
+# Finished Make data base on Sat Mar  4 14:10:36 2023
 
  
