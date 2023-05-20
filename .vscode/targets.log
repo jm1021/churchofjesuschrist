@@ -10,7 +10,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target `all'.  Stop.
 
 
-# Make data base, printed on Sun May  7 09:31:40 2023
+# Make data base, printed on Sat May 20 05:26:06 2023
 
 # Variables
 
@@ -27,7 +27,6 @@ VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
 # automatic
 @F = $(notdir $@)
 # makefile
- 
 CURDIR := /Users/johnmortensen/vscode/churchofjesuschrist
 # makefile
 SHELL = /bin/sh
@@ -44,13 +43,12 @@ VSCODE_CWD = /
 # environment
 PATH = /opt/local/bin:/opt/local/sbin:/Users/johnmortensen/opt/anaconda3/bin:/Users/johnmortensen/opt/anaconda3/condabin:/Users/johnmortensen/.nix-profile/bin:/nix/var/nix/profiles/default/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
 # environment
-LaunchInstanceID = E0D91D0A-4854-40E9-B412-E04919249827
-# environment
 ELECTRON_RUN_AS_NODE = 1
+ 
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.XBUfXEVlEa/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.9I2pdCfihE/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -70,7 +68,7 @@ HOME = /Users/johnmortensen
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/johnmortensen/Library/Application Support/Code/CachedData/704ed70d4fd1c6bd6342c436f1ede30d1cff4710
+VSCODE_CODE_CACHE_PATH = /Users/johnmortensen/Library/Application Support/Code/CachedData/b3e4e68a0bc097f0ae7907b217c1119af9e03435
 # environment
 LOGNAME = johnmortensen
 # environment
@@ -112,7 +110,7 @@ TMPDIR = /var/folders/_n/7k1b0n557ng0fkmw74pd5cx00000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/johnmortensen/Library/Application Support/Code/1.77-main.sock
+VSCODE_IPC_HOOK = /Users/johnmortensen/Library/Application Support/Code/1.78-main.sock
 # environment
 MallocNanoZone = 0
 # makefile
@@ -122,7 +120,7 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.400845900.400845906
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.409208485.409208491
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
 # environment
@@ -141,8 +139,6 @@ MAKEFILES :=
 LC_ALL = C
 # environment
 CONDA_PYTHON_EXE = /Users/johnmortensen/opt/anaconda3/bin/python
-# environment
-SECURITYSESSIONID = 186a6
 # automatic
 ^F = $(notdir $^)
 # default
@@ -154,11 +150,11 @@ MAKELEVEL := 0
 # environment
 CONDA_PREFIX = /Users/johnmortensen/opt/anaconda3
 # environment
-VSCODE_PID = 485
+VSCODE_PID = 54386
 # environment
 LANG = C
 # variable set hash-table stats:
-# Load=71/1024=7%, Rehash=0, Collisions=2/95=2%
+# Load=69/1024=7%, Rehash=0, Collisions=2/93=2%
 
 # Pattern-specific Variable Values
 
@@ -188,6 +184,7 @@ stop: .FORCE
 # Not a target:
 all:
 #  Command-line target.
+ 
 #  Implicit rule search has been done.
 #  File does not exist.
 #  File has not been updated.
@@ -273,7 +270,6 @@ restart-jekyll: .FORCE
 	
 
 help:
- 
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
@@ -324,6 +320,6 @@ convert: .FORCE
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Sun May  7 09:31:40 2023
+# Finished Make data base on Sat May 20 05:26:06 2023
 
  
