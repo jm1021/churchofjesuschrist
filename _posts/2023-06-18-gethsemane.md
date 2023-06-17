@@ -78,3 +78,15 @@ Gethsemane was a garden of olive trees and included an olive press, used to crus
 - To remember Him how to we exhibit agency... "Baptism", "Temple", "Sacrament", "High Adventures", "Family Scriptures", "Service", "Prayer", "Repentance".
 
 - Healing and Love, how do you describe God's Love...  "Unconditional", "Infinite", "Eternal", "Redeming", "Everlasting", "Purifying", "Liberating"
+
+--- ummer Transition, thoughts from a High School Teacher
+
+Every year as a Teacher we go through the process of renewing.
+
+- We begin the year in Fall with a new set of faces. We spend 36 weeks in instruction, learning, and a process of assesment, until we reach completion and accredidation.
+
+- The year ends, structure turns to unstructured and reflection.  A lot was gained, but as it is over there seems to be borth forlorn and joy.
+
+- Short term plans are made that include escape, time with family, and reassesment.   What is working well?  What could be improved?
+
+- Retooled, renewed again the Teacher embarks on a new journey with a new set of faces.  Each that needs many of the lessons from before, but with reflected improvemets by the Teacher and adjustments made because of the era, time, and technology.
