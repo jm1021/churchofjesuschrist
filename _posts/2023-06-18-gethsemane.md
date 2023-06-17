@@ -68,3 +68,13 @@ Doctrine and Covenants 19:16 For behold, I, God, have suffered these things for 
 Moronii 10:32 Yea, come unto Christ, and be perfected in him, and deny yourselves of all ungodliness; and if ye shall deny yourselves of all ungodliness, and love God with all your might, mind and strength, then is his grace sufficient for you, that by his grace ye may be perfect in Christ; and if by the grace of God ye are perfect in Christ, ye can in nowise deny the power of God.
 
 33 And again, if ye by the grace of God are perfect in Christ, and deny not his power, then are ye sanctified in Christ by the grace of God, through the shedding of the blood of Christ, which is in the covenant of the Father unto the remission of your sins, that ye become holy, without spot.
+
+--- Analogy of Olives
+
+Gethsemane was a garden of olive trees and included an olive press, used to crush olives and extract oil used for lighting and food as well as healing.
+
+- As I had an ear acke last week my wife suggested drops of Olive Oil.  What are some of the pains that need the drops of healing from the Atonement... "Adversity", "Sickness", "Death", "Mental Anxieties", "Pain", "Unemployment", "Disabilites", "Adiction".
+
+- To remember Him how to we exhibit agency... "Baptism", "Temple", "Sacrament", "High Adventures", "Family Scriptures", "Service", "Prayer", "Repentance".
+
+- Healing and Love, how do you describe God's Love...  "Unconditional", "Infinite", "Eternal", "Redeming", "Everlasting", "Purifying", "Liberating"
