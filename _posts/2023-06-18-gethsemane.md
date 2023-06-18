@@ -80,10 +80,11 @@ Gethsemane was a garden of olive trees and included an olive press, used to crus
 
 - Healing and Love, how do you describe God's Love...  "Unconditional", "Infinite", "Eternal", "Redeming", "Everlasting", "Purifying", "Liberating"
 
-### The Holy Ghost helps me fulfill my purpose as a disciple of Jesus Christ.
-Jesus taught the disciples about the Holy Ghost. What do you know about the Holy Ghost now?  [Recognizing the Holly Ghost](https://youtu.be/8YlzWPPiH4A?t=162)
+### The Savior sent the Holy Ghost helps me fulfill my purpose as a disciple of Jesus Christ.
+The Comforter helps us fulfill our purpose as disciples of Jesus Christ.  Jesus taught the disciples about the Holy Ghost.
 
 #### Jesus taught about the Comforter Coming
+[Recognizing the Spirit](https://youtu.be/8YlzWPPiH4A?t=162). 
 
 John 14:16 <b>And I will pray the Father, and he shall give you another Comforter</b>, that he may abide with you for ever;
 
@@ -96,9 +97,19 @@ John 16:7 Nevertheless I tell you the truth; It is expedient for you that I go a
 3 Nephi 19:9 And they did pray for that which they most desired; and <b>they desired that the Holy Ghost should be given unto them.</b>
 
 #### How do we use the Comforter
-
 Doctrine and Covenants 11:12 And now, verily, verily, I say unto thee, put your trust in that Spirit which leadeth to do good—yea, to do justly, to walk humbly, to judge righteously; and this is my Spirit.
 
 13 Verily, verily, I say unto you, I will impart unto you of my Spirit, which shall enlighten your mind, which shall fill your soul with joy;
 
 14 And then shall ye know, or by this shall you know, all things whatsoever you desire of me, which are pertaining unto things of righteousness, in faith believing in me that you shall receive.
+
+#### Holy Ghost vs Light of Christ
+[Boyd K Packer in 2005](https://www.churchofjesuschrist.org/study/ensign/2005/04/the-light-of-christ?lang=eng)
+
+Most members of the Church know “the Holy Ghost … is a personage of Spirit” [D&C 130:22](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=eng&id=22#p22) and a member of the Godhead [see A of F 1:1](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=1#p1).
+
+But many do not know that there is another Spirit “the light of Christ” [D&C 88:7](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=eng&id=7#p7)—another source of inspiration, which each of us possesses in common with all other members of the human family. If we know about the Light of Christ, we will understand that there is something inside all of us, and we can appeal to that in our desire to share truth.
+
+The Light of Christ is defined in the scriptures as “the Spirit which giveth light to every man that cometh into the world” [D&C 84:46](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng&id=46#p46); “the light which is in all things, which giveth life to all things, which is the law by which all things are governed”
+
+Moroni 7:16 For behold, the Spirit of Christ is given to every man, that he may know good from evil; wherefore, I show unto you the way to judge; for every thing which inviteth to do good, and to persuade to believe in Christ, is sent forth by the power and gift of Christ; wherefore ye may know with a perfect knowledge it is of God.
