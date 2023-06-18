@@ -19,7 +19,7 @@ As is evidenced in Peter’s reply and the Savior’s instruction, a testimony i
 
 - Carl Moberly and the words of his brother and children really emphatically stated "strengthen thy brethern", or in his case his family.
 
-- Today, my strength is giving tech to others.  However, I feel I pale in comparison to many of you who give and impart of the spirit.
+- Today, my strength, is giving tech to others.  However, I feel I pale in comparison to the many of you who give and impart the gifts of the spirit.
 
 ### The Savior suffered for me in Gethsemane.
 The Olive Garden is a contrast in the terrain of Jeruselem.  Review the picture above.  Read these few words that we have in Luke.  Only three living people knew of this event at the time.
