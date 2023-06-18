@@ -80,3 +80,25 @@ Gethsemane was a garden of olive trees and included an olive press, used to crus
 
 - Healing and Love, how do you describe God's Love...  "Unconditional", "Infinite", "Eternal", "Redeming", "Everlasting", "Purifying", "Liberating"
 
+### The Holy Ghost helps me fulfill my purpose as a disciple of Jesus Christ.
+Jesus taught the disciples about the Holy Ghost. What do you know about the Holy Ghost now?  [Recognizing the Holly Ghost](https://youtu.be/8YlzWPPiH4A?t=162)
+
+#### Jesus taught about the Comforter Coming
+
+John 14:16 <b>And I will pray the Father, and he shall give you another Comforter</b>, that he may abide with you for ever;
+
+17 Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
+
+26 But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.
+
+John 16:7 Nevertheless I tell you the truth; It is expedient for you that I go away: <b>for if I go not away, the Comforter will not come unto you</b>; but if I depart, I will send him unto you.
+
+3 Nephi 19:9 And they did pray for that which they most desired; and <b>they desired that the Holy Ghost should be given unto them.</b>
+
+#### How do we use the Comforter
+
+Doctrine and Covenants 11:12 And now, verily, verily, I say unto thee, put your trust in that Spirit which leadeth to do good—yea, to do justly, to walk humbly, to judge righteously; and this is my Spirit.
+
+13 Verily, verily, I say unto you, I will impart unto you of my Spirit, which shall enlighten your mind, which shall fill your soul with joy;
+
+14 And then shall ye know, or by this shall you know, all things whatsoever you desire of me, which are pertaining unto things of righteousness, in faith believing in me that you shall receive.
