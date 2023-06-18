@@ -74,7 +74,7 @@ Moronii 10:32 Yea, come unto Christ, and be perfected in him, and deny yourselve
 
 Gethsemane was a garden of olive trees and included an olive press, used to crush olives and extract oil used for lighting and food as well as healing.
 
-- As I had an ear acke last week my wife suggested drops of Olive Oil.  What are some of the pains that need the drops of healing from the Atonement... "Adversity", "Sickness", "Death", "Mental Anxieties", "Pain", "Unemployment", "Disabilites", "Adiction".
+- As I had an ear acke last week my wife suggested drops of Olive Oil.  What are some of the pains that need the drops of healing from the Atonement... "Adversity", "Sickness", "Death", "Mental Anxieties", "Pain", "Unemployment", "Disabilites", "Addiction".
 
 - To remember Him how to we exhibit agency... "Baptism", "Temple", "Sacrament", "High Adventures", "Family Scriptures", "Service", "Prayer", "Repentance".
 
