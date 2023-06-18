@@ -1,5 +1,6 @@
 ---
 toc: true
+comments: true
 layout: post
 description: In that garden and later on the cross, Jesus took upon Himself the sins, pains, and sufferings of every person who ever lived.
 title: Not My Will, but Thine, Be Done
@@ -25,7 +26,7 @@ The Olive Garden is a contrast in the terrain of Jeruselem.  Review the picture 
 
 But, thanks to the restoration we have so much more.
 
---- Garden of Gethsemane to the Cross are the Sacrifice
+#### Garden of Gethsemane to the Cross are the Sacrifice
 
 Luke 22:41 And he was withdrawn from them about a stone’s cast, and kneeled down, and prayed,
 
@@ -35,17 +36,17 @@ Luke 22:41 And he was withdrawn from them about a stone’s cast, and kneeled do
 
 44 And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.
 
---- The Plan of Salvation, Agency, Redemtion
+#### The Plan of Salvation, Agency, Redemption
 
 2 Nephi 2:25 Adam fell that men might be; and men are, that they might have joy.
 
 26 And the Messiah cometh in the fulness of time, that he may redeem the children of men from the fall. And because that they are redeemed from the fall they have become free forever, knowing good from evil; to act for themselves and not to be acted upon, save it be by the punishment of the law at the great and last day, according to the commandments which God hath given.
 
---- Faith, Repentance bring Redemption
+#### Faith, Repentance bring Redemption
 
 Alma 34:16 And thus mercy can satisfy the demands of justice, and encircles them in the arms of safety, while he that exercises no faith unto repentance is exposed to the whole law of the demands of justice; therefore only unto him that has faith unto repentance is brought about the great and eternal plan of redemption.
 
---- Justice and Mercy
+#### Justice and Mercy
 
 Alma 42:14 And thus we see that all mankind were fallen, and they were in the grasp of justice; yea, the justice of God, which consigned them forever to be cut off from his presence.
 
@@ -53,7 +54,7 @@ Alma 42:14 And thus we see that all mankind were fallen, and they were in the gr
 
 26 And thus God bringeth about his great and eternal purposes, which were prepared from the foundation of the world. And thus cometh about the salvation and the redemption of men, and also their destruction and misery.
 
---- Christ soffered for us
+#### Christ suffered for us
 
 Doctrine and Covenants 19:16 For behold, I, God, have suffered these things for all, that they might not suffer if they would repent;
 
@@ -63,13 +64,13 @@ Doctrine and Covenants 19:16 For behold, I, God, have suffered these things for 
 
 19 Nevertheless, glory be to the Father, and I partook and finished my preparations unto the children of men.
 
---- Joy of Sanctification
+#### Joy of Sanctification
 
 Moronii 10:32 Yea, come unto Christ, and be perfected in him, and deny yourselves of all ungodliness; and if ye shall deny yourselves of all ungodliness, and love God with all your might, mind and strength, then is his grace sufficient for you, that by his grace ye may be perfect in Christ; and if by the grace of God ye are perfect in Christ, ye can in nowise deny the power of God.
 
 33 And again, if ye by the grace of God are perfect in Christ, and deny not his power, then are ye sanctified in Christ by the grace of God, through the shedding of the blood of Christ, which is in the covenant of the Father unto the remission of your sins, that ye become holy, without spot.
 
---- Analogy of Olives
+#### Analogy of Olives
 
 Gethsemane was a garden of olive trees and included an olive press, used to crush olives and extract oil used for lighting and food as well as healing.
 
@@ -79,7 +80,7 @@ Gethsemane was a garden of olive trees and included an olive press, used to crus
 
 - Healing and Love, how do you describe God's Love...  "Unconditional", "Infinite", "Eternal", "Redeming", "Everlasting", "Purifying", "Liberating"
 
---- ummer Transition, thoughts from a High School Teacher
+#### Summer Transition, thoughts from a High School Teacher
 
 Every year as a Teacher we go through the process of renewing.
 
