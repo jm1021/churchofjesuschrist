@@ -15,7 +15,7 @@ When thou art converted, strengthen thy brethren.  David Bednar, spoke of "the r
 [Mathew](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/16.15-17?lang=eng#p15)
 “And Jesus answered and said unto him, Blessed art thou, Simon Bar-jona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven” (Matthew 16:15–17).
 
-As is evidenced in Peter’s reply and the Savior’s instruction, a testimony is personal knowledge of spiritual truth obtained by revelation. A testimony is a gift from God and is available to all of His children. 
+As is evidenced in Peter’s reply and the Savior’s instruction, a testimony is personal knowledge of spiritual truth obtained by revelation. <b>A testimony is a gift from God and is available to all of His children</b>. 
 
 - Carl Moberly and the words of his brother and children really emphatically stated "strengthen thy brethern", or in his case his family.
 
