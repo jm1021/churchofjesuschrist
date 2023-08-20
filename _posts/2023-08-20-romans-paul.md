@@ -77,4 +77,11 @@ Is this a contract?  What does heir mean?  Does this make you feel great?
 [Romans 8:17](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=eng&id=p17#p17)
 And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
 
+### Understanding Grace
+Why is it so important to gain an understanding about
+grace?
+- Appreciate and take full advantage of the atonement of Jesus Christ.  Become Sons and Daughters of God.
+- Gain enabling relationships with God the Father and His Son.  Because of Jesus’ atonement, a charis relationship enables us to become like Heavenly Father. Become joint-errors with Jesus.
+- Gain more spiritual gifts and blessings as we receive the gifts God has already given.
+
 
