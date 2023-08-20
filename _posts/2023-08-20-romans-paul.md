@@ -62,7 +62,7 @@ How do you live by the spirit?  My spiritual life is enhanced by my time in my C
 Is there a formula?  Or is it a birthright?
 
 [Romans 8:14](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=eng&id=p14#p14)
-For as many as are led by the Spirit of God, <mark>they are the [sons of God](https://www.churchofjesuschrist.org/study/scriptures/tg/sons-and-daughters-of-god?lang=eng)</mark>.
+For as many as are led by the Spirit of God, they are the [sons and daughters of God](https://www.churchofjesuschrist.org/study/scriptures/tg/sons-and-daughters-of-god?lang=eng)
 
 ```
 Repent and be baptized, and have your sins remitted,
