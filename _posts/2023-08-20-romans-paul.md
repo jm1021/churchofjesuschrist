@@ -85,22 +85,22 @@ grace?  David Lang forwarded me and article.
 - <mark>Faith, Reciprocal Relationship</mark>. Gain more spiritual gifts and blessings as we receive the gifts God has already given. Anciently, all gifts are reciprocal, covenantal and establish relationships.
 
 
-Faith. [Romans 9:32](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/9?lang=eng&id=p32#p32) 
+Faith, enabling power for grace. [Romans 9:32](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/9?lang=eng&id=p32#p32) 
 Wherefore? Because <mark>they sought it not by faith</mark>, but as it were by the works of the law. For they stumbled at that stumblingstone;
 
-Repentance/Confess. [Romans 10:9](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/10?lang=eng&id=p9#p9)
+Repentance/Confess, proclaim Jesus. [Romans 10:9](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/10?lang=eng&id=p9#p9)
 That if <mark>thou shalt confess with thy mouth the Lord Jesus</mark>, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.
 
-Baptism.  [Romans 6:4-5](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/6?lang=eng&id=p4-p5#p4)
+Baptism, a new life.  [Romans 6:4-5](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/6?lang=eng&id=p4-p5#p4)
 4 Therefore we are <mark>buried with him by baptism</mark> into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should <mark>walk in newness of life<mark>. 5 For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:
 
-Spirit. [Romans 8:8-10](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=eng&id=p8-p10#p8)
+Spirit, the gift of righteous acts. [Romans 8:8-10](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=eng&id=p8-p10#p8)
 8 So then they that are in the flesh cannot please God. 9 But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.  10 And if Christ be in you, the body is dead because of sin; but <mark>the Spirit is life because of righteousness</mark>.
 
-Prayer. [Romans 10:13](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/10?lang=eng&id=p13#p13)
+Prayer, leads to life eternal. [Romans 10:13](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/10?lang=eng&id=p13#p13)
 For whosoever shall <mark>call upon the name of the Lord</mark> shall be saved.
 
-Church. [Romans 10:17](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/10?lang=eng&id=p17#p17)
+Church, bolsters faith. [Romans 10:17](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/10?lang=eng&id=p17#p17)
 So then <mark>faith cometh by hearing</mark>, and hearing by the word of God.
 
 
