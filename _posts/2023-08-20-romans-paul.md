@@ -27,16 +27,10 @@ The New International Version (NIV)
 New Living Translation (NLT)
 14 So the trouble is not with the law, for it is spiritual and good. The trouble is with me, for I am all too human, a slave to sin. 15 I don’t really understand myself, for I want to do what is right, but I don’t do it. Instead, I do what I hate.
 
-#### Sione Havili
+### Sione Havili mistake
 Oct 2nd Conference preview [Sione Havili](https://ksltv.com/473425/preview-conference-doc-redeemed-the-sione-havili-story/) story revolves around go on a mission after burning down a house.  Having to leave his mission at 14 months to go to jail.
 
-## Life struggles
-How do you live by the spirit?  My spiritual life is enhanced by my time in my Car.
-
-[Romans 8:14](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=eng&id=p14#p14)
-14 For as many as are led by the Spirit of God, <mark>they are the [sons of God](https://www.churchofjesuschrist.org/study/scriptures/tg/sons-and-daughters-of-god?lang=eng)</mark>.
-
-#### Peter and James
+### Peter and James council
 These great leaders needed to figure hard things out, so Jew and Gentile converts could at least eat together.  The law?  The spirit?  The differences?
 
 ```
@@ -59,4 +53,28 @@ IMO, this is like the baptismal inteview or temple recomment interiew questions.
 3. do you eat ... Strangled meat (the animal’s blood had not been drained) ?
 
 4. do you eat ... Blood (related to avoiding strangled meat) or Blood pudding?
+
+## Live by the Spirit
+How do you live by the spirit?  My spiritual life is enhanced by my time in my Car.
+
+
+### Sons (and Daughters) of God
+Is there a formula?  Or is it a birthright?
+
+[Romans 8:14](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=eng&id=p14#p14)
+For as many as are led by the Spirit of God, <mark>they are the [sons of God](https://www.churchofjesuschrist.org/study/scriptures/tg/sons-and-daughters-of-god?lang=eng)</mark>.
+
+```
+Repent and be baptized, and have your sins remitted,
+And get the Spirit’s zeal; oh, then you’ll be united.
+Go cast upon him all your care;
+He will regard your humble prayer
+```
+
+### Joint Heirs with Christ
+Is this a contract?  What does heir mean?  Does this make you feel great?
+
+[Romans 8:17](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=eng&id=p17#p17)
+And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
+
 
