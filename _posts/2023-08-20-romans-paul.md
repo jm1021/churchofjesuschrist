@@ -79,7 +79,7 @@ And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be
 
 ### Understanding Grace
 Why is it so important to gain an understanding about
-grace?  David Lang forwarded me and article.
+grace?  David Lang forwarded me an article, I made some adaptations.
 - <mark>Atonement</mark>. Appreciate and take full advantage of the atonement of Jesus Christ.  Become Sons and Daughters of God.
 - <mark>Covenants</mark>. Gain enabling relationships with God the Father and His Son.  Because of Jesus’ atonement, a grace (charis) relationship enables us to become like Heavenly Father. Become joint-errors with Jesus.
 - <mark>Faith, Reciprocal Relationship</mark>. Gain more spiritual gifts and blessings as we receive the gifts God has already given. Anciently, all gifts are reciprocal, covenantal and establish relationships.
