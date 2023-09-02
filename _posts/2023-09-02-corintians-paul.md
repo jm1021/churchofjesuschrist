@@ -18,14 +18,14 @@ Is there some way Sunday School could do better at building community?  I am thi
 
 Community/Bond.  A week ago, My wife and I went to a Duran Duran concert.  We saw Peter Bybee and Tex, Julie Prows.  This week my wife saw Tauna Lang at Costco.  In both these scenarios we had a "bond, connection, or community".  But, they events were by chance.  Think of the Mathematical possibility that we would even bump into a member.
 
-### Seperated by Accomplishment
+### Separated by Accomplishment
 About 40 million Americans have left "the church" in the last 25 years.  This is referring to Christian Churches.  Often it comes do to lack of bond or community. 
 
 [The Atlantic](https://www.theatlantic.com/ideas/archive/2023/07/christian-church-communitiy-participation-drop/674843/) ...
 Draws on surveys of more than 7,000 Americans ... America simply isn’t set up to promote mutuality, care, or common life. Rather, it is designed to maximize individual accomplishment as defined by professional and financial success.  ... little time or energy for forms of community ...
 
-### Bonded by Jesus and Covenant
-We need to praise or relationship with Jesus, the Sacrament, and Baptism.  We glory in Spirit and Testimony.
+### Bonded through Jesus and Covenant
+We need to praise or relationship with Jesus (Testimony), the Sacrament, and Baptism.  We glory in Spirit and Testimony.
 
 <mark>1 Corinthians 10</mark>
 16 The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?
@@ -34,3 +34,6 @@ We need to praise or relationship with Jesus, the Sacrament, and Baptism.  We gl
 
 <mark>1 Corinthians 12</mark>
 13 For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
+
+### Opportunity to Share Bond
+What do you need to bond and establish community?
