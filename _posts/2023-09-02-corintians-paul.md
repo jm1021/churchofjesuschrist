@@ -13,10 +13,10 @@ image: images/corinth.jpeg
 [This Week](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-individuals-and-families-new-testament-2023/36?lang=eng)
 [Last Week](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-individuals-and-families-new-testament-2023/35?lang=eng)
 
-## Stuggling to maintain unity
+## Stuggling to maintain unity (Today and in Greece)
 Is there some way Sunday School could do better at building community?  I am thinking both in and outside of Sunday School class. 
 
-Community/Bond.  A week ago, My wife and I went to a Duran Duran concert.  We saw Peter Bybee and Tex, Julie Prows.  This week my wife saw Tauna Lang at Costco.  In both these scenarios we had a "bond, connection, or community".  But, they events were by chance.  Think of the Mathematical possibility that we would even bump into a member.
+Community/Bond.  A week ago, My wife and I went to a Duran Duran concert.  We saw Peter Bybee and Tex, Julie Prows.  This week my wife saw Tauna Lang at Costco.  In both these scenarios we had a "bond, connection, or community".  Think of the Mathematical possibility that we would even bump into a member.
 
 ### Separated by Accomplishment
 About 40 million Americans have left "the church" in the last 25 years.  This is referring to Christian Churches.  Often it comes do to lack of bond or community. 
@@ -35,5 +35,10 @@ We need to praise or relationship with Jesus (Testimony), the Sacrament, and Bap
 <mark>1 Corinthians 12</mark>
 13 For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
 
-### Opportunity to Share Bond
+### Opportunity to Share a Bond
 What do you need to bond and establish community?
+
+## Spiritual Gifts (Super Powers)
+Often I see in society the discussion of "what is your super power?"  or "what super power do you wish you had?"
+
+[7 super powers](https://youtu.be/AFjmCBbGckw?t=140)
