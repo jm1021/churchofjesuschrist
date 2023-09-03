@@ -52,7 +52,7 @@ Yet, many may need more.  What do you need to bond and establish community?
 ## Spiritual Gifts (Super Powers)
 Recently, I see in society, the discussion of "what is your super power?"  or "what super power do you wish you had?"
 
-In a quick Google, "Discover your Super Power", I saw a video talkin' about [7 super powers](https://youtu.be/AFjmCBbGckw?t=140); this man claims to have two;  he talks about other having different powers that complement him in his professional teams.
+In a quick Google, "Discover your Super Power", I saw a video talkin' about [7 super powers](https://youtu.be/AFjmCBbGckw?t=140); this man claims to have two;  he talks about other having different powers that complement him in his professional teams.  Essentially, highlighting that it takes a village.
 
 ### What are [Spiritual Gifts](https://www.churchofjesuschrist.org/study/manual/gospel-topics/spiritual-gifts?lang=eng)?
 
