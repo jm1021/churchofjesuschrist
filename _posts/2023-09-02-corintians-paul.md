@@ -4,10 +4,10 @@ comments: true
 layout: post
 description: Church members in Corinth struggled to maintain unity, so Paul sought to help them find unity in their belief in Christ.
 title: Ye Are the Body of Christ
-image: images/corinth.jpeg
+image: images/corinth_greece.jpeg
 ---
 
-![]({{site.baseurl}}/images/corinth.jpeg)
+![]({{site.baseurl}}/images/corinth_greece.jpeg)
 
 ## Recent Lessons
 [This Week](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-individuals-and-families-new-testament-2023/36?lang=eng)
