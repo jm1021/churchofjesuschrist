@@ -82,7 +82,7 @@ Take a quick read of this [link](https://www.churchofjesuschrist.org/study/manua
 
 In summary, charity, as described in 1 Corinthians 13, encompasses qualities such as love, kindness, patience, generosity, humility, forgiveness, unselfishness, optimism, endurance, and consistency. It's a profound and selfless way of relating to others that goes beyond mere words or actions, reflecting a deep and enduring love for humanity.
 
-### <mark>[1 Corinthians 13](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/13?lang=eng&id=p1-p8#p1)</mark>
+### Charity and [1 Corinthians 13](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/13?lang=eng&id=p1-p8#p1)
 1 Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
 
 2 And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.
@@ -122,7 +122,7 @@ Here are some other words and phrases that can help describe and expand upon the
 
 `Consistency`: "Charity never faileth" emphasizes that true charity is unwavering and doesn't diminish over time or circumstances.
 
-### Agape Love
+### Charity is Agape Love
 Agape love is a term often used in Christian theology and philosophy to describe a particular kind of selfless, unconditional, and divine love. It's one of several Greek words for love found in the New Testament, and each word conveys a slightly different nuance of love. Here's a brief explanation of the different types of love in Greek:
 
 `Eros`: Eroa refers to romantic or passionate love, often associated with desire and attraction between two people.
