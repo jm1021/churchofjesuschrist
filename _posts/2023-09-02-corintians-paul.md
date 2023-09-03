@@ -45,7 +45,7 @@ Baptism is the act of immersing in water or applying water symbolically, signify
 Testimonies and Temple worship can be a powerful means of building community as they allow members to connect on a deeper level through shared experiences, beliefs, and worship.
 
 ### Opportunity to Share a Bond
-The practices mentioned by Paul not only nurture a love for God but also foster love and support within the Christian or our Church of Jesus Christ community.  
+The practices mentioned by Paul not only nurture a love for God but also foster love and support within the Christian community as well as our Church of Jesus Christ community.  
 
 Yet, many may need more.  What do you need to bond and establish community?
 
