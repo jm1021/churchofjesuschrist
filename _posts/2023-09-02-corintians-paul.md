@@ -43,7 +43,7 @@ Recently, I see in society, the discussion of "what is your super power?"  or "w
 
 In a quick Google, "Discover your Super Power", I saw a video talkin' about [7 super powers](https://youtu.be/AFjmCBbGckw?t=140); this man claims to have two;  he talks about other having different powers that complement him in his professional teams.
 
-What are [Spiritual Gifts](https://www.churchofjesuschrist.org/study/manual/gospel-topics/spiritual-gifts?lang=eng)?
+### What are [Spiritual Gifts](https://www.churchofjesuschrist.org/study/manual/gospel-topics/spiritual-gifts?lang=eng)?
 
 Take a quick read of this [link](https://www.churchofjesuschrist.org/study/manual/gospel-topics/spiritual-gifts?lang=eng) and read below.   Then share what you thinks is a personal "spiritual gift", that can help profit us today.
 
@@ -58,3 +58,4 @@ Take a quick read of this [link](https://www.churchofjesuschrist.org/study/manua
 
 1 Corinthians 12 — GOD’S WORD Translation (GW)
 7 The evidence of the Spirit’s presence is given to each person for the common good of everyone.
+
