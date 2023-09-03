@@ -16,7 +16,7 @@ image: images/corinth_greece.jpeg
 ## Community or Bond
 Stuggling to maintain unity (Today and in Greece). Is there some way Sunday School could do better at building community?  I am thinking both in and outside of Sunday School class. 
 
-`Community/Bond`.  A week ago, My wife and I went to a Duran Duran concert.  We saw Peter Bybee and Tex, Julie Prows.  This week my wife saw Tauna Lang at Costco.  In both these scenarios, we had a "bond, connection, or community" feeling; even thought we don't see or talk to these people often. Think of the Mathematical possibility that we would even bump into a member.  Does the Lord bolster us, to have these situations.
+`Community/Bond`.  A week ago, My wife and I went to a Duran Duran concert.  We saw Peter Bybee and Tex, Julie Prows.  This week my wife saw Tauna Lang at Costco.  In both these scenarios, we had a "bond, connection, or community" feeling to those we saw; even though we don't see or talk to these people often. Think of the Mathematical possibility that we would even bump into a fellow follower of Christ and member of our Ward.  Does the Lord bolster us, by having these connections?  Or, are the just by random chance?
 
 ### Separated by Accomplishment
 About 40 million Americans have left "the church" in the last 25 years.  This is referring to Christian Churches.  Often it comes do to lack of bond or community. 
@@ -25,7 +25,7 @@ About 40 million Americans have left "the church" in the last 25 years.  This is
 Draws on surveys of more than 7,000 Americans ... America simply isn’t set up to promote mutuality, care, or common life. Rather, it is designed to maximize individual accomplishment as defined by professional and financial success.  ... little time or energy for forms of community ...
 
 ### Bonded through Communion
-We need to praise or relationship with Jesus (Testimony), the Sacrament (communion), and Baptism.  We need to glory in sharing Spirit and Testimony.  The significance of communal rituals and practices in the formation of a religious community.  Several rituals, such as Communion (the Lord's Supper), Baptism, the sharing of Testimonies and Temple worship, play a crucial role in bonding individuals together in their shared love for God and their faith community. 
+We need to praise or relationship with Jesus (Testimony), the Sacrament (communion), and Baptism, sharing Spirit and Testimony.  There is significance in communal rituals and practices in the formation of a religious community.  Several rituals, such as Communion (the Lord's Supper), Baptism, the sharing of Testimonies and Temple worship, play a crucial role in bonding individuals together in their shared love for God and their faith community. 
 
 <mark>1 Corinthians 10</mark>. 
 16 The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?
