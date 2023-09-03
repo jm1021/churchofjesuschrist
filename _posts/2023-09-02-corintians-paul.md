@@ -14,7 +14,7 @@ image: images/corinth_greece.jpeg
 [Last Week](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-individuals-and-families-new-testament-2023/35?lang=eng)
 
 ## Community or Bond
-Stuggling to maintain unity (Today and in Greece). Is there some way Sunday School could do better at building community?  I am thinking both in and outside of Sunday School class. 
+Stuggling to maintain unity (Today and in Greece). Is there some way Sunday School could do better at building community?  I am thinking both in and outside of Sunday School class. Here is my attempt.
 
 `Community/Bond`.  A week ago, My wife and I went to a Duran Duran concert.  We saw Peter Bybee and Tex, Julie Prows.  This week my wife saw Tauna Lang at Costco.  In both these scenarios, we had a "bond, connection, or community" feeling to those we saw; even though we don't see or talk to these people often. Think of the Mathematical possibility that we would even bump into a fellow follower of Christ and member of our Ward.  Does the Lord bolster us, by having these connections?  Or, are the just by random chance?
 
