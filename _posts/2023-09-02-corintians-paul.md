@@ -17,10 +17,10 @@ image: images/corinth_greece.jpeg
 ## Community or Bond
 Stuggling to maintain unity (Today and in Greece). Is there some way Sunday School could do better at building community?  I am thinking both in and outside of Sunday School class. Here is my attempt.
 
-`Community/Bond`.  A week ago, My wife and I went to a Duran Duran concert.  We saw Peter Bybee and Tex, Julie Prows.  This week my wife saw Tauna Lang at Costco.  In both these scenarios, we had a "bond, connection, or community" feeling to those we saw; even though we don't see or talk to these people often. Think of the Mathematical possibility that we would even bump into a fellow follower of Christ and member of our Ward.  Does the Lord bolster us, by having these connections?  Or, are the just by random chance?
+`Community/Bond`.  A week ago, My wife and I went to a Duran Duran concert.  We saw Peter Bybee and Tex, Julie Prows.  This week my wife saw Tauna Lang at Costco.  In both these scenarios, we had a "bond, connection, or community" feeling to those we saw; even though we don't see or talk to these people often. Consider the mathematical probability of meeting fellow Ward members.  Does the Lord bolster us, by having these connections?  Or, are the just by random chance?
 
 ### Separated by Accomplishment
-About 40 million Americans have left "the church" in the last 25 years.  This is referring to Christian Churches.  Often it comes do to lack of bond or community. 
+About 40 million Americans have left "the church" in the last 25 years.  This is referring to Christian Churches.  Often it comes due to lack of bond or community. 
 
 [The Atlantic](https://www.theatlantic.com/ideas/archive/2023/07/christian-church-communitiy-participation-drop/674843/) ...
 Draws on surveys of more than 7,000 Americans ... America simply isn’t set up to promote mutuality, care, or common life. Rather, it is designed to maximize individual accomplishment as defined by professional and financial success.  ... little time or energy for forms of community ...
@@ -72,7 +72,7 @@ Take a quick read of this [link](https://www.churchofjesuschrist.org/study/manua
 7 The evidence of the Spirit’s presence is given to each person for the common good of everyone.
 
 ### Diversity is Essential
-Yesterday, in the iterlude of preparation of this lesson, we had a family bonding event.  Moving my Father-in-laws "stuff" from a storage unit Chula Vista to newly constructed Barn-o-Minimum structure at a family property Julian.  This included the "stuff" owner, all his children and most of their spouses, several grandchildren, representation from each child, including a newlywed husband, and a boyfriend.  There were several trucks, driving skill, strength, love, many other gifts, all freely provided, and all for the common good.  IMO, the gifts and the diversity gifts were essential to the success.  
+Yesterday, in the iterlude of preparation of this lesson, we had a family bonding event.  Moving my Father-in-laws "stuff" from a storage unit Chula Vista to newly constructed Barn-o-Minimum structure at the family property Julian.  This included the "stuff" owner, all his children and most of their spouses, several grandchildren, representation from each child, including a newlywed husband, and a boyfriend.  There were several trucks, driving skill, strength, love, many other gifts, all freely provided, and all for the common good.  IMO, the gifts and the diversity gifts were essential to the success.  
 
 [1 Corinthians 12:8-10](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/12?lang=eng&id=p8-p10#p8)
 8 For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;
