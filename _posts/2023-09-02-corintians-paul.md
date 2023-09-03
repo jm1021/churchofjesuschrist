@@ -152,7 +152,7 @@ Here are some other words and phrases that can help describe and expand upon the
 ### Agape Love and Charity
 Agape love is a term often used in Christian theology and philosophy to describe a particular kind of selfless, unconditional, and divine love. It's one of several Greek words for love found in the New Testament, and each word conveys a slightly different nuance of love. Here's a brief explanation of the different types of love in Greek:
 
-`Eros`: Eroa refers to romantic or passionate love, often associated with desire and attraction between two people.
+`Eros`: Eros refers to romantic or passionate love, often associated with desire and attraction between two people.
 
 `Philia`: Philia represents brotherly or friendship love, characterized by camaraderie, loyalty, and affection between friends.
 
