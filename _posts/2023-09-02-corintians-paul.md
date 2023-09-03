@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-description: Church members in Corinth struggled to maintain unity, so Paul sought to help them find unity in their belief in Christ.
+description: Church members in Corinth struggled to maintain unity, so Paul sought to help them find unity in their belief in Christ.  The message to the Greeks often engaged with Greek philosophy and sought to demonstrate the benefit of Christ's teachings and the gospel over the wisdom of the world.
 title: Ye Are the Body of Christ
 image: images/corinth_greece.jpeg
 ---
@@ -15,9 +15,11 @@ image: images/corinth_greece.jpeg
 [Last Week](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-individuals-and-families-new-testament-2023/35?lang=eng)
 
 ## Community or Bond
-Stuggling to maintain unity (Today and in Greece). Is there some way Sunday School could do better at building community?  I am thinking both in and outside of Sunday School class. Here is my attempt.
+Paul saw that the Church of Jesus Christ in Corinth was stuggling to maintain unity, bond, and purpose.  I find Corinth very similar to the philosopies of Today. Is there some way to increase our unity?   Can Sunday School do more in building community?  I am thinking both in and outside of Sunday School class. 
 
-`Community/Bond`.  A week ago, My wife and I went to a Duran Duran concert.  We saw Peter Bybee and Tex, Julie Prows.  This week my wife saw Tauna Lang at Costco.  In both these scenarios, we had a "bond, connection, or community" feeling to those we saw; even though we don't see or talk to these people often. Consider the mathematical probability of meeting fellow Ward members.  Does the Lord bolster us, by having these connections?  Or, are the just by random chance?
+Today I hope we will all give our best effort to bond and build our community, as followers of Jesus Christ.
+
+`Community/Bond`.  A week ago, My wife and I went to a Duran Duran concert.  We saw Peter Bybee and Tex, Julie Prows.  This week my wife saw Tauna Lang at Costco.  In both these scenarios, we had a "bond, connection, or community feeling", to those we saw and conversed; even though we don't often talk to these people at church. But we do share through much through lessons, testimonies, socials, and service. Consider the mathematical probability of meeting fellow Ward members.  Does the Lord bolster us, by having these connections?  Or, are they just by random chance?
 
 ### Separated by Accomplishment
 About 40 million Americans have left "the church" in the last 25 years.  This is referring to Christian Churches.  Often it comes due to lack of bond or community. 
@@ -71,7 +73,28 @@ Take a quick read of this [link](https://www.churchofjesuschrist.org/study/manua
 1 Corinthians 12 — GOD’S WORD Translation (GW)
 7 The evidence of the Spirit’s presence is given to each person for the common good of everyone.
 
-### Diversity is Essential
+
+### Every part of the body is Essential
+We should recognize every part of the body.  We should not compare or elevate one portion of the body above others.  There is a righteous for of covet, where we earnestly strive to magnify the gifts we are given.
+
+[1 Corinthians 12:25-31](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/12?lang=eng&id=p15-p31#p15)
+15 If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?
+
+16 And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?
+
+17 If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?
+
+18 But now hath God set the members every one of them in the body, as it hath pleased him.
+
+...
+
+23 And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness.
+
+...
+
+31 But covet earnestly the best gifts: and yet shew I unto you a more cexcellent way.
+
+### The Diversity of Gifts is Good
 Yesterday, in the iterlude of preparation of this lesson, we had a family bonding event.  Moving my Father-in-laws "stuff" from a storage unit Chula Vista to newly constructed Barn-o-Minimum structure at the family property Julian.  This included the "stuff" owner, all his children and most of their spouses, several grandchildren, representation from each child, including a newlywed husband, and a boyfriend.  There were several trucks, driving skill, strength, love, many other gifts, all freely provided, and all for the common good.  IMO, the gifts and the diversity of gifts were essential to the success.  
 
 [1 Corinthians 12:8-10](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/12?lang=eng&id=p8-p10#p8)
@@ -81,7 +104,7 @@ Yesterday, in the iterlude of preparation of this lesson, we had a family bondin
 
 10 To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues
 
-## Charity (aka Love)
+## Charity (aka Love) never Fails
 "Charity" is often understood as a synonym for love, particularly the kind of selfless and unconditional love that transcends mere emotions. 
 
 In summary, charity, as described in 1 Corinthians 13, encompasses qualities such as love, kindness, patience, generosity, humility, forgiveness, unselfishness, optimism, endurance, and consistency. It's a profound and selfless way of relating to others that goes beyond mere words or actions, reflecting a deep and enduring love for humanity.
@@ -103,7 +126,7 @@ In summary, charity, as described in 1 Corinthians 13, encompasses qualities suc
 
 8 Charity never faileth.
 
-### Charity and qualities
+### Charity has many Qualities
 Here are some other words and phrases that can help describe and expand upon the concept of charity as presented in Corithians:
 
 `Love`: As mentioned earlier, charity is often equated with love, which is a selfless and sacrificial love that seeks the well-being of others without expecting anything in return.
