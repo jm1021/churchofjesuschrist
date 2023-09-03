@@ -126,7 +126,7 @@ In summary, charity, as described in 1 Corinthians 13, encompasses qualities suc
 
 8 Charity never faileth.
 
-### Charity has many Qualities
+### Qualities of Charity
 Here are some other words and phrases that can help describe and expand upon the concept of charity as presented in Corithians:
 
 `Love`: As mentioned earlier, charity is often equated with love, which is a selfless and sacrificial love that seeks the well-being of others without expecting anything in return.
@@ -149,7 +149,7 @@ Here are some other words and phrases that can help describe and expand upon the
 
 `Consistency`: "Charity never faileth" emphasizes that true charity is unwavering and doesn't diminish over time or circumstances.
 
-### Charity is Agape Love
+### Agape Love and Charity
 Agape love is a term often used in Christian theology and philosophy to describe a particular kind of selfless, unconditional, and divine love. It's one of several Greek words for love found in the New Testament, and each word conveys a slightly different nuance of love. Here's a brief explanation of the different types of love in Greek:
 
 `Eros`: Eroa refers to romantic or passionate love, often associated with desire and attraction between two people.
@@ -162,7 +162,7 @@ Agape love is a term often used in Christian theology and philosophy to describe
 
 In the context of 1 Corinthians 13, when it mentions "charity," it is essentially describing agape love. This passage is emphasizing the importance of this selfless and sacrificial love as the highest virtue, suggesting that even extraordinary gifts and abilities are meaningless without it. `Agape love` is often seen as the ultimate expression of `Christian love` and is a guiding principle for how Christians should relate to one another and to the world.
 
-### Correlations to 1 Corinthians 13
+### Other Scriptures on Charity
 These scriptures from Christian and LDS traditions emphasize the central role of love, charity, and selflessness in the teachings and principles of faith. They underscore the importance of love for God, love for one's neighbor, and the transformative power of charity in the lives of believers.
 
 `Matthew 22:37-40`: In this passage, Jesus summarizes the greatest commandments, highlighting the importance of love: "Jesus replied: 'Love the Lord your God with all your heart and with all your soul and with all your mind.' This is the first and greatest commandment. And the second is like it: 'Love your neighbor as yourself.' All the Law and the Prophets hang on these two commandments."
@@ -179,16 +179,16 @@ These scriptures from Christian and LDS traditions emphasize the central role of
 ### People can reject Charity
 The Savior loved all.  But, sometimes love is not accepted.
 
-`1 Nephi 11:22 `(Book of Mormon): This scripture passage highlights the importance of love in the context of the Savior's ministry: "And I beheld that he went forth ministering unto the people, in power and great glory; and the multitudes were gathered together to hear him; `and I beheld that they cast him out from among them`."
+`1 Nephi 11:22 `(Book of Mormon): This scripture passage highlights the importance of love in the context of the Savior's ministry: "And I beheld that he went forth ministering unto the people, in power and great glory; and the multitudes were gathered together to hear him; <mark>and I beheld that they cast him out from among them<\mark>."
 
 Christ, who embodies perfect charity and love, ministered to the people, not all accepted His message. This reflects a recurring theme in religious narratives where divine love and truth are sometimes rejected by those who hold firmly to their existing traditions and beliefs.
 
 In the case of this specific passage, it's a reflection of the challenges and resistance that prophets and messengers often face when they bring a message of change or spiritual renewal. It underscores the idea that true charity and love, as exemplified by Christ, may not always be readily embraced, especially when it challenges the status quo or existing religious practices.
 
-It's a reminder that love and charity can be transformative, but individuals and communities may need time to open their hearts and minds to new revelations and spiritual truths. `The rejection of Christ's message by some serves as a poignant illustration of the complexity of human responses to divine love and teachings.`
+It's a reminder that love and charity can be transformative, but individuals and communities may need time to open their hearts and minds to new revelations and spiritual truths. <mark>The rejection of Christ's message by some serves as a poignant illustration of the complexity of human responses to divine love and teachings.</mark>
 
-## Summary
-The writings of Paul in the Corinthians epistles provide a valuable and insightful progression of ideas, emphasizing the unity and interdependence of the Christian community. Rhere is a logical flow in his teachings, starting with the idea that believers are one body through Communion, then highlighting the diversity of spiritual gifts, and ultimately stressing the importance of love (charity) in holding this diverse body together. Here is a break down this progression:
+## Summary of Paul's teaching to Corinth
+The writings of Paul in the Corinthians epistles provide a valuable and insightful progression of ideas, emphasizing the unity and interdependence of the Christian community. There is a logical flow in his teachings, starting with the idea that believers are one body through Communion, then highlighting the diversity of spiritual gifts, and ultimately stressing the importance of love (charity) in holding this diverse body together. Here is a break down this progression:
 
 <mark>One Body through Communion</mark>: In 1 Corinthians 10:16-17, Paul uses the imagery of Communion to convey the idea that believers are one body because they partake in the same symbolic elements, the bread representing the body of Christ and the cup representing His blood. This emphasizes their shared identity and unity as members of the body of Christ.
 
@@ -196,4 +196,4 @@ The writings of Paul in the Corinthians epistles provide a valuable and insightf
 
 <mark>Importance of Love (Charity)</mark>: After discussing the diversity of gifts and roles, Paul transitions to 1 Corinthians 13, often referred to as the "Love Chapter." Here, he emphasizes that no matter how diverse the gifts and roles may be, they must be exercised with love (charity). Love is the binding force that holds the diverse body of believers together. Without love, all other gifts and actions are empty and meaningless.
 
-This progression of ideas in Paul's writings serves to teach the Corinthians (and all readers) about the essential qualities of a strong and harmonious Christian community. It reminds them that <mark>unity and diversity can coexist when guided by love and charity</mark>, and that love is the greatest of all virtues. This message is not only relevant to the Corinthians but continues to be a guiding principle for Christian communities and individuals seeking to live out their faith in a spirit of love and unity.
+This progression of ideas in Paul's writings serves to teach the Corinthians (and all readers) about the essential qualities of a strong and harmonious Christian community. It reminds them that <mark>unity and diversity can coexist when guided by love and charity</mark>, and that love is the greatest of all virtues. This message is not only relevant to the Corinthians but continues to be a guiding principle for Christian and All communities and individuals seeking to live out their faith in a spirit of love and unity.
