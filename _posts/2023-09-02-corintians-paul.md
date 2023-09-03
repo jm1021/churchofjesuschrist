@@ -59,3 +59,9 @@ Take a quick read of this [link](https://www.churchofjesuschrist.org/study/manua
 1 Corinthians 12 — GOD’S WORD Translation (GW)
 7 The evidence of the Spirit’s presence is given to each person for the common good of everyone.
 
+[1 Corinthians 12:8-10](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/12?lang=eng&id=p8-p10#p8)
+8 For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;
+
+9 To another faith by the same Spirit; to another the gifts of healing by the same Spirit;
+
+10 To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues
