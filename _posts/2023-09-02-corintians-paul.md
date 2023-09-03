@@ -9,8 +9,9 @@ image: images/corinth_greece.jpeg
 
 ![]({{site.baseurl}}/images/corinth_greece.jpeg)
 
-## Recent Lessons
+## Come Follow Me Lessons
 [This Week](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-individuals-and-families-new-testament-2023/36?lang=eng)
+
 [Last Week](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-individuals-and-families-new-testament-2023/35?lang=eng)
 
 ## Community or Bond
