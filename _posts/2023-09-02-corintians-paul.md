@@ -70,6 +70,9 @@ Take a quick read of this [link](https://www.churchofjesuschrist.org/study/manua
 1 Corinthians 12 — GOD’S WORD Translation (GW)
 7 The evidence of the Spirit’s presence is given to each person for the common good of everyone.
 
+### Diversity is Essential
+Yesterday, in the iterlude of preparation of this lesson, we had a family bonding event.  Moving my Father-in-laws "stuff" from a storage unit Chula Vista to newly constructed Barn-o-Minimum structure at a family property Julian.  This included the "stuff" owner, all his children and most of their spouses, several grandchildren, representation from each child, including a newlywed husband, and a boyfriend.  There were several trucks, driving skill, strength, love, many other gifts, all freely provided, and all for the common good.  IMO, the gifts and the diversity gifts were essential to the success.  
+
 [1 Corinthians 12:8-10](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/12?lang=eng&id=p8-p10#p8)
 8 For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;
 
