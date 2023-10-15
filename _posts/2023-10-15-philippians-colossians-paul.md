@@ -7,7 +7,7 @@ title: I Can Do All Things through Christ Which Strengtheneth Me
 image: images/cornerstone_temple.webp
 ---
 
-![]({{site.baseurl}}/images/cornerstone_temple.webp)
+![conerstone]({{site.baseurl}}/images/cornerstone_temple.webp)
 
 ## Come Follow Me Lessons
 
@@ -15,15 +15,9 @@ image: images/cornerstone_temple.webp
 
 [Last Week](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-new-testament-2023/41?lang=eng)
 
-
-### Prophets and apostles—and all of us—strengthen and unify the Church.
+### Prophets and apostles—and all of us—strengthen and unify the Church
 
 Ephesians 2:19–22; 4:4–8, 11–16
-
-### Armor of God - Admonition of Paul
-
-Ephesians 5:25–33; 6:1–4
-Doctrine and Covenants 27:15-18
 
 ### We can find joy in Christ, regardless of our circumstances
 
@@ -48,19 +42,16 @@ Colossians 3:14 And above all these things put on charity, which is the bond of 
 
 Come as you are but don’t stay as you are
 
-### Works versus Grace.
+### Works versus Grace
 
 - Christ makes holy
 - In the process Jesus is with us. Phillipians E 4:13 endumenti; Make covenants to feel close to the Lord
 - Think Celestial
 - Love God, love your fellow man
 
+### Armor of God - Admonition of Paul
 
-I have learned that all things is what is in my path, Ukraine, Russia, Israel, Hamas.  Isaiah 40:29-31 power to weak.  Lord endows us with power.
+Ephesians 5:25–33; 6:1–4
+Doctrine and Covenants 27:15-18
 
-Phillipians 2-6,7 9-11
-
-
-One by One
-New Creation
-
+One by One, New Creation, Nathan P
