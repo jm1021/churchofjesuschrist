@@ -49,7 +49,7 @@ endunamounti me = strengtheneth me = endows me with power
 
 Philippians 2:1–5, 14–18; 4:1–9; Colossians 3:1–17... Colossians 3:14 And above all these things put on charity, which is the bond of perfectness.
 
-- Philippians 3:14-16. 
+- Philippians 3:14-16.
 - A formula about Saul to Paul.  These instructions are the next level of discipleship.  Philippians are faithful member.
   - Move Forward.   ... but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before
 - Turn to Jesus.  ...  press toward the mark for the prize of the high calling of God in Christ Jesus
@@ -65,16 +65,21 @@ Ephesians 2:8-10
 10 For we are his aworkmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
 
 2 Nephi 25:23
-23 For we labor diligently to write, to apersuade our children, and also our brethren, to believe in Christ, and to be reconciled to God; for we know that it is by bgrace that we are saved, after all we can cdo.
+23 For we labor diligently to write, to apersuade our children, and also our brethren, to believe in Christ, and to be reconciled to God; for we know that it is by grace that we are saved, after all we can cdo.
 
-Christ makes holy
+### Christ makes us holy
 
-- In life Jesus is with us. 
-- Make covenants to feel close to the Lord
-- Think Celestial, end in mind
-- Love God, love your fellow man
+IMO, Grace is our motto.  It is not healthy to have checklist for all the things we can do for Christ.  Here is my simple list, recognizing Christ as one who can make me holy ...
+
+- Born Again. Make and renew covenants to be "born again" and "becoming his sons and daughters" Mosiah 27:25
+- Sacrament prayers. Keep Jesus is with us, always remember him.
+- Great Commandments. Love God, Love your fellow man.
+- Think Celestial, keep the end in mind. Prophet Nelson.
 
 ### Armor of God
+
+Philippians 4:8
+We believe in being honest, true, chaste, benevolent, virtuous, and in doing good to all men” (A of F 1:13).
 
 Put on the full armor of God
 
@@ -83,4 +88,4 @@ Doctrine and Covenants 27:15-18
 
 Wherefore, lift up your hearts and rejoice, and gird up your loins, and take upon you my whole darmor, that ye may be able to withstand the evil day, having done all, that ye may be able to estand...
 
-...and be agreed as touching all things whatsoever ye ask of me, and be faithful until I come, and ye shall be bcaught up, that where I am ye shall be calso
+...and be agreed as touching all things whatsoever ye ask of me, and be faithful until I come, and ye shall be bcaught up, that where I am ye shall be also
