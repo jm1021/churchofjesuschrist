@@ -17,7 +17,7 @@ image: images/cornerstone_temple.webp
 
 ### Prophets and apostles—and all of us—strengthen and unify the Church
 
-Conference have come and passed in our day.   From Paul we understand with perfect clarity, the unique apostalic witnesses in The Churce of Jesus Christ of Latter-day Saints.
+Conferences have come and passed in our day.   From Paul's declaration we understand with perfect clarity, the unique apostalic witnesses in The Churce of Jesus Christ of Latter-day Saints.
 
 [Think Celestial!](https://youtu.be/ZghD9LplPug?t=205)
 
