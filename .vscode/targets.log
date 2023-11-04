@@ -6,8 +6,11 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # PARTICULAR PURPOSE.
 
 # This program built for i386-apple-darwin11.3.0
+ 
+make: *** No rule to make target `all'.  Stop.
 
-# Make data base, printed on Sun Oct 15 10:03:26 2023
+
+# Make data base, printed on Sat Nov  4 06:40:10 2023
 
 # Variables
 
@@ -17,6 +20,8 @@ JENV_SHELL = zsh
 ?F = $(notdir $?)
 # automatic
 <D = $(patsubst %/,%,$(dir $<))
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
 # environment
 VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
 # automatic
@@ -42,17 +47,20 @@ __CFBundleIdentifier = com.microsoft.VSCode
 # environment
 INFOPATH = /usr/local/share/info:
 # environment
-VSCODE_CWD = /
+VSCODE_CWD = /Users/johnmortensen/vscode/churchofjesuschrist
 # environment
 PATH = /usr/local/opt/openjdk/bin:/Users/johnmortensen/gems/bin:/Users/johnmortensen/.rbenv/shims:/Users/johnmortensen/.jenv/shims:/Users/johnmortensen/.jenv/bin:/usr/local/bin:/usr/local/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
 # environment
 JENV_FORCEJAVAHOME = true
 # environment
 ELECTRON_RUN_AS_NODE = 1
+ 
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
 SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.Na3q1iBADz/Listeners
+# environment
+JDK_HOME = /Users/johnmortensen/.jenv/versions/openjdk64-11.0.11
 # automatic
 %F = $(notdir $%)
 # environment
@@ -72,6 +80,8 @@ HOME = /Users/johnmortensen
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
+VSCODE_CLI = 1
+# environment
 VSCODE_CODE_CACHE_PATH = /Users/johnmortensen/Library/Application Support/Code/CachedData/f1b07bd25dfad64b0167beb15359ae573aecd2cc
 # environment
 LOGNAME = johnmortensen
@@ -82,15 +92,17 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # automatic
 ^D = $(patsubst %/,%,$(dir $^))
 # environment
+JENV_FORCEJDKHOME = true
+# environment
 XPC_FLAGS = 0x0
 # default
 MAKE = $(MAKE_COMMAND)
 # default
 MAKECMDGOALS := all
 # environment
-SHLVL = 1
+SHLVL = 3
 # environment
-JAVA_HOME = /Users/johnmortensen/.jenv/versions/system
+JAVA_HOME = /Users/johnmortensen/.jenv/versions/openjdk64-11.0.11
 # default
 MAKE_VERSION := 3.81
 # environment
@@ -98,11 +110,15 @@ USER = johnmortensen
 # makefile
 .DEFAULT_GOAL := help
 # environment
+TERM_SESSION_ID = 6AA4097D-F73B-4046-81CE-FBA72E6DA709
+# environment
 JENV_LOADED = 1
 # automatic
 %D = $(patsubst %/,%,$(dir $%))
 # default
 MAKE_COMMAND := /Library/Developer/CommandLineTools/usr/bin/make
+# environment
+TERM_PROGRAM = Apple_Terminal
 # default
 .VARIABLES := 
 # environment
@@ -120,7 +136,9 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.450370869.450370875
+TERM_PROGRAM_VERSION = 447
+# environment
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.450370869.450370875.DB14EC1F-F0C8-4340-BBE6-663C82F7B5E5
 # environment
 HOMEBREW_PREFIX = /usr/local
 # automatic
@@ -154,9 +172,11 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 1157
+TERM = xterm-256color
+# environment
+VSCODE_PID = 73339
 # variable set hash-table stats:
-# Load=72/1024=7%, Rehash=0, Collisions=3/96=3%
+# Load=80/1024=8%, Rehash=0, Collisions=3/104=3%
 
 # Pattern-specific Variable Values
 
@@ -223,6 +243,7 @@ Makefile:
 #  Successfully updated.
 # variable set hash-table stats:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+ 
 
 remove: .FORCE
 #  Implicit rule search has not been done.
@@ -292,7 +313,6 @@ bash-jekyll: .FORCE
 	docker-compose exec jekyll /bin/bash
 	
 
- 
 convert: .FORCE
 #  Implicit rule search has not been done.
 #  Modification time never checked.
@@ -322,8 +342,6 @@ convert: .FORCE
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Sun Oct 15 10:03:26 2023
+# Finished Make data base on Sat Nov  4 06:40:10 2023
 
  
-make: *** No rule to make target `all'.  Stop.
-
