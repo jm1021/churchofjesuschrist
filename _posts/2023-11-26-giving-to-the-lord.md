@@ -62,3 +62,16 @@ Hector, Gary, Jared, Mark, Warren, Taelure, Claudia Hernandez, Lora and Tiernan,
 I arrived on the scene and surely Taelure Nelson was there with Claudia Hernandez and of course Sister Hernandez smiling, greeting, smiling and saying, "your late".  There is always a humbling that comes with service.  But the event was full of joy.
 
 ![move]({{site.baseurl}}/images/sigle_move.jpeg)
+
+
+### Always be Seeking
+Transitions in <b>life are a series of starts, continuations, and some ends<b>.  Serving God is love, <b>love never ends</b>. But percentages change(+-), the key is <b>finding good balances</b>.
+
+- A truck driver 1 year (preparing to serve) 🥲
+- A missionary; 2 years  (90% serving God)  👍
+- A college student; 4 years (10% serving God)
+- A tech guy; 36 years (10% serving God) 😅
+- A husband; Tamara: 19 years, Lora: 17 years (focus on development and joy, 50% serving God) 👍
+ - A father; Trent, Corey, Claire, Tiernan, Shay, 36 years 👏
+ - A grandfather; Amelia, Cruz, and Gavi; 9 years 😇
+- A teacher, working on my 5th year (focus on education, 50% serving God) 🫶
