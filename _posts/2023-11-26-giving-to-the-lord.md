@@ -55,7 +55,7 @@ Feeling of thankfulness that I see in <b>words, deeds, or actions from others</b
 ### Caring this Month
 By definition, <b>sacrifice is simply caring and turning our will toward God</b>.  The spirt most certainly bolsters an such event.
 
-Sister Sigle.  A couple of weeks ago, "our sacrifice" became somewhat "complete" with regards to our long time ward member Claudia Sigle.  Our ward overwhelmed it on this Monday afternoon.  
+Sister Sigle.  A couple of weeks ago, "<b>our sacrifice</b>" became somewhat "<b>complete</b>" with regards to our long time ward member Claudia Sigle.  Our ward overwhelmed it on this Monday afternoon.  
 
 Hector, Gary, Jared, Mark, Warren, Taelure, Claudia Hernandez, Lora and Tiernan, Gina, Heidi, Brian Wetzger, Lori Moberly, Cregg & Gabe Taylor, Brian & Karen Akagi, Randy & Cindy.  
 
