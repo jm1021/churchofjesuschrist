@@ -13,13 +13,13 @@ image: /images/refugee_project_hungry_fed.webp
 
 A time of thankful reflection.
 
-- Praise be to the life of Jesus Christ.  That we are able to glory in Thanksgiving through his grace
-- I am thankful to be in our Holy Place, our Ward and City. In the news of Ukraine and Gaza, we are SO blesssed to be living in a place of amazing weather, resources, and peace
-- I am thankful for this moment to discuss "Giving to the Lord"
+- <b>Praise be to the life of Jesus Christ</b>.  That we are able to glory in Thanksgiving through his grace
+- I am thankful to be in <b>our Holy Place, our Ward and City</b>. In the news of Ukraine and Gaza, we are SO blesssed to be living in a place of amazing weather, resources, and peace
+- I am thankful for this moment to <b>discuss "Giving to the Lord"</b>
 
 
 ### Great memories from our Ward members in Heaven
-Feelings of gratitde I have observed from former acquaintances with those who have passed.
+<b>Feelings of gratitde</b> I have observed from former acquaintances with those who have passed.
 
 - Kristan Kelly.    My memories service memories of Kristan, her glow and observing her service and companionship to Diane Harrington.  
 
@@ -29,7 +29,7 @@ Feelings of gratitde I have observed from former acquaintances with those who ha
 
 
 ### Years Ago, Acts of Kindness
-I came across a card with many signatures and addressed to my son who was serving in Afganistan.  This was a card thanking Trent for his service.    It was signed by many in our ward today...
+I came across a <b>card with many signatures</b> and addressed to my son who was serving in Afganistan.  This was a card thanking Trent for his service.    It was signed by many in our ward today...
 
 Randy Rose, Sam Ng, Carl Moberly, Tex Prows, Oddie Kelly, Dave Lang, Nathan Mahelona, Brian Hogstrom, David Nelson, Josiah Drew.
 
@@ -37,7 +37,7 @@ Randy Rose, Sam Ng, Carl Moberly, Tex Prows, Oddie Kelly, Dave Lang, Nathan Mahe
 
 
 ### Great memories of Sacrifice together
-Feeling of thankfulness that I see in words or deeds from others.  I see giving freely and a JOY in 
+Feeling of thankfulness that I see in <b>words, deeds, or actions from others</b>.
 
 - Oddie Kelly.  There are many memories of gospel being shared by Oddie and his comment always begins, "I am so gratfule to be among you ...".
 
@@ -52,8 +52,8 @@ Feeling of thankfulness that I see in words or deeds from others.  I see giving 
 - Nathan and Devi Mahalona.  The great example of going and serving the Lord as missionaries.
 
 
-### This month
-By definition, sacrifice is  simply caring and turning our will toward God.  The spirt most certainly bolsters an such event.
+### Caring this Month
+By definition, <b>sacrifice is simply caring and turning our will toward God</b>.  The spirt most certainly bolsters an such event.
 
 Sister Sigle.  A couple of weeks ago, "our sacrifice" became somewhat "complete" with regards to our long time ward member Claudia Sigle.  Our ward overwhelmed it on this Monday afternoon.  
 
