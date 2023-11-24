@@ -4,7 +4,7 @@ comments: true
 layout: post
 description: Giving is a manifestation of our love for God and His children.
 title: Giving to the Lord
-image: /images/refugee_project_hungry_fed
+image: /images/refugee_project_hungry_fed.webp
 ---
 
 ![hungry]({{site.baseurl}}/images/refugee_project_hungry_fed.webp)
@@ -33,7 +33,7 @@ I came across a card with many signatures and addressed to my son who was servin
 
 Randy Rose, Sam Ng, Carl Moberly, Tex Prows, Oddie Kelly, Dave Lang, Nathan Mahelona, Brian Hogstrom, David Nelson, Josiah Drew.
 
-![card]({{site.baseurl}}/images/afganistan_card.jpeg
+![card]({{site.baseurl}}/images/afganistan_card.jpeg)
 
 
 ### Great memories of Sacrifice together
