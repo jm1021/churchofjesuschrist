@@ -20,13 +20,15 @@ In the news of Ukraine and Gaza, we are <b>SO blesssed to be living in a place o
 
 
 ### Giving to the Lord
-<b>Feelings of respect</b>. These are a few observed acts of service I observed from former weekly acquaintances. Observations that I miss from those that have passed, but <b>who cemented grand memories in me with their lives..</b>
+<b>Feelings of respect</b>.  These are a few observed acts of service I observed from former weekly acquaintances. Observations that I miss from those that have passed, but <b>who cemented grand memories in me with their lives..</b>
 
-- Kristan Kelly.    My memories service memories of Kristan, her glow and observing her service and companionship to Diane Harrington.  
+- Kristan Kelly.  My memories service memories of Kristan, her glow and observing her service and companionship to Diane Harrington.  
 
 - Jack Swain.  My memories of Jack are watching him gather on Spring Meadow Lane with David Tew on his way to the Marine Corps Recruit Depot.  Jack love to talk about this transformitive period in his life.
 
 - Carl Moberly.   My memories of Carl were watching him hike from Poway road to his home after transporting to work on the bus.  I perceived this as a means to give to his family.
+
+- Brad Wishoff.  Tamara had an aunt who was our same age.  He grew up in LA, like me and we did not have a single sports team we agreed upon Dodgers for me, Angels for him. Brad joined the Church against family traditions.
 
 
 ### Acts of Kindness
