@@ -104,8 +104,16 @@ Sometimes burdens of life bring "forced" acts of service.  Watching Lori Moberly
 
 In my case, the <b>Tender mercies of Heaven</b> accompanied my every step.  Small events of failure and realization become lasting memories.  
 
-After Tamraa died, <b>memories, geneology, and temple work interweave</b>.  Similar to Joseph and his experiences with Alvin.<b>  I had experiences of a parted veil</b>.
+After Tamara died, <b>memories, geneology, and temple work interweave</b>.  Similar to Joseph and his experiences with Alvin.<b>  I had experiences of a parted veil</b>.
 
+### Service comes with Risks
+Justin Diczhazy was my friend.  I feel responsible to his Dad in all things.  Justin went to meetings, get aways, or to clinics whenever I asked.   But to some it is not enough.  
+
+Don't think that service will always have a happy ending.
+
+But I witness that God has touched me in all adveristies.   Justin died of overdose. My brothers died from AIDS. My son-in-law died from a self inflicted wound. 
+
+<b>We may never know God's plan</b>. 
 
 ### Faith inspired acts of service
 I believe <b>God opens doors and miracles to those who seek them</b>.  In my case, I looked an after coorporate life mircale...
