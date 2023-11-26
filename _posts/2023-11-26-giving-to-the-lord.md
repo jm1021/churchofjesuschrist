@@ -80,9 +80,11 @@ Our faith and desire to server is bolstered by community.    The Church and stak
 
 
 ### Seeking service
-Looking to the Church helps.  Transitions in <b>life are a series of starts, continuations, and some ends<b>.  Serving God is love, <b>love never ends</b>. 
+<b>Looking to the Church helps</b>.  Transitions in <b>life are a series of starts, continuations, and some ends<b>.  
 
-Sometimes our balance changes.  The percentages of showing God's love change(+-), the key is <b>finding good balances</b>.  Trying in all phases to find 
+<b>Serving God is love, love never ends</b>. 
+
+Sometimes our balance changes.  The percentages of showing God's love change(+-), the key is <b>finding good balances</b>.  Trying to find God through faith in all phases of Church and Adult life.
 
 - Seminary and High School (bolster your day)
 - A truck driver 1 year (preparing to serve) 🥲
