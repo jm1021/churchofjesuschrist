@@ -96,17 +96,17 @@ Light the world begins with a smile.   Then the light of us all Jesus Christ see
 ### Forced acts of service
 Sometimes burdens of life bring "forced" acts of service.  Watching Lori Moberly with Carl reminded me back to my time with Tamara.  In such a situation, you know the end is coming, you just don't know when.
 
-In my case, the "Tender mercies of Heaven" accompanied my every step.  Small events of failure and realization become lasting memories.  
+In my case, the <b>Tender mercies of Heaven</b> accompanied my every step.  Small events of failure and realization become lasting memories.  
 
-After Tamraa died, I had the weaving of these <b>memories, geneology, and deceased relatives interweave</b>.  Similar to Joseph and his experiences with Alvin.
+After Tamraa died, <b>memories, geneology, and temple work interweave</b>.  Similar to Joseph and his experiences with Alvin.  <b>I had experiences of a parted veil</b>.
 
 
-### Sought after acts of service
-I have beeen fortuante to work where I see my son Shay on a daily basis.   My work, is my form of service.   <b>Many things folded together to help me make a service choice</b>.  
-
-I believe "God opens doors and miracles to those who seek them".  Not only as individuals opportunities, but often as chruch opportunities.  In my case, I looked at the Church for my after coorporate mircale...
+### Faith inspired acts of service
+I believe <b>God opens doors and miracles to those who seek them</b>.  In my case, I looked an after coorporate life mircale...
 
 - Served as a badged missionary and Wildwood Ranch
 - Served as a one day a week Temple Worker
+- Served in logistic operations worker at the Red Cross
 - Served as a Math Teaching assistant at San Diego High School
-- Served in logistic operations at the Red Cross
+
+I have beeen fortuante to have found an opportunity where I see my son Shay on a daily basis.   <b>Many things folded together to help me make Teaching a service choice</b>.
