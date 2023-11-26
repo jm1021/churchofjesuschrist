@@ -114,3 +114,11 @@ I believe <b>God opens doors and miracles to those who seek them</b>.  In my cas
 - Served as a Math Teaching assistant at San Diego High School
 
 I have beeen fortuante to have found an opportunity where I see my son Shay on a daily basis.   <b>Many things folded together to help me make Teaching a service choice</b>.
+
+
+### Model Trains and Service
+Best intentions sometimes mess up.   I was trying to "serve", but it did not work out the way I expected.   Sorry Roy, Tiernan, Shay and others.  Service should not be by my parameters.
+
+I tried to give gas money to my daughter during Thanksgiving.  Sorry Claire, I will try to keep sickness to my own time.
+
+Overall, God is love, family is love.  Ward family is love.   The service is were we can tend to make <b>things more difficult</b>.
