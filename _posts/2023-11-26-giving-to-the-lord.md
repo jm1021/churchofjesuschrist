@@ -100,20 +100,26 @@ Sometimes our balance changes.  The percentages of showing God's love change(+-)
 
 
 ### Forced acts of service
-Sometimes burdens of life bring "forced" acts of service.  Watching Lori Moberly with Carl reminded me back to my time with Tamara.  In such a situation, you know the end is coming, you just don't know when.
+Sometimes burdens of life bring <b>"forced" acts of service</b>.  Watching Lori Moberly with Carl <b>reminded me back to my time with Tamara</b>.  In such a situation, you know the end is coming, you just don't know when.  As a 3rd party, to Lori and Carl it is hard to know what to do.
 
-In my case, the <b>Tender mercies of Heaven</b> accompanied my every step.  Small events of failure and realization become lasting memories.  
+In my case with Tamara, the <b>Tender mercies of Heaven</b> accompanied my every step.  Small events of failure and realization become lasting memories.  
 
-After Tamara died, <b>memories, geneology, and temple work interweave</b>.  Similar to Joseph and his experiences with Alvin.<b>  I had experiences of a parted veil</b>.
+After Tamara died, <b>memories, geneology, and temple work interweave</b>.  
+
+Similar to Joseph and his experiences with Alvin.<b>  I had experiences of a parted veil in my dreams</b>.
 
 ### Service comes with Risks
-Justin Diczhazy was my friend.  I feel responsible to his Dad in all things.  Justin went to meetings, get aways, or to clinics whenever I asked.   But to some it is not enough.  
+<b>Justin Diczhazy</b> was my friend.  I felt responsible to his Dad and Justin in all things.  Justin went to meetings, get aways, or to clinics whenever I asked.
+
+My <b>Brother Jase</b> came to me in sickness.  He was my look up to figure from my youth.
 
 Don't think that service will always have a happy ending.
 
-But I witness that God has touched me in all adveristies.   Justin died of overdose. My brothers died from AIDS. My son-in-law died from a self inflicted wound. 
+Justin died of overdose. 
 
-<b>We may never know God's plan</b>. 
+My brothers died from AIDS.
+
+<b>We may never know God's plan</b>. But I witness that God has touched me in all my Service events.  
 
 ### Faith inspired acts of service
 I believe <b>God opens doors and miracles to those who seek them</b>.  In my case, I looked an after coorporate life mircale...
