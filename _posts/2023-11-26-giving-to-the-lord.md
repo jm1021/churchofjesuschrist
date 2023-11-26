@@ -19,7 +19,7 @@ A time of thankful reflection.
 
 
 ### Great memories from our Ward members in Heaven
-<b>Feelings of gratitde</b> I have observed from former acquaintances with those who have passed.
+<b>Feelings of respect</b>. These are a few observed acts of service I observed from former weekly acquaintances. Observations that I miss from those who have passed, but cemented grand memories.
 
 - Kristan Kelly.    My memories service memories of Kristan, her glow and observing her service and companionship to Diane Harrington.  
 
@@ -29,31 +29,33 @@ A time of thankful reflection.
 
 
 ### Years Ago, Acts of Kindness
-I came across a <b>card with many signatures</b> and addressed to my son who was serving in Afganistan.  This was a card thanking Trent for his service.    It was signed by many in our ward today...
+I came across an act of Kindness, a <b>card with many signatures</b> addressed to my son who was serving in Afganistan December 2011.  This was a card thanking Trent for his service.    It was signed by many in our ward today...
 
 Randy Rose, Sam Ng, Carl Moberly, Tex Prows, Oddie Kelly, Dave Lang, Nathan Mahelona, Brian Hogstrom, David Nelson, Josiah Drew.
 
 ![card]({{site.baseurl}}/images/afganistan_card.jpeg)
 
 
-### Great memories of Sacrifice together
-Feeling of thankfulness that I see in <b>words, deeds, or actions from others</b>.
+### Sacrifice for each other
+For any service there is a feeling thankfulness by another.  I want to share some of my thank you observation I see in <b>words, deeds, or actions from other Ward members</b>.
 
-- Oddie Kelly.  There are many memories of gospel being shared by Oddie and his comment always begins, "I am so gratfule to be among you ...".
+- Oddie Kelly.  There are many memories of gospel being shared in oue classrooms. Oddie is someone I have counted on for participation. Oddie and his comments always begin, "I am so gratfule to be among you ...".
 
-- Brian Akagi.   I have always been amazed at the behind the scenes service I have seen from Brian in the media room, or elsewhere.
+- Brian Akagi.   I have always been amazed at the behind the scenes service I have seen from Brian in the media room, he has assisted in bringing the broadcast to those of us in need.  Brian's behind the scenes efforts don't end there...
 
-- Taelure Nelson.   I don't believe there has ever been and activity where you have not seen Taelure doing something productive and important behind the scenes.
+- Heidi Drew.  The years of Music responsibility.  The music of Christmas and other holidays has been filled with music provided by Heidi for many years.  Her efforts stand out as a memory for me, particularly when I participate in choir.
 
-- Terry Finch, Eddie Strause, Mark Edmonson.   The years of building the scenes.  There is a feeling of yesteryear and service reminisence in all the provide in props.
+- Gavin Raichart.  The years of Testimony meeting responsibility.  There have been many "man' size and heart felt testimonies from this "getting" older young person.
 
-- Gavin Raichart.  The years of Testimony responsibility.  There have been many "man' size testimonies from this "getting" older young person.
+- Taelure Nelson.   I don't believe there has ever been and munch-and-mingle activity where I have not seen Taelure doing something productive and important behind the scenes.  Taelure is always doing something to serve us ..
 
-- Nathan and Devi Mahalona.  The great example of going and serving the Lord as missionaries.
+- Terry Finch, Eddie Strause, Mark Edmonson.   The building the scenes of Halloween and Christmas.  There is a feeling of yesteryear and service reminisence in all the provide in props.
+
+- Nathan and Devi Mahalona.  The great example of going and serving the Lord as missionaries.  They represent who I want to become ..
 
 
-### Caring this Month
-By definition, <b>sacrifice is simply caring and turning our will toward God</b>.  The spirt most certainly bolsters an such event.
+### Ward Caring in November
+By definition, <b>sacrifice is simply caring and turning our will toward God</b>.  The spirt most certainly bolsters any such event.
 
 Sister Sigle.  A couple of weeks ago, "<b>our sacrifice</b>" became somewhat "<b>complete</b>" with regards to our long time ward member Claudia Sigle.  Our ward overwhelmed it on this Monday afternoon.  
 
@@ -64,9 +66,12 @@ I arrived on the scene and surely Taelure Nelson was there with Claudia Hernande
 ![move]({{site.baseurl}}/images/sigle_move.jpeg)
 
 
-### Always be Seeking
-Transitions in <b>life are a series of starts, continuations, and some ends<b>.  Serving God is love, <b>love never ends</b>. But percentages change(+-), the key is <b>finding good balances</b>.
+### Seeking service
+Transitions in <b>life are a series of starts, continuations, and some ends<b>.  Serving God is love, <b>love never ends</b>. 
 
+Sometimes our balance changes.  The percentages of showing God's love change(+-), the key is <b>finding good balances</b>.  Trying in all phases to find 
+
+- Seminary and High School (bolster your day)
 - A truck driver 1 year (preparing to serve) 🥲
 - A missionary; 2 years  (90% serving God)  👍
 - A college student; 4 years (10% serving God)
@@ -75,3 +80,33 @@ Transitions in <b>life are a series of starts, continuations, and some ends<b>. 
  - A father; Trent, Corey, Claire, Tiernan, Shay, 36 years 👏
  - A grandfather; Amelia, Cruz, and Gavi; 9 years 😇
 - A teacher, working on my 5th year (focus on education, 50% serving God) 🫶
+
+## Church "Light the World"
+Our faith and desire to server is bolstered by community.    The Church and stake Mikkel ans Schafer send a lot of messages to help us remember Joy and to share Light.
+
+- #1 Give your favorite book to someone.   I see a bond between my wife and her mother by sharing simple things.
+
+...
+
+- #50 Laugh with a friend.  On our Sigle move, it seemed that there was a lot of laughter.  Simple watching people work together awkwardly brings a lot of job.
+
+Light the world begins with a smile.   Then the light of us all Jesus Christ seems to come through our simple actions.
+
+
+### Forced acts of service
+Sometimes burdens of life bring "forced" acts of service.  Watching Lori Moberly with Carl reminded me back to my time with Tamara.  In such a situation, you know the end is coming, you just don't know when.
+
+In my case, the "Tender mercies of Heaven" accompanied my every step.  Small events of failure and realization become lasting memories.  
+
+After Tamraa died, I had the weaving of these <b>memories, geneology, and deceased relatives interweave</b>.  Similar to Joseph and his experiences with Alvin.
+
+
+### Sought after acts of service
+I have beeen fortuante to work where I see my son Shay on a daily basis.   My work, is my form of service.   <b>Many things folded together to help me make a service choice</b>.  
+
+I believe "God opens doors and miracles to those who seek them".  Not only as individuals opportunities, but often as chruch opportunities.  In my case, I looked at the Church for my after coorporate mircale...
+
+- Served as a badged missionary and Wildwood Ranch
+- Served as a one day a week Temple Worker
+- Served as a Math Teaching assistant at San Diego High School
+- Served in logistic operations at the Red Cross
