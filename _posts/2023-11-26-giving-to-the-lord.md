@@ -95,7 +95,6 @@ Sometimes our balance changes.  The percentages of showing God's love change(+-)
 - A teacher, working on my 5th year (focus on education, 50% serving God) 🫶
 
 
-
 ### Forced acts of service
 Sometimes burdens of life bring "forced" acts of service.  Watching Lori Moberly with Carl reminded me back to my time with Tamara.  In such a situation, you know the end is coming, you just don't know when.
 
