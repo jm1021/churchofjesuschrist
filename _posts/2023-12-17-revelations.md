@@ -74,7 +74,7 @@ A Marvelous work is the start of the 7th Seal.
 
 15 And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, **Thrust in thy sickle**, and reap: for the time is come for thee to reap; for **the harvest of the earth is ripe**.
 
-## Reason for the Season (Brith of Jesus Christ)
+## Reason for the Season (Birth of Jesus Christ)
 “Christmas is not only a celebration of how Jesus came into the world but also of **knowing who He is—our Lord and Savior**, Jesus Christ—and of why He came”
 
 ### A Christ Child 
