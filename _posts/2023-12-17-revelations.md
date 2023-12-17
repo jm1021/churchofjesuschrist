@@ -77,7 +77,10 @@ A Marvelous work is the start of the 7th Seal.
 ## Reason for the Season (Brith of Jesus Christ)
 “Christmas is not only a celebration of how Jesus came into the world but also of **knowing who He is—our Lord and Savior**, Jesus Christ—and of why He came”
 
-### Chronological order of events surrounding the birth of Jesus
+### A Christ Child 
+The Christ Child Nativity Story;  [Video #LigthTheWorld](https://www.churchofjesuschrist.org/study/video/the-christ-child-a-nativity-story/2019-09-0050-the-christ-child-a-nativity-story-lighttheworld-1080p-eng?lang=eng)
+
+Scriptures in Chronological Order
 
 - Mary, the angel Gabriel. [Luke 1:26–38](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/1?lang=eng&id=26-38#p26)
 
@@ -114,7 +117,3 @@ A Marvelous work is the start of the 7th Seal.
 
 25 **For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls**.
 
-<li>
-<p data-aid="146480777" id="p26">Watch the video “The Christ Child” (<span class="language" lang="eng">ChurchofJesusChrist.org</span>).</p>
-<div class="sc-bvqtyr-0 duiKkI video-vMiKm video" height="auto" title="The Christ Child" width="auto"><div class="sc-bvqtyr-1 inwLwu"><div></div><div class="sc-bvqtyr-5 bhoNaP"><div class="sc-cb9hq5-0 gMbUXa"><div class="sc-cb9hq5-1 eJpFlz"><svg width="50" height="50" viewBox="0 0 50 50" role="progressbar" aria-valuemin="0" aria-valuemax="1"><circle cx="25" cy="25" r="22.5" stroke-width="5px" class="sc-cb9hq5-2 hBHaqH"></circle><circle cx="25" cy="25" r="22.5" stroke-width="5px" style="stroke-dasharray:141.3716694115407;stroke-dashoffset:124.40706908215581" class="sc-cb9hq5-3 bJMUkn"></circle></svg></div></div></div></div></div>
-</li>
