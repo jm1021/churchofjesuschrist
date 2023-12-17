@@ -9,8 +9,14 @@ image: /images/savior_jesus_teaching_heaven_angels.webp
 
 ![Savior]({{site.baseurl}}/images/savior_jesus_teaching_heaven_angels.webp)
 
+[Revelation 1-5](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-individuals-and-families-new-testament-2023/50?lang=eng)
 
-## Best Intentions (Light the World)
+[Revelation 6-14](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-individuals-and-families-new-testament-2023/51?lang=eng)
+
+[Christmas](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-individuals-and-families-new-testament-2023/52?lang=eng)
+
+
+## Best Intentions (Be a Light the World)
 Best intentions sometimes mess up. The month of November was full of resets on my service plans.
 
 Train Day. I was trying to "serve" my Father-in-Law, but the room setup did not work out the way I expected.   Sorry, Roy, Tiernan, Shay and others.  Service should not be by my parameters.
@@ -69,9 +75,9 @@ A Marvelous work is the start of the 7th Seal.
 15 And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, **Thrust in thy sickle**, and reap: for the time is come for thee to reap; for **the harvest of the earth is ripe**.
 
 ## Reason for the Season (Brith of Jesus Christ)
-“Christmas is not only a celebration of how Jesus came into the world but also of knowing who He is—our Lord and Savior, Jesus Christ—and of why He came”
+“Christmas is not only a celebration of how Jesus came into the world but also of **knowing who He is—our Lord and Savior**, Jesus Christ—and of why He came”
 
-Chronological order of events surrounding the birth of Jesus
+### Chronological order of events surrounding the birth of Jesus
 
 - Mary, the angel Gabriel. [Luke 1:26–38](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/1?lang=eng&id=26-38#p26)
 
@@ -80,3 +86,35 @@ Chronological order of events surrounding the birth of Jesus
 - Birth of Jesus. [Luke 2:1–20](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/2?lang=eng&id=1-20#p1)
 
 - The wise men. [Matthew 2:1–12](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng&id=1-12#p1)
+
+### Jesus fulfilled his mission
+
+[1 Corinthians 15:21–26](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/15?lang=eng&id=21-26#p21)
+21 For since by man came death, by man came also the resurrection of the dead.
+
+22 **For as in Adam all die, even so in Christ shall all be made alive.**
+
+23 But every man in his own order: Christ the first fruits; afterward they that are Christ’s at his coming.
+
+24 Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power.
+
+25 For he must reign, till he hath put all enemies under his feet.
+
+26 **The last enemy that shall be destroyed is death**.
+
+[1 Peter 2:21–25]()
+
+21 For even hereunto were ye called: because **Christ also suffered for us, leaving us an example, that ye should follow his steps**:
+
+22 Who did no sin, neither was guile found in his mouth:
+
+23 Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:
+
+24 Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.
+
+25 **For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls**.
+
+<li>
+<p data-aid="146480777" id="p26">Watch the video “The Christ Child” (<span class="language" lang="eng">ChurchofJesusChrist.org</span>).</p>
+<div class="sc-bvqtyr-0 duiKkI video-vMiKm video" height="auto" title="The Christ Child" width="auto"><div class="sc-bvqtyr-1 inwLwu"><div></div><div class="sc-bvqtyr-5 bhoNaP"><div class="sc-cb9hq5-0 gMbUXa"><div class="sc-cb9hq5-1 eJpFlz"><svg width="50" height="50" viewBox="0 0 50 50" role="progressbar" aria-valuemin="0" aria-valuemax="1"><circle cx="25" cy="25" r="22.5" stroke-width="5px" class="sc-cb9hq5-2 hBHaqH"></circle><circle cx="25" cy="25" r="22.5" stroke-width="5px" style="stroke-dasharray:141.3716694115407;stroke-dashoffset:124.40706908215581" class="sc-cb9hq5-3 bJMUkn"></circle></svg></div></div></div></div></div>
+</li>
