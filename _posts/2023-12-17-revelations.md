@@ -117,3 +117,4 @@ Scriptures in Chronological Order
 
 25 **For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls**.
 
+Shepherds represent us 9:21 of Nativity Video
