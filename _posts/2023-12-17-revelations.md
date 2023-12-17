@@ -16,7 +16,7 @@ image: /images/savior_jesus_teaching_heaven_angels.webp
 [Christmas](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-individuals-and-families-new-testament-2023/52?lang=eng)
 
 
-## Best Intentions (Be a Light the World)
+## Best Intentions [#LightTheWorld](https://www.churchofjesuschrist.org/comeuntochrist/light-the-world)
 Best intentions sometimes mess up. The month of November was full of resets on my service plans.
 
 Train Day. I was trying to "serve" my Father-in-Law, but the room setup did not work out the way I expected.   Sorry, Roy, Tiernan, Shay and others.  Service should not be by my parameters.
