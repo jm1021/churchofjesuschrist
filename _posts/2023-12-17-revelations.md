@@ -22,7 +22,7 @@ Church Talk.  The day after we took Shay to emergency and the day after he had b
 God is love, family is love.  We will finally get back to our Train day this afternoon, thanks to the service to me by Lora.  Claire came and visited in a time of need, she provided me with service.  Shay overcame and is back on his feet, thanks to many many tender mercies of the Lord and service by Nurses and Doctors.
 
 ## Revelations 2 (God Provides, cross reference 1 Nephi 8 & 11)
-Tree of Life and a new name.  These are blessings sometimes though of as beyond.  But we can have them now.
+Tree of Life and a new name.  These blessings sometimes are thought of as beyond the world.  But we can have the blessing of the knowledge of the tree of life now.
 
 7 He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the **tree of life**, which is in the midst of the paradise of God.
 
@@ -67,3 +67,16 @@ A Marvelous work is the start of the 7th Seal.
 13 And I heard a voice from heaven saying unto me, Write, **Blessed are the dead which die in the Lord** from henceforth: Yea, saith the Spirit, that they may rest from their labours; and **their works do follow them**.
 
 15 And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, **Thrust in thy sickle**, and reap: for the time is come for thee to reap; for **the harvest of the earth is ripe**.
+
+## Reason for the Season (Brith of Jesus Christ)
+“Christmas is not only a celebration of how Jesus came into the world but also of knowing who He is—our Lord and Savior, Jesus Christ—and of why He came”
+
+Chronological order of events surrounding the birth of Jesus
+
+- Mary, the angel Gabriel. [Luke 1:26–38](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/1?lang=eng&id=26-38#p26)
+
+- Joseph, the angel in a dream.  [Matthew](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/1?lang=eng&id=18-25#p18)
+
+- Birth of Jesus. [Luke 2:1–20](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/2?lang=eng&id=1-20#p1)
+
+- The wise men. [Matthew 2:1–12](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng&id=1-12#p1)
