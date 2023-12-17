@@ -7,29 +7,29 @@ title: Giving to the Lord
 image: /images/savior_jesus_teaching_heaven_angels.webp
 ---
 
-![avior]({{site.baseurl}}/images/savior_jesus_teaching_heaven_angels.webp)
+![Savior]({{site.baseurl}}/images/savior_jesus_teaching_heaven_angels.webp)
 
 
 ## Best Intentions (Light the World)
 Best intentions sometimes mess up. The month of November was full of resets on my service plans.
 
-Train Day. I was trying to "serve" my Father-in-Law, but room setup did not work out the way I expected.   Sorry Roy, Tiernan, Shay and others.  Service should not be by my parameters.
+Train Day. I was trying to "serve" my Father-in-Law, but the room setup did not work out the way I expected.   Sorry, Roy, Tiernan, Shay and others.  Service should not be by my parameters.
 
-Thanksgiving with my Daughter.  I tried to give gas money to my daughter during Thanksgiving with the intent to have a fun visit.  Sorry Claire, I will try to keep sickness to my own time.
+Thanksgiving with my Daughter.  I tried to give gas money to my daughter during Thanksgiving with the intent to have a fun visit.  Sorry Claire... I will try to keep sickness to my own time.
 
 Church Talk.  The day after we took Shay to emergency and the day after he had bacterial meningitis.  Service plans, work, and the world seem to stand still in this type of crisis.
 
-God is love, family is love.  We will finally get back to our Train day this afternoon, thanks to service to me by Lora.  Claire came and visited in a time of need, she provied me service.  Shay overcame and is back on his feet, thanks to many-many tender mercies of the Lord and service by Nurses and Doctors.
+God is love, family is love.  We will finally get back to our Train day this afternoon, thanks to the service to me by Lora.  Claire came and visited in a time of need, she provided me with service.  Shay overcame and is back on his feet, thanks to many many tender mercies of the Lord and service by Nurses and Doctors.
 
 ## Revelations 2 (God Provides, cross reference 1 Nephi 8 & 11)
-Tree of Life and a new name.  These are blessing sometimes though of as beyond.  But we can have them now.
+Tree of Life and a new name.  These are blessings sometimes though of as beyond.  But we can have them now.
 
 7 He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the **tree of life**, which is in the midst of the paradise of God.
 
 17 He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of **the hidden manna**, and will give him a white stone, and in the stone **a new name** written, which no man knoweth saving he that receiveth it.
 
 ## Revelations 7 (Temple Blessings)
-Promised blessings flow to them that choose to remain faithful and follow the Lord.  The Temple is central to overcomming. 
+Promised blessings flow to those who choose to remain faithful and follow the Lord.  The Temple is central to overcoming. 
  The pure in heart that shall come into it shall see God. D&C 97:15-16
  You will feel God’s power. D&C 109:13
  You will learn words of wisdom. D&C 109:14-15
