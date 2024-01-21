@@ -50,5 +50,5 @@ The Word of God leads to the Love of God
 
 - 8:24 And it came to pass that I beheld others pressing forward, and **they came forth and caught hold of the end of the rod of iron**; and they did press forward through the mist of darkness, **clinging to the rod of iron, even until they did come forth and partake of the fruit of the tree**.
 
-Nephi's addition
-30 But, to be short in writing, behold, he saw other multitudes pressing forward; and they came and caught hold of the end of the rod of iron; and they did press their way forward, continually holding fast to the rod of iron, **until they came forth and fell down and partook of the fruit of the tree**.
+Nephi's addition includes "fell down"
+- 30 But, to be short in writing, behold, he saw other multitudes pressing forward; and they came and caught hold of the end of the rod of iron; and they did press their way forward, continually holding fast to the rod of iron, **until they came forth and fell down and partook of the fruit of the tree**.
