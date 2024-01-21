@@ -13,7 +13,7 @@ image: /images/lehis_dream_steven_neal.webp
 
 [1 Nephi 6–10](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/03?lang=eng)
 
-## Topic Reminders 1 Nephi 1-5
+## Topic Reminders 1 Nephi 1-10
 
 - I can gain and strengthen my testimony as I turn to the Lord.
   - 1 Nephi 2:16 And it came to pass that I, Nephi, being exceedingly young, nevertheless being large in stature, and also having great desires to know of the mysteries of God, wherefore, **I did cry unto the Lord; and behold he did visit me, and did soften my heart that I did believe all the words which had been spoken by my father**; wherefore, I did not rebel against him like unto my brothers.
@@ -26,6 +26,12 @@ image: /images/lehis_dream_steven_neal.webp
 
 - The plates identify Lehi as a descendant of Joseph.
   - 1 Nephi 5:14 And it came to pass that my father, **Lehi, also found upon the plates of brass a genealogy of his fathers; wherefore he knew that he was a descendant of Joseph**; yea, even that Joseph who was the son of Jacob, who was sold into Egypt, and who was preserved by the hand of the Lord, that he might preserve his father, Jacob, and all his household from perishing with famine.
+
+- We can forgive others.
+  - 1 Nephi 7:20,21  “frankly forgive”. 20 And it came to pass that **they were sorrowful**, because of their wickedness, insomuch that they did bow down before me, and did plead with me that I would forgive them of the thing that they had done against me.  21 And it came to pass that **I did frankly forgive them all that they had done**, and I did exhort them that they would pray unto the Lord their God for forgiveness. And it came to pass that they did so. And after they had done praying unto the Lord we did again travel on our journey towards the tent of our father.
+
+- God will reveal truth to me by the power of the Holy Ghost.
+  - 1 Nephi 10:19 For **he that diligently seeketh shall find; and the mysteries of God shall be unfolded unto them, by the power of the Holy Ghost**, as well in these times as in times of old, and as well in times of old **as in times to come**; wherefore, the course of **the Lord is one eternal round**.
 
 ## Tree of Life
 Dreams can be Visions
