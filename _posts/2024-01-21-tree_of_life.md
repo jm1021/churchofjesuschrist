@@ -7,7 +7,7 @@ title: Come and Partake of the Fruit
 image: /images/lehis_dream_steven_neal.webp
 ---
 
-![Neal]({{site.baseurl}}/images/ehis_dream_steven_neal.webp)
+![Neal]({{site.baseurl}}/images/lehis_dream_steven_neal.webp)
 
 [1 Nephi 1–5](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/02?lang=eng)
 
