@@ -58,3 +58,39 @@ The Word of God leads to the Love of God
 
 Nephi's reflection includes "fell down"
 - 30 But, to be short in writing, behold, he saw other multitudes pressing forward; and they came and caught hold of the end of the rod of iron; and they did press their way forward, continually holding fast to the rod of iron, **until they came forth and fell down and partook of the fruit of the tree**.
+
+### My Thoughts / General interpretation
+
+The prophet, Lehi in this case, seems to have a direct encounter with a divine figure (the man in the white robe) who guides him through a dark and dreary waste. This could be interpreted as a metaphor for a prophet's journey, often filled with trials and tribulations, but guided by divine revelation.
+
+The people, on the other hand, follow a "strait and narrow path" along a "rod of iron" to reach the tree. This could be interpreted as a metaphor for adherence to religious laws and principles (the rod of iron) that guide people towards the Love of God (the fruit of the tree). The fact that they "cling" to the rod suggests a reliance on these principles to navigate through the "mist of darkness", possibly representing uncertainty or the challenges of life.
+
+The phrase "until they came forth and fell down" could be interpreted in different ways ...
+
+- Humility: Falling down before partaking of the fruit of the tree could be seen as a sign of humility. In our religious traditions, bowing or falling down is a common gesture of reverence to the divine.  This could be meeting Jesus and glorifying being in his presence. 
+
+- Being weary: Alternatively, it could also symbolize the exhaustion or weariness from the journey along the "strait and narrow path". The journey to the Tree of Life is not described as an easy one, and the act of falling down could symbolize the difficulties endured along the way.  A moment to glory in one's accomplishment.
+
+It's important to note that these ending experiences are not mutually exclusive. The act of falling down could be seen as both a sign of humility and a divine acknowledgment of the hardships endured on one's spiritual journey.
+
+### My Thoughts / Personal Interpretation
+
+Hold to the Rod, March 6, 2016.  This is a vision or story that had a deep impact on Lehi and Nephi. It too has had an impact on me... When I am right with God I feel the joyous taste and the need to direct my family to the same. I also have felt disappointment and sorrow when they don't appear to follow. It can weaken me and may weaken my hold, but today as I read I further resolve myself to covenant and taste the good fruit.
+
+  Great story... Many things to think about... The bottom line is to keep the commandments!
+
+Today, January 21, 2024.  My focus is on the love of God. The glory of the fruit has been my focus. This week I have been in counseling with parents at school, regarding their children. I am grateful for the love of God that helps me in my journey. Everyone has the same trials, the love abounds for us all. I see perspective and eternity in all my children. I believe the love we receive will bless our children and the people we interact with in our journey.
+
+  One eternal round in the 1 Nephi 10:19 interpretation signifies that everything we do has a great purpose 
+
+### The depth added with 1 Nephi 10:17-19
+
+- 17 And it came to pass after I, Nephi, having heard all the words of my father, concerning the things which he saw in a vision, and also the things which he spake by the power of the Holy Ghost, which power he received by faith on the Son of God—and the Son of God was the Messiah who should come—I, Nephi, was desirous also that I might see, and hear, and know of these things, by the power of the Holy Ghost, **which is the gift of God unto all those who diligently seek him**, as well in times of hold as in the time that he should manifest himself unto the children of men.
+
+  Aug 29, 2012. Nephi understood his right to the wisdom of God. He understood he could have what his Father had. He just needed righteousness, faith and the Holy Ghost. We study scripture, look to examples, or even to our ancestor's stories to understand our capabilities and entitlements. The next few verses written by Nephi further my thesis.
+
+- 18 For he is the same yesterday, today, and forever; and the way is prepared for all men from the foundation of the world, if it so be that they repent and come unto him.
+
+- 19 For he that diligently seeketh shall find; and the mysteries of God shall be unfolded unto them, by the power of the Holy Ghost, as well in these times as in times of old, and as well in times of old as in times to come; wherefore, the course of the Lord is one eternal round.
+
+    Jan 21, 2024.  The plan is always focussed on the eternal Love of God.  The Savior is so involved as we cling to the rod.  The gifts we receive from the fruit are eternal, eternal life is God's life.  It is glorious for us now and forever.  The spirit has taught even me, to focus in on the fruit.  As we are positive in the Love of God, we change our closeness to God, then our children benefit, and our new nature flows into the world.
