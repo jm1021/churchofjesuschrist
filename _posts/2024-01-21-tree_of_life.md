@@ -28,12 +28,27 @@ image: /images/lehis_dream_steven_neal.webp
   - 1 Nephi 5:14 And it came to pass that my father, **Lehi, also found upon the plates of brass a genealogy of his fathers; wherefore he knew that he was a descendant of Joseph**; yea, even that Joseph who was the son of Jacob, who was sold into Egypt, and who was preserved by the hand of the Lord, that he might preserve his father, Jacob, and all his household from perishing with famine.
 
 ## Tree of Life
-1 Nephi 8:2 And it came to pass that while my father tarried in the wilderness he spake unto us, saying: Behold, I have dreamed a dream; or, in other words, I have seen a vision.
+Dreams can be Visions
+- 1 Nephi 8:2 And it came to pass that while my father tarried in the wilderness he spake unto us, saying: Behold, I have dreamed a dream; or, in other words, I have seen a vision.
 
-And it came to pass that I saw a man, and he was dressed in a white robe; and he came and stood before me.
+Any path to the Love of God can be accompanied by trial
+- 8:5 And it came to pass that I saw a man, and he was dressed in a white robe; and he came and stood before me.
 
-8:6 And it came to pass that he spake unto me, and bade me follow him.
+- 8:6 And it came to pass that he spake unto me, and **bade me follow him**.
 
-8:7 And it came to pass that as I followed him I beheld myself that I was in a dark and dreary waste.
+- 8:7 And it came to pass that as I followed him I beheld myself that **I was in a dark and dreary waste**.
 
-8:8 And after I had traveled for the space of many hours in darkness, I began to pray unto the Lord that he would have mercy on me, according to the multitude of his tender mercies.
+- 8:8 And after I had traveled for the space of many hours in darkness, **I began to pray unto the Lord that he would have mercy on me, according to the multitude of his tender mercies**.
+
+The Love of God
+- 8:12 And as **I partook of the fruit thereof it filled my soul** with exceedingly great joy; wherefore, I began to be desirous that my family should partake of it also; for I knew that it was desirable above all other fruit.
+
+The Word of God leads to the Love of God
+- 8:19 And **I beheld a rod of iron**, and it extended along the bank of the river, and led to the tree by which I stood.
+
+- 8:20 And **I also beheld a strait and narrow path**, which came along by the rod of iron, even to the tree by which I stood;
+
+- 8:24 And it came to pass that I beheld others pressing forward, and **they came forth and caught hold of the end of the rod of iron**; and they did press forward through the mist of darkness, **clinging to the rod of iron, even until they did come forth and partake of the fruit of the tree**.
+
+Nephi's addition
+30 But, to be short in writing, behold, he saw other multitudes pressing forward; and they came and caught hold of the end of the rod of iron; and they did press their way forward, continually holding fast to the rod of iron, **until they came forth and fell down and partook of the fruit of the tree**.
