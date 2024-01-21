@@ -13,29 +13,35 @@ image: /images/lehis_dream_steven_neal.webp
 
 [1 Nephi 6–10](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/03?lang=eng)
 
-## Topic Reminders 1 Nephi 1-10
-**"Focus in", on the Fruit**.  
+## "Focus in", on the Fruit
+Topic reminders and questions from 1 Nephi 1-10
 
 As we talk today, I want us to think of the Love of God and how the Spirit speaks to you. 
 
 There are six questions with scriptures below, pause when the Spirit speaks to you.  **Think of and potentially share what the Spirit says to you about the Love of God**.
 
+### Q1 Turn to the Lord
 - I can gain and strengthen my testimony as I turn to the Lord.  **What does it mean to you to "turn to the Lord"?**
   - 1 Nephi 2:16 And it came to pass that I, Nephi, being exceedingly young, nevertheless being large in stature, and also having great desires to know of the mysteries of God, wherefore, **I did cry unto the Lord; and behold he did visit me, and did soften my heart that I did believe all the words which had been spoken by my father**; wherefore, I did not rebel against him like unto my brothers.
 
+### Q2 God's will
 - God will prepare a way for me to do His will.  **How do you know when you are doing God's will?**
   - 1 Nephi 3:7 And it came to pass that I, Nephi, said unto my father: I will go and do the things which the Lord hath commanded, **for I know that the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them**.
 
+### Q3 Important stories
 - The word of God is “of great worth”.  **What records do you feel are dear to you and your family?**
   - 1 Nephi 4:13 Behold the Lord slayeth the wicked to bring forth his righteous purposes. **It is better that one man should perish than that a nation should dwindle and perish in unbelief**.
 
+### Q4 Family lineage
 - The plates identify Lehi as a descendant of Joseph.  **Do you know your lineage?  Why is it important?**
   - 1 Nephi 5:14 And it came to pass that my father, **Lehi, also found upon the plates of brass a genealogy of his fathers; wherefore he knew that he was a descendant of Joseph**; yea, even that Joseph who was the son of Jacob, who was sold into Egypt, and who was preserved by the hand of the Lord, that he might preserve his father, Jacob, and all his household from perishing with famine.
 
+### Q5 Frankly forgiving
 - We can forgive others.  **Have you ever felt a transformation by forgiving someone?**
   - 1 Nephi 7:20,21  “frankly forgive”. 20 And it came to pass that **they were sorrowful**, because of their wickedness, insomuch that they did bow down before me, and did plead with me that I would forgive them of the thing that they had done against me.  21 And it came to pass that **I did frankly forgive them all that they had done**, and I did exhort them that they would pray unto the Lord their God for forgiveness. And it came to pass that they did so. And after they had done praying unto the Lord we did again travel on our journey towards the tent of our father.
 
-- God will reveal truth to me by the power of the Holy Ghost.  **What is your quest for truth?**
+### Q6 God will reveal truth
+- God will reveal truth to me by the power of the Holy Ghost.  **What is your quest for revealed truth?**
   - 1 Nephi 10:19 For **he that diligently seeketh shall find; and the mysteries of God shall be unfolded unto them, by the power of the Holy Ghost**, as well in these times as in times of old, and as well in times of old **as in times to come**; wherefore, the course of **the Lord is one eternal round**.
 
 ## Tree of Life
