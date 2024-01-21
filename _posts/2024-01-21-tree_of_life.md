@@ -35,7 +35,7 @@ image: /images/lehis_dream_steven_neal.webp
 
 ## Tree of Life
 Dreams can be Visions
-- 1 Nephi 8:2 And it came to pass that while my father tarried in the wilderness he spake unto us, saying: Behold, I have dreamed a dream; or, in other words, I have seen a vision.
+- 1 Nephi 8:2 And it came to pass that while my father tarried in the wilderness he spake unto us, saying: Behold, **I have dreamed a dream; or, in other words, I have seen a vision**.
 
 Any path to the Love of God can be accompanied by trial
 - 8:5 And it came to pass that I saw a man, and he was dressed in a white robe; and he came and stood before me.
