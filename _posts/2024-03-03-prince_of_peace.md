@@ -14,7 +14,7 @@ image: /images/isaiah_scrolls.webp
 [2 Nephi 11–19](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/09?lang=eng)
 
 ## O how great the ________ of our God
-[Fill in the blank](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p8#p8)
+[Fill in the blank](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p8#p8).  Find something that is not on the list and share your thoughts with comments below.
 
 * Wisdom (verse 8)
 * Mercy (verses 8, 19, 53)
