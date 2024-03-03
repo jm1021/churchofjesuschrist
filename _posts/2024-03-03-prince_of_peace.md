@@ -16,14 +16,14 @@ image: /images/isaiah_scrolls.webp
 ## O how great the ________ of our God
 [Fill in the blank](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p8#p8)
 
-Wisdom (verse 8)
-Mercy (verses 8, 19, 53)
-Grace (verses 8, 53)
-Goodness (verse 10)
-Greatness (verses 17, 40)
-Justice (verse 17)
-Holiness (verse 20)
-Righteousness (verse 41)
+* Wisdom (verse 8)
+* Mercy (verses 8, 19, 53)
+* Grace (verses 8, 53)
+* Goodness (verse 10)
+* Greatness (verses 17, 40)
+* Justice (verse 17)
+* Holiness (verse 20)
+* Righteousness (verse 41)
 
 ## Infinite Atonement, How do you embrace it?
 [2 Nephi 9:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p7#p7)
