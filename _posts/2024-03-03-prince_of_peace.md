@@ -74,3 +74,23 @@ March 3, 2024, let's delve further into Nephi's recordings of Isaiah.
 There is a pattern that the Lord reveals in the top of mountains, or in our modern case the temple.
 
 At one period of time, every week, for over a year I felt a bolstering of Spirit as I raced to and embraced the Lord's covenants.
+
+## Make Speed, evil good and good evil
+[2 Nephi 15:19](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/15?lang=eng&id=p19#p19)
+Contextual Contrast: The negative tone in the surrounding verses serves to emphasize the importance of seeking divine guidance and wisdom (verse 19). It highlights the contrast between those who are immersed in sin and vanity (verses 18 and 20) and those who earnestly seek the counsel of God.
+
+or
+
+Highlighting Irony or Hypocrisy: Verse 19 may highlight the irony or hypocrisy of those who, despite their sinful ways, still call for God's intervention or revelation. It could be interpreted as a sarcastic portrayal of individuals who disregard moral principles yet still expect divine assistance.
+
+Verse 19 by itself.
+
+A call to action.  Urging individuals to move swiftly and diligently in their work or endeavors related to the Holy One of Israel.
+
+Uniting one's will with God.  The mention of 'the counsel of the Holy One of Israel' suggests a desire for divine guidance and wisdom, implying a plea for the alignment of one's own will with that of God's. This interpretation views the passage as a prayerful surrender, seeking for one's will to become aligned with the Lord's will, and asking for His counsel to be revealed or made known."
+
+A request for a vision. Expressing a longing for the manifestation of God's power and presence. The phrase "that we may see it" implies a desire for tangible evidence or revelation of God's workings and intentions among His people.
+
+A request for revelation.  The passage might be understood as a call for clarity and understanding regarding God's plans and purposes. The phrase "that we may know it" suggests a longing for insight and revelation into God's will and designs for His people.
+
+A call for action in order to bolster one's faith. It could be seen as a prayerful request for both swift action and divine guidance, acknowledging the importance of human effort while also recognizing the need for God's wisdom and intervention, as such gifts are the foundation of faith.
