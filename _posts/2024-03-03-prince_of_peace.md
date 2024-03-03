@@ -25,12 +25,12 @@ Justice (verse 17)
 Holiness (verse 20)
 Righteousness (verse 41)
 
-## Infinite Atonement
+## Infinite Atonement, How do you embrace it?
 [2 Nephi 9:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p7#p7)
 
 I have a book, Infinite Atonement, written by my former Stake President. He was a member of the Seventy or Sunday School. This chapter talks of the Savior and his provided gift, resurrection. It is very clear in this chapter and adds confidence to me.
 
-### The Cross
+### The Cross, How do you feel about it?
 [2 Nephi 9, Summary](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=study_summary1#study_summary1)
 I went to Tucson to see my Aunt and Cousins from my Mother's hometown community in Tucson.
 
@@ -46,7 +46,7 @@ The preferred symbols used in representing Jesus are His prayers in the Garden o
 
 The atonement is power over sin and death.   It leads us to overcome the death, and grave and reach towards our advocate who is the Living Christ.  Jesus's atonement includes His death on the cross.
 
-## Thanks to Nepi
+## Thanks to Nephi, Isaiah writings
 [2 Nephi 11:2,3](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/11?lang=eng&id=p2-p3#p2)
 
 Nephi's diligent efforts to write the words of Isaiah, as mentioned in 2 Nephi 11, have often resonated with me deeply. I've found profound depth in his writings, and Isaiah's writings at times, I've even felt that Nephi's revelation to do so has impacted me in unexpected ways.
@@ -68,3 +68,9 @@ While this dream may seem surreal to some, its impact on me has been undeniably 
 I believe that if I can have such an experience, then surely many others should seek and obtain their own confirming experiences of Jesus and the Atonement, if they have not already done so.
 
 March 3, 2024, let's delve further into Nephi's recordings of Isaiah.
+
+## Mountain of the Lord, Temples
+[2 Nephi 12:2,3](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/12?lang=eng&id=p2-p3#p2)
+There is a pattern that the Lord reveals in the top of mountains, or in our modern case the temple.
+
+At one period of time, every week, for over a year I felt a bolstering of Spirit as I raced to and embraced the Lord's covenants.
