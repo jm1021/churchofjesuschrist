@@ -45,3 +45,26 @@ Brother and Sisters, I respect the Cross and consider it a great religious symbo
 The preferred symbols used in representing Jesus are His prayers in the Garden of Gethsemane and the Resurrected Lord in the Christus statue.  We have a unique symbol of the Angel Moroni that adorns the top of the temples.   Inside temples and churches, we have Gospel Art. This art can contain images of Christ on the Cross.  Google will show art with crucifixion related to the Church.
 
 The atonement is power over sin and death.   It leads us to overcome the death, and grave and reach towards our advocate who is the Living Christ.  Jesus's atonement includes His death on the cross.
+
+## Thanks to Nepi
+[2 Nephi 11:2,3](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/11?lang=eng&id=p2-p3#p2)
+
+Nephi's diligent efforts to write the words of Isaiah, as mentioned in 2 Nephi 11, have often resonated with me deeply. I've found profound depth in his writings, and Isaiah's writings at times, I've even felt that Nephi's revelation to do so has impacted me in unexpected ways.
+
+March 2, 2024, as I prepared for a Sunday School lesson, I felt a sense of trepidation about discussing this subject. Yet, as I delved into Isaiah's prophecies and contemplated the Holy One of Israel, Immanuel, Jesus Christ, and His Atonement, the Spirit overwhelmed me with inspiration.
+
+I'm compelled to share a profound experience I had in a dream, which remains vivid in my memory to this day. In this dream, I stood on a terraced road amidst a hill, surrounded by others. From a distance, I saw the figure of the Savior walking towards us.
+
+As He drew nearer, many affirmed His identity. While some around me fell in fear, I was filled with a profound spiritual feeling and remained standing.
+
+The Savior acknowledged me as He passed by.
+
+In that moment, I was overcome by a profound sense of grace, mercy, and love. It felt as though initial self-judgment had transformed into a day filled with overwhelming compassion.
+
+Gazing upon Him, I felt a deep connection and understanding of His atoning sacrifice.
+
+While this dream may seem surreal to some, its impact on me has been undeniably real. It stands as a testament to the enduring power of faith and the boundless love of our Savior.
+
+I believe that if I can have such an experience, then surely many others should seek and obtain their own confirming experiences of Jesus and the Atonement, if they have not already done so.
+
+March 3, 2024, let's delve further into Nephi's recordings of Isaiah.
