@@ -30,7 +30,7 @@ Righteousness (verse 41)
 
 I have a book, Infinite Atonement, written by my former Stake President. He was a member of the Seventy or Sunday School. This chapter talks of the Savior and his provided gift, resurrection. It is very clear in this chapter and adds confidence to me.
 
-### The Cross, How do you feel about it?
+## The Cross, How do you feel about it?
 [2 Nephi 9, Summary](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=study_summary1#study_summary1)
 I went to Tucson to see my Aunt and Cousins from my Mother's hometown community in Tucson.
 
