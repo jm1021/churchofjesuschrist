@@ -14,7 +14,7 @@ image: /images/isaiah_scrolls.webp
 [2 Nephi 11–19](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/09?lang=eng)
 
 ## O how great the ________ of our God
-[Fill in the blank](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p8#p8).  Find something that is not on the list and share your thoughts with by commenting below.
+[Fill in the blank](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p8#p8).  Find something that is not on the list and share your thoughts by commenting below.
 
 * Wisdom (verse 8)
 * Mercy (verses 8, 19, 53)
@@ -48,7 +48,22 @@ The preferred symbols used in representing Jesus are His prayers in the Garden o
 
 ***The atonement is power over sin and death***.   It leads us to overcome the death, and grave and reach towards our advocate who is the Living Christ.  Jesus's atonement includes His death on the cross.
 
-## Thanks to Nephi, Isaiah writings
+## Isaiah sees The Lord
+ Nephi, Jacob, and Isaiah all testify of Christ.   Each feels bolstered by the powerful testament that Christ visited them. 
+
+[2 Nephi 11:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/11?lang=eng&id=p2#p2)
+.. for he verily saw my Redeemer
+
+[2 Nephi 16:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/16?lang=eng&id=p1#p1)
+... I saw also the Lord sitting upon a throne ...
+
+[2 Nephi 16:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/16?lang=eng&id=p5#p5)
+... for mine eyes have seen the King, the Lord of Hosts.
+
+[2 Nephi 16:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/16?lang=eng&id=p7#p7)
+...thine iniquity is taken away, and thy sin purged.
+
+## Thanks to Nephi, Isaiah's writings
 [2 Nephi 11:2,3](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/11?lang=eng&id=p2-p3#p2)
 
 Nephi's diligent efforts to write the words of Isaiah, as mentioned in 2 Nephi 11, have often resonated with me deeply. I've found profound depth in his writings, and Isaiah's writings at times, I've even felt that Nephi's revelation to do so has impacted me in unexpected ways.
@@ -68,22 +83,6 @@ Gazing upon Him, I felt a deep connection and understanding of His atoning sacri
 While this dream may seem surreal to some, its impact on me has been undeniably real. It stands as a testament to the enduring power of faith and the boundless love of our Savior.
 
 I believe that if I can have such an experience, then surely many ***others should seek and obtain their own confirming experiences of Jesus and the Atonement*** if they have not already done so.
-
-
-## Isaiah sees The Lord
- Nephi, Jacob, and Isaiah all testify of Christ.   Each feels bolstered by the powerful testament that Christ visited them. 
-
-[2 Nephi 11:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/11?lang=eng&id=p2#p2)
-.. for he verily saw my Redeemer
-
-[2 Nephi 16:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/16?lang=eng&id=p1#p1)
-... I saw also the Lord sitting upon a throne ...
-
-[2 Nephi 16:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/16?lang=eng&id=p5#p5)
-... for mine eyes have seen the King, the Lord of Hosts.
-
-[2 Nephi 16:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/16?lang=eng&id=p7#p7)
-...thine iniquity is taken away, and thy sin purged.
 
 
 ## Mountain of the Lord, Temples
