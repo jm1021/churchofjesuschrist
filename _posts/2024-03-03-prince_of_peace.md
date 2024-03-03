@@ -14,7 +14,7 @@ image: /images/isaiah_scrolls.webp
 [2 Nephi 11–19](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/09?lang=eng)
 
 ## O how great the ________ of our God
-[Fill in the blank](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p8#p8).  Find something that is not on the list and share your thoughts with comments below.
+[Fill in the blank](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p8#p8).  Find something that is not on the list and share your thoughts with by commenting below.
 
 * Wisdom (verse 8)
 * Mercy (verses 8, 19, 53)
@@ -69,7 +69,22 @@ While this dream may seem surreal to some, its impact on me has been undeniably 
 
 I believe that if I can have such an experience, then surely many ***others should seek and obtain their own confirming experiences of Jesus and the Atonement*** if they have not already done so.
 
-March 3, 2024, let's delve further into Nephi's recordings of Isaiah.
+
+## Isaiah sees The Lord
+ Nephi, Jacob, and Isaiah all testify of Christ.   Each feels bolstered by the powerful testament that Christ visited them. 
+
+[2 Nephi 11:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/11?lang=eng&id=p2#p2)
+.. for he verily saw my Redeemer
+
+[2 Nephi 16:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/16?lang=eng&id=p1#p1)
+... I saw also the Lord sitting upon a throne ...
+
+[2 Nephi 16:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/16?lang=eng&id=p5#p5)
+... for mine eyes have seen the King, the Lord of Hosts.
+
+[2 Nephi 16:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/16?lang=eng&id=p7#p7)
+...thine iniquity is taken away, and thy sin purged.
+
 
 ## Mountain of the Lord, Temples
 [2 Nephi 12:2,3](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/12?lang=eng&id=p2-p3#p2)
