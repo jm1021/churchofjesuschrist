@@ -117,11 +117,13 @@ Verse 19 by itself.
 
 [2 Nephi 19:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/19?lang=eng&id=p4#p4)
 
-Often we think of ourselves as broken, reaching for the atonement. This yoke seems reversed, perhaps a cleansing through Christ and the ultimate broken yoke.
+Often we think of ourselves as broken, reaching for the atonement of Jesus Christ. This yoke seems reversed, perhaps a cleansing through Christ and the ultimate broken yoke.
 
 [2 Nephi 19:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/19?lang=eng&id=p6#p6)
 
 The Messiah became a part of my life through music almost every Christmas I was married to Tamara. I miss being cultured.
+
+[Google](https://www.google.com/search?q=mormon+tabernacle+choir+wonderful+counselor+lyrics&oq=mormon+tabernacle+choir+wonderful+coun&gs_lcrp=EgZjaHJvbWUqBwgCECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIGCAMQIRgVMgcIBBAhGJ8F0gEJMjM3MjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 
 [2 Nephi 19:21](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/19?lang=eng&id=p21#p21)
 
