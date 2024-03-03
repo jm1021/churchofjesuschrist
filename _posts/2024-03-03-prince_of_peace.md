@@ -94,3 +94,16 @@ A request for a vision. Expressing a longing for the manifestation of God's powe
 A request for revelation.  The passage might be understood as a call for clarity and understanding regarding God's plans and purposes. The phrase "that we may know it" suggests a longing for insight and revelation into God's will and designs for His people.
 
 A call for action in order to bolster one's faith. It could be seen as a prayerful request for both swift action and divine guidance, acknowledging the importance of human effort while also recognizing the need for God's wisdom and intervention, as such gifts are the foundation of faith.
+
+## Wonderful Counselor - Culture
+[2 Nephi 19:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/19?lang=eng&id=p4#p4)
+
+Often we think of ourselves as broken, reaching for the atonement. This yoke seems reversed, perhaps a cleansing through Christ and the ultimate broken yoke.
+
+[2 Nephi 19:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/19?lang=eng&id=p6#p6)
+
+The Messiah became a part of my life through music almost every Christmas I was married to Tamara. I miss being cultured.
+
+[2 Nephi 19:21](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/19?lang=eng&id=p21#p21)
+
+The message an love of the writing of Isaiah comes down to the Savior and his hand of justice and mercy.
