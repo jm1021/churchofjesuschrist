@@ -100,3 +100,31 @@ In the Lord's plan how He revealed a book from the dust of the earth, the Book o
 
 ### The Three Witnesses
 Be it known unto all nations, kindreds, tongues, and people, unto whom this work shall come: ***That we, through the grace of God the Father, and our Lord Jesus Christ, have seen the plates which contain this record, which is a record of the people of Nephi***, and also of the Lamanites, their brethren, and also of the people of Jared, who came from the tower of which hath been spoken. And we also know that they have been translated by the gift and power of God, for his voice hath declared it unto us; wherefore we know of a surety that the work is true. And we also testify that we have seen the engravings which are upon the plates; and they have been shown unto us by the power of God, and not of man. ***And we declare with words of soberness, that an angel of God came down from heaven, and he brought and laid before our eyes, that we beheld and saw the plates, and the engravings thereon; and we know that it is by the grace of God the Father, and our Lord Jesus Christ, that we beheld and bear record that these things are true. And it is marvelous in our eyes***. Nevertheless, the voice of the Lord commanded us that we should bear record of it; wherefore, to be obedient unto the commandments of God, we bear testimony of these things. And we know that if we are faithful in Christ, we shall rid our garments of the blood of all men, and be found spotless before the judgment-seat of Christ, and shall dwell with him eternally in the heavens. And the honor be to the Father, and to the Son, and to the Holy Ghost, which is one God. Amen.
+
+## We Need More
+As a 45 year old widower I wanted answers.  As I was seeking and knocking I was blessed with an abundance of experiences that comforted me in my times of need.  The stories and glories I received by trying ot stay close to the Lord and follow the Prophet have never ceased.
+
+1. A reflective and glorious sky in the midst of rain moments after Tamara passed away.
+2. While preparing for an Eulogy, I was prompted to write Tamara's words.  I asked my mother-in-law to look for something unknown in the garage,  she found a journal.
+3. Experiencing a dream where Tamara and I were teaching a deceased Great Grandfather the Gospel.  Noticing that she had more glory than I had on that occasion.
+4. Shortly after the funeral, when alone and troubled, the Lord sent me a return missionary Nanny from France. This bolstered Trent, Corey, Claire and I to weather the storm and morning.
+5. After a couple of years later, the Lord sent me Lora.  We married after 6 weeks.
+6. A couple of years after that we had Shay; and I adopted Tiernan.
+7. Personal revelatory experience accompanied every event mentioned.
+
+### God continues with Revelation: 2 Nephi 28
+
+27 Yea, wo be unto him that saith: We have received, and we need no more!
+
+30 For behold, thus saith the Lord God: ***I will give unto the children of men line upon line, precept upon precept***, here a little and there a little; and blessed are those who hearken unto my precepts, and lend an ear unto my counsel, for they shall learn wisdom; ***for unto him that receiveth I will give more; and from them that shall say, We have enough, from them shall be taken away even that which they have***.
+
+
+### His work is Not yet finished: 2 Nephi 29
+
+7 ***Know ye not that there are more nations than one***? Know ye not that I, the Lord your God, have created all men, and that I remember those who are upon the isles of the sea; and that I rule in the heavens above and in the earth beneath; and ***I bring forth my word unto the children of men, yea, even upon all the nations of the earth***?
+
+8 Wherefore murmur ye, because that ye shall receive more of my word? ***Know ye not that the testimony of two nations is a witness unto you that I am God, that I remember one nation like unto another***? Wherefore, I speak the same words unto one nation like unto another. And when the two nations shall run together the testimony of the two nations shall run together also.
+
+9 And I do this that I may prove unto many that I am the same yesterday, today, and forever; and that I speak forth my words according to mine own pleasure. And because that I have spoken one word ye need not suppose that I cannot speak another; ***for my work is not yet finished***; neither shall it be until the end of man, neither from that time henceforth and forever.
+
+12 For behold, I shall speak unto the ***Jews*** and they shall write it; and I shall also speak unto the ***Nephites*** and they shall write it; and I shall also speak unto ***the other tribes of the house of Israel***, which I have led away, and they shall write it; and ***I shall also speak unto all nations of the earth and they shall write it***.
