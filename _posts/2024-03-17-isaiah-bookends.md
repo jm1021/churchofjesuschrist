@@ -35,7 +35,7 @@ But, from the dust of that same era, even back to 600 BC, ***we have been blesse
 
 
 ## A Marvelous Work and Wonder
-***The founding prophet, the leader of our generation, read and translated many miracles before the actual events occurred in his life**. These events were revealed a result of Nephi and his ability to see and prophecy of on the works of Isaiah.   Joseph translated those work for us.
+***The founding prophet, the leader of our generation, read and translated many miracles before the actual events occurred in his life**. These events were revealed to us as a result of Nephi and his ability to understand, see, and prophesy on the works of Isaiah.   Joseph Smith translated those Nephi transcriptions for us today.
 
 ***Many generations from Isaiah, and Nephi, to Joseph Smith, are folded together in declaring the marvelous works of the Holy One of Israel***.
 
