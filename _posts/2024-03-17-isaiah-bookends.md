@@ -15,14 +15,15 @@ image: /images/jesus_woman.webp
 
 
 ## The Isaiah Chapter Bookends
-General Conference is soon upon us.  The prophecies and path are forever being given line upon line until we reach a fullness, even Eternal Life.
+***General Conference is soon upon us***.  The prophecies and path for us are forever being given line-upon-line until we reach a fullness, even Eternal Life.
 
-In times of old Jacob and Nephi were providing prophetic teaching and guidance.  In three weeks, we will gather at the feet of Prophets and Apostles to listen to messages about Jesus, and guidance for us today.  
+In times of old Jacob and Nephi were providing prophetic teaching and guidance.  ***In three weeks, we will gather at the feet of Prophets and Apostles to listen to messages about Jesus, and guidance for us today***.  
 
-Oh the Wisdom of God that He has provided a plan from Generation to Generation.  Recently, I was in the Geneology Library with Sam Ng scrolling through his personal family history back 47 generations, the books of his tribes have yet to be revealed.  
+***Oh the Wisdom of God, that He has provided a plan for revelation from Generation to Generation***.  
 
-But in that same era of 600 BC, we have been blessed to receive the Book of Mormon.
+Recently, I was in the Geneology Library with Sam Ng scrolling through his personal family history back many generations, to the time before Christ.  Many of the books of his tribes have yet to be revealed.  
 
+But, from the dust of that same era, even back to 600 BC, ***we have been blessed to have the Book of Mormon revealed to us***.  The Infinite Atonement and The Way of Jesus Christ have been revealed, we have those lines and precepts in our lives.
 
 ### Jacob: The Infinite Atonement
 - [2 Nephi 9:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p7#p7)
@@ -31,6 +32,7 @@ But in that same era of 600 BC, we have been blessed to receive the Book of Morm
 ### Nephi: We Rejoice in Christ 
 - [2 Nephi 25:25-26](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng)
 - [Imagine Nephi](https://youtu.be/vOW6huHvSIE?t=33) guiding his people to follow the ways of Jesus to receive Baptism and the Holy Ghost.
+
 
 ## A Marvelous Work and Wonder
 ***The founding prophet, the leader of our generation, read and translated many miracles before the actual events occurred in his life**. These events were revealed a result of Nephi and his ability to see and prophecy of on the works of Isaiah.   Joseph translated those work for us.
