@@ -21,8 +21,10 @@ Oh the Wisdom of God that has provided a plan from Generation to Generation.  On
 
 ### The Infinite Atonement
 - [2 Nephi 9:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng&id=p7#p7)
-- [Imagine Jacob](https://youtu.be/cAB-rgBUcqA?t=41) preparing his people for the words of Isaiah, an infinite atonement.
+- [Imagine Jacob](https://youtu.be/cAB-rgBUcqA?t=41) preparing his people for the words of Isaiah, to understand the Infinite Atonement.
 
 ### We Rejoice in Christ 
 - [2 Nephi 25:26](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng)
-- [Imagine Nephi](https://youtu.be/vOW6huHvSIE?t=33) guiding his people to follow the ways of Jesus to baptism.
+- [Imagine Nephi](https://youtu.be/vOW6huHvSIE?t=33) guiding his people to follow the ways of Jesus to receive Baptism and the Holy Ghost.
+
+Isaiah is behind us, General Conference is soon upon us.  The prophecies and path are forever being given line upon line until we reach a fullness, even Eternal Life.
