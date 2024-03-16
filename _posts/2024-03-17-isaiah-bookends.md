@@ -41,7 +41,7 @@ In the Lord's plan how He revealed a book from the dust of the earth, the Book o
 
 ***Reaffirming the principle of line-upon-line and precept-upon-precept***.  This unites us on the need for ongoing revelation, continued direction by Prophets, and ***conintuing to look toward God for further light and knowledge in the little things in our lives***.
 
-### Prophesy in Isaiah 29
+### Prophesy from Isaiah 29
 10 ***For the Lord hath poured out upon you the spirit of deep sleep, and hath closed your eyes***: the prophets and your rulers, the seers hath he covered.
 
 11 And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:
