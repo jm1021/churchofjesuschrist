@@ -28,6 +28,6 @@ But in that same era of 600 BC, we have been blessed to receive the Book of Morm
 - [Imagine Jacob](https://youtu.be/cAB-rgBUcqA?t=41) preparing his people for the words of Isaiah, to understand the Infinite Atonement.
 
 ### We Rejoice in Christ 
-- [2 Nephi 25:26](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng)
+- [2 Nephi 25:25-26](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng)
 - [Imagine Nephi](https://youtu.be/vOW6huHvSIE?t=33) guiding his people to follow the ways of Jesus to receive Baptism and the Holy Ghost.
 
