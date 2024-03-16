@@ -33,7 +33,7 @@ But in that same era of 600 BC, we have been blessed to receive the Book of Morm
 - [Imagine Nephi](https://youtu.be/vOW6huHvSIE?t=33) guiding his people to follow the ways of Jesus to receive Baptism and the Holy Ghost.
 
 ## A Marvelous Work and Wonder
-The founding prophet, the leader of our generation, read and translated many miracles before the actual events occurred in his life. These events were revealed a result of Nephi and his ability to see and prophecy of on the works of Isaiah.   Joseph translated those work for us.
+***The founding prophet, the leader of our generation, read and translated many miracles before the actual events occurred in his life**. These events were revealed a result of Nephi and his ability to see and prophecy of on the works of Isaiah.   Joseph translated those work for us.
 
 ***Many generations from Isaiah, and Nephi, to Joseph Smith, are folded together in declaring the marvelous works of the Holy One of Israel***.
 
