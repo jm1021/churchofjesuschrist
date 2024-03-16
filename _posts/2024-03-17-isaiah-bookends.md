@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-description: “His Name Shall Be Called … The Prince of Peace” 
+description: I prophesy unto you concerning the last days,  Nephi wrote (2 Nephi 26:14). In other words, he was writing about our day.  Nephi spoke of “a marvelous work and a wonder” led by God Himself (2 Nephi 27:26).
 title: A Marvelous Work and a Wonder 
 image: /images/jesus_woman.webp
 ---
