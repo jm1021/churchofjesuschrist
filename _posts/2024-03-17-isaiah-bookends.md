@@ -32,7 +32,7 @@ But in that same era of 600 BC, we have been blessed to receive the Book of Morm
 - [2 Nephi 25:25-26](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng)
 - [Imagine Nephi](https://youtu.be/vOW6huHvSIE?t=33) guiding his people to follow the ways of Jesus to receive Baptism and the Holy Ghost.
 
-## Prophesy of a Marvelous Work and Wonder
+## A Marvelous Work and Wonder
 The founding prophet, the leader of our generation, read and translated many miracles before the actual events occurred in his life. These events were revealed a result of Nephi and his ability to see and prophecy of on the works of Isaiah.   Joseph translated those work for us.
 
 ***Many generations from Isaiah, and Nephi, to Joseph Smith, are folded together in declaring the marvelous works of the Holy One of Israel***.
@@ -58,7 +58,7 @@ In the Lord's plan how He revealed a book from the dust of the earth, the Book o
 
 24 They also that erred in spirit shall come to understanding, and ***they that murmured shall learn doctrine***.
 
-### Words from Nephi 27
+### Propecy from Nephi 27
 
 1 But, behold, ***in the last days, or in the days of the Gentiles—yea***, behold all the nations of the Gentiles and also the Jews, both those who shall come upon this land and those who shall be upon other lands, yea, even upon all the lands of the earth, behold, ***they will be drunken with iniquity and all manner of abominations***
 
