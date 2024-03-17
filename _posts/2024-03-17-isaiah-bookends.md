@@ -99,18 +99,9 @@ In the Lord's plan how He revealed a book from the dust of the earth, the Book o
 35 They also that erred in spirit shall come to understanding, and ***they that murmured shall learn doctrine***.
 
 ### The Three Witnesses
-Be it known unto all nations, kindreds, tongues, and people, unto whom this work shall come: ***That we, through the grace of God the Father, and our Lord Jesus Christ, have seen the plates which contain this record, which is a record of the people of Nephi***, and also of the Lamanites, their brethren, and also of the people of Jared, who came from the tower of which hath been spoken. And we also know that they have been translated by the gift and power of God, for his voice hath declared it unto us; wherefore we know of a surety that the work is true. And we also testify that we have seen the engravings which are upon the plates; and they have been shown unto us by the power of God, and not of man. ***And we declare with words of soberness, that an angel of God came down from heaven, and he brought and laid before our eyes, that we beheld and saw the plates, and the engravings thereon; and we know that it is by the grace of God the Father, and our Lord Jesus Christ, that we beheld and bear record that these things are true. And it is marvelous in our eyes***. Nevertheless, the voice of the Lord commanded us that we should bear record of it; wherefore, to be obedient unto the commandments of God, we bear testimony of these things. And we know that if we are faithful in Christ, we shall rid our garments of the blood of all men, and be found spotless before the judgment-seat of Christ, and shall dwell with him eternally in the heavens. And the honor be to the Father, and to the Son, and to the Holy Ghost, which is one God. Amen.
+Be it known unto all nations, kindreds, tongues, and people, unto whom this work shall come: ***That we, through the grace of God the Father, and our Lord Jesus Christ, have seen the plates which contain this record, which is a record of the people of Nephi***, and also of the Lamanites, their brethren, and also of the people of Jared, who came from the tower of which hath been spoken. And we also know that they have been translated by the gift and power of God, for his voice hath declared it unto us; wherefore we know of a surety that the work is true. And we also testify that we have seen the engravings which are upon the plates, and they have been shown unto us by the power of God, and not of man. ***And we declare with words of soberness, that an angel of God came down from heaven, and he brought and laid before our eyes, that we beheld and saw the plates, and the engravings thereon; and we know that it is by the grace of God the Father, and our Lord Jesus Christ, that we beheld and bear record that these things are true. And it is marvelous in our eyes***. Nevertheless, the voice of the Lord commanded us that we should bear record of it; wherefore, to be obedient unto the commandments of God, we bear testimony of these things. And we know that if we are faithful in Christ, we shall rid our garments of the blood of all men, and be found spotless before the judgment seat of Christ, and shall dwell with him eternally in the heavens. And the honor be to the Father, and to the Son, and to the Holy Ghost, which is one God. Amen.
 
 ## We Need More
-As a 45 year old widower I wanted answers.  As I was seeking and knocking I was blessed with an abundance of experiences that comforted me in my times of need.  The stories and glories I received by trying ot stay close to the Lord and follow the Prophet have never ceased.
-
-1. A reflective and glorious sky in the midst of rain moments after Tamara passed away.
-2. While preparing for an Eulogy, I was prompted to write Tamara's words.  I asked my mother-in-law to look for something unknown in the garage,  she found a journal.
-3. Experiencing a dream where Tamara and I were teaching a deceased Great Grandfather the Gospel.  Noticing that she had more glory than I had on that occasion.
-4. Shortly after the funeral, when alone and troubled, the Lord sent me a return missionary Nanny from France. This bolstered Trent, Corey, Claire and I to weather the storm and morning.
-5. After a couple of years later, the Lord sent me Lora.  We married after 6 weeks.
-6. A couple of years after that we had Shay; and I adopted Tiernan.
-7. Personal revelatory experience accompanied every event mentioned.
 
 ### God continues with Revelation: 2 Nephi 28
 
@@ -128,3 +119,29 @@ As a 45 year old widower I wanted answers.  As I was seeking and knocking I was 
 9 And I do this that I may prove unto many that I am the same yesterday, today, and forever; and that I speak forth my words according to mine own pleasure. And because that I have spoken one word ye need not suppose that I cannot speak another; ***for my work is not yet finished***; neither shall it be until the end of man, neither from that time henceforth and forever.
 
 12 For behold, I shall speak unto the ***Jews*** and they shall write it; and I shall also speak unto the ***Nephites*** and they shall write it; and I shall also speak unto ***the other tribes of the house of Israel***, which I have led away, and they shall write it; and ***I shall also speak unto all nations of the earth and they shall write it***.
+
+### Marking of Scriptures: 2 Nephi 31 
+
+3 For my soul delighteth in plainness; for after this manner doth the Lord God work among the children of men. For the Lord God giveth light unto the understanding; ***for he speaketh unto men according to their language, unto their understanding***.
+
+#### Personal Markings: March 4, 2020
+My (Our) Lord has spoken to me according to my language.  My language has been about a journey, one that often takes me on adventures, changes and family changes.  The presence of the spirit has always been a companion.
+
+Everything I have hoped for in my career, education, and variety has been provided to me.  I have seen much of the world, been a missionary, raised a family, been an executive, and now a teacher.  Family has been an adventure as well, so much change, yet so much good.
+
+I recognize that the Lord has spoken to me in all these transitions.  Each new adventure had had moments of prayer, pondering,  and work to obtain joy in my goal.  Each adventure the Lord has supported me with either righteous friends or a righteous spouse.  They have helped transform me for the better.
+
+My language seems to have evolved.  My skills have had several rounds of polish.  My mind has often recognized the spirit which has guided me in all efforts.  My life has always had opportunity for ministry and I have seen a fullness in service.  My Lord and My God have directed me to the straight and narrow through covenants and the gift of the Holy Ghost.
+
+This day I feel full and hopeful in the doctrine of Jesus Christ.
+
+#### Personal Markings: March 17, 2024
+As a 45-year-old widower, I wanted answers. As I was seeking and knocking I was blessed with an abundance of experiences that comforted me in my times of need. The stories and glories I received by trying to stay close to the Lord and follow the Prophet have never ceased.
+
+1. A reflective and glorious sky amid rainy moments after Tamara passed away.
+2. While preparing for an Eulogy, I was prompted to write Tamara's words. I asked my mother-in-law to look for something unknown in the garage, and she found a journal.
+3. Experiencing a dream where Tamara and I were teaching a deceased great-grandfather the Gospel. Noticing that she had more glory than I had on that occasion.
+4. Shortly after the funeral, when alone and troubled, the Lord sent me a return missionary Nanny from France. This bolstered Trent, Corey, Claire and I to weather the storm and morning.
+5. A couple of years later, the Lord sent me Lora. We married after 6 weeks.
+6. A couple of years after that we had Shay, and I adopted Tiernan.
+7. Personal revelatory experience accompanied every event mentioned.
