@@ -35,13 +35,13 @@ But, from the dust of that same era, even back to 600 BC, ***we have been blesse
 
 
 ## A Marvelous Work and Wonder
-***The founding prophet, the leader of our generation, read and translated many miracles before the actual events occurred in his life**. These events were revealed to us as a result of Nephi and his ability to understand, see, and prophesy on the works of Isaiah.   Joseph Smith translated those Nephi transcriptions for us today.
+***The founding prophet, the leader of our generation, read and translated many miracles before the actual events occurred in his life**. These events were revealed to us as a result of Nephi and his ability to understand, see, and prophesy the words of Isaiah.   Joseph Smith translated those Nephi transcriptions for us today.
 
 ***Many generations from Isaiah, and Nephi, to Joseph Smith, are folded together in declaring the marvelous works of the Holy One of Israel***.
 
 In the Lord's plan how He revealed a book from the dust of the earth, the Book of Mormon.  Also, noted many key and important things were sealed up, to be released in his own due time.   
 
-***Reaffirming the principle of line-upon-line and precept-upon-precept***.  This unites us on the need for ongoing revelation, continued direction by Prophets, and ***conintuing to look toward God for further light and knowledge in the little things in our lives***.
+***Reaffirming the principle of line-upon-line and precept-upon-precept***.  This unites us on the need for ongoing revelation, continued direction by Prophets, and continuing** to look** toward God for further light and knowledge in the little things in our lives***.
 
 ### Prophesy from Isaiah 29
 10 ***For the Lord hath poured out upon you the spirit of deep sleep, and hath closed your eyes***: the prophets and your rulers, the seers hath he covered.
