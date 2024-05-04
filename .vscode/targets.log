@@ -7,8 +7,10 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 
 # This program built for i386-apple-darwin11.3.0
  
+make: *** No rule to make target `all'.  Stop.
 
-# Make data base, printed on Sat May  4 14:10:27 2024
+
+# Make data base, printed on Sat May  4 15:12:41 2024
 
 # Variables
 
@@ -171,9 +173,6 @@ stop: .FORCE
 	docker-compose stop
 	docker ps | grep fastpages | awk '{print $1}' | xargs docker stop
 	
- 
-make: *** No rule to make target `all'.  Stop.
-
 
 # Not a target:
 all:
@@ -311,8 +310,9 @@ convert: .FORCE
 # # of strings in strcache: 1
 # # of strcache buffers: 1
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+ 
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Sat May  4 14:10:27 2024
+# Finished Make data base on Sat May  4 15:12:41 2024
 
  
