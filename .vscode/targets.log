@@ -7,10 +7,8 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 
 # This program built for i386-apple-darwin11.3.0
  
-make: *** No rule to make target `all'.  Stop.
 
-
-# Make data base, printed on Sun Mar 17 04:15:15 2024
+# Make data base, printed on Sat May  4 14:10:27 2024
 
 # Variables
 
@@ -49,7 +47,7 @@ ELECTRON_RUN_AS_NODE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.hFt2aadqMt/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.uXWW9FJQnR/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -69,7 +67,7 @@ HOME = /Users/johnmortensen
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/johnmortensen/Library/Application Support/Code/CachedData/863d2581ecda6849923a2118d93a088b0745d9d6
+VSCODE_CODE_CACHE_PATH = /Users/johnmortensen/Library/Application Support/Code/CachedData/b58957e67ee1e712cebf466b995adf4c5307b2bd
 # environment
 LOGNAME = johnmortensen
 # environment
@@ -103,7 +101,7 @@ TMPDIR = /var/folders/3m/p1m3lcj52r19nbdhg7y1j8qc0000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/johnmortensen/Library/Application Support/Code/1.87-main.sock
+VSCODE_IPC_HOOK = /Users/johnmortensen/Library/Application Support/Code/1.89-main.sock
 # environment
 MallocNanoZone = 0
 # makefile
@@ -113,7 +111,7 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.8995856.8995862
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.12533703.12533709
 # environment
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
@@ -145,7 +143,7 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 44615
+VSCODE_PID = 27342
 # variable set hash-table stats:
 # Load=66/1024=6%, Rehash=0, Collisions=2/89=2%
 
@@ -155,7 +153,7 @@ VSCODE_PID = 44615
 
 # Directories
 
-# . (device 16777231, inode 1684772): 31 files, no impossibilities.
+# . (device 16777232, inode 1684772): 31 files, no impossibilities.
 
 # 31 files, no impossibilities in 1 directories.
 
@@ -173,12 +171,14 @@ stop: .FORCE
 	docker-compose stop
 	docker ps | grep fastpages | awk '{print $1}' | xargs docker stop
 	
+ 
+make: *** No rule to make target `all'.  Stop.
+
 
 # Not a target:
 all:
 #  Command-line target.
 #  Implicit rule search has been done.
- 
 #  File does not exist.
 #  File has not been updated.
 # variable set hash-table stats:
@@ -313,6 +313,6 @@ convert: .FORCE
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Sun Mar 17 04:15:15 2024
+# Finished Make data base on Sat May  4 14:10:27 2024
 
  
