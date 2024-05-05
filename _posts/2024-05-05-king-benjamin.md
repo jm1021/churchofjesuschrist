@@ -27,11 +27,14 @@ Understanding of God's Mysteries:
        | Low (Without Scriptures)
 ```
 
+The y-axis can be labeled "Understanding of God's Mysteries" and the x-axis labeled "With Scriptures" and "Without Scriptures." The line would jump from low understanding (without) to high understanding (with).
+
 ![]({{site.baseurl}}/images/linear_regression.png)
 
 Decision Tree Classification is another learning method, that breaks down the ability to **prosper in the land** into a series of steps to predict that outcome.  It begins by searching the scriptures and continues with the teachings in his discourse.
 
 > Mosiah 1:5-7: By searching the scriptures and following the commandments, we can prosper in the land.
+
 
 ```text
        Seeking God's Will
@@ -45,6 +48,8 @@ Increased         Prosper in     Eternal
 Understanding       the Land      Life
 
 ```
+
+Attribute Selection Measure - The usefulness of different attributes in splitting the data set.
 
 ![]({{site.baseurl}}/images/decission_tree.png)
 
