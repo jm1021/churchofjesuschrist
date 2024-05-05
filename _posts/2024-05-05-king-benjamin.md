@@ -13,8 +13,43 @@ image: /images/king_benjamin.webp
 
 [Mosiah 1-3](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/17?lang=eng)
 
+## Logistic Regression and Decision Trees
+King Benjamin is setting up a Logistic Regression concept. The binary outcome King Benjamin is emphasizing the difference between knowing and not knowing God's mysteries.
 
-## Talking Points
+> Mosiah 1:3: Without the scriptures, we would be ignorant of God's mysteries.
+
+```text
+Understanding of God's Mysteries:
+
+       | High (With Scriptures)
+-------|-----------------------
+       | Low (Without Scriptures)
+```
+
+![]({{site.baseurl/images/linear_regression.png}})
+
+Decision Tree Classification is another learning method, that breaks down the ability to **prosper in the land** into a series of steps to predict that outcome.  It begins by searching the scriptures and continues with the teachings in his discourse.
+
+> Mosiah 1:5-7: By searching the scriptures and following the commandments, we can prosper in the land.
+
+```text
+Seeking God's Will
+
+     /        \
+Study      Follow
+Scriptures  Commandments
+
+     /                 \
+Increased  Prosper in  
+Understanding   the Land
+
+```
+
+![]({{site.baseurl/images/decission_tree.png}})
+expand_more
+
+
+## Talking Points from King Benjamin's Discourse
 Conference weekend we were able to listen to our Prophet.  He is renowned for his medical career and has had a way with words, ie **Think Celestial**.
 
 King Benjamin is a Prophet and King of a different time, but his doctrine and phrases have been with me for many years, ie **putteth off the Natural Man**, **mighty change**
@@ -74,4 +109,3 @@ All things in King Benjamin's account continue to resonate with me 2100 years la
 - I try to increase my Slope through covenants.
   - People of King Benamin's days "O have mercy, and apply the atoning blood of Christ that we may receive forgiveness of our sins, and our hearts may be purified; for we believe in Jesus Christ, the Son of God, ..."
   - For me, I sometimes wonder about my growth as a human. But, when I serve my fellow beings and look forward to my next ordinance, ie Sacrament.   Each spiritual act helps me with my belief in Jesus and his cleansing power.  When I yoke to Jesus, it makes me believe that my current and eternal stock is on the rise.
-
