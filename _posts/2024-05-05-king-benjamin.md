@@ -57,7 +57,7 @@ Decision Tree Classification is a learning method, that breaks down the ability 
 ### Personal Application
 
 In machine learning and the gospel, learning models are adapted to support a personal use case. 
-i
+
 While core principles remain constant, applying them varies. Similar to how AI tailors algorithms to specific situations, we can personalize King Benjamin's teachings to our own lives.
 
 
