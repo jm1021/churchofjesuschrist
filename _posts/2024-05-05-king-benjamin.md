@@ -13,9 +13,12 @@ image: /images/king_benjamin.webp
 
 [Mosiah 1-3](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/17?lang=eng)
 
-## AI and ML fun
-AI and its foundation ML are found in Mosiah.
-King Benjamin is setting up a Logistic Regression concept. The binary outcome is that King Benjamin is emphasizing the difference between knowing and not knowing **God's mysteries**.
+## Finding God's will in Mosiah: Analogy with AI
+
+The Book of Mormon offers timeless wisdom, even on seemingly modern topics like Artificial Intelligence (AI). In King Benjamin's discourse (Mosiah 1:3-7), we find parallels to concepts in Machine Learning (ML), the foundation of AI.
+
+### Understanding God's Mysteries
+King Benjamin emphasizes the difference between knowing and not knowing **God's mysteries**. Similar to a binary outcome in ML (yes/no, true/false), the scriptures, or plates in his day, enabled his people to progress from ignorance to understanding.
 
 > Mosiah 1:3: Without the scriptures, we would be ignorant of God's mysteries.
 
@@ -27,11 +30,9 @@ Understanding of God's Mysteries:
        | Low (Without Scriptures)
 ```
 
-The y-axis can be labeled "Understanding of God's Mysteries" and the x-axis labeled "With Scriptures" and "Without Scriptures." The line would jump from high understanding (with) to low understanding (without).
+### A Decision-Making Process: Prospering and Eternal Life
 
-![]({{site.baseurl}}/images/linear_regression.png)
-
-Decision Tree Classification is another learning method, that breaks down the ability to **prosper in the land** into a series of steps to predict that outcome.  It begins by searching the scriptures and continues with the teachings in his discourse.
+King Benjamin outlines steps to prosper, just like a decision tree in ML breaks down a complex goal into achievable actions. Studying scriptures and following commandments lead to increased understanding and prosperity.
 
 > Mosiah 1:5-7: By searching the scriptures and following the commandments, we can prosper in the land.
 
@@ -49,13 +50,15 @@ Understanding       the Land      Life
 
 ```
 
-Attribute Selection Measure (ASM): This is a method used in Decision Tree Classification to decide which attribute (or step) is the most useful for splitting the data (or making a decision). 
-
-In the context of King Benjamin's discourse, it could represent the process of determining **which actions or principles (like studying scriptures, following commandments, or applying the Atonement) are most crucial in our journey to prosper in the land and achieve eternal life.**  
-
-In machine learning, and in the gospel, ASM is adapted to support a personal use case.  In my use case: Male, raised in California, former Widower, remarried, 5 kids, starting attending church in middle teens, 35 years in Tech, 2nd career as Teacher, Sunday School Teacher, EQ secretary.
+Decision Tree Classification is a learning method, that breaks down the ability to **prosper in the land** or obtain **eternal life**  Attribute Selection Measure (ASM) is used to decide which attribute (or step) is the most useful for splitting the data (or making a decision). 
 
 ![]({{site.baseurl}}/images/decission_tree.png)
+
+### Personal Application
+
+In machine learning and the gospel, learning models are adapted to support a personal use case. 
+i
+While core principles remain constant, applying them varies. Similar to how AI tailors algorithms to specific situations, we can personalize King Benjamin's teachings to our own lives.
 
 
 ## Talking Points from King Benjamin's Discourse
