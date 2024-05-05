@@ -118,6 +118,6 @@ All things in King Benjamin's account continue to resonate with me 2100 years la
   - People of King Benjamin's days "And it is the faith which we have had on the things which our king has spoken unto us that has brought us to this great knowledge"
   - For me, I believe all knowledge that I learn and apply from General Conference and **prophetic teachings are the most foundational information in my life**.
 
-- I choose to measure my Slope through covenants, note that **King Benjamin analyzed and counted those that entered into covenant (Mosiah 6:1)**
+- **I choose to measure my curve** through covenants, note that **King Benjamin analyzed and counted those that entered into covenant (Mosiah 6:1)**
   - Mosiah 4:2. "O have mercy, and apply the atoning blood of Christ that we may receive forgiveness of our sins, and our hearts may be purified; **for we believe in Jesus Christ, the Son of God**, ..."
   - Through faith, through analysis, my evidence states that **God is and that our Savior lives**.  For me,  I know that each spiritual act helps me with my belief in Jesus. The spiritual guidance as taught by King Benjamin is motivating and cleansing to me.   When I yoke to Jesus's teachings through His prophets, I can calculate analyze and conclude that my stock is on the rise.
