@@ -64,7 +64,7 @@ While core principles remain constant, applying them varies. Similar to how ****
 ## Talking Points from King Benjamin's Discourse
 In the recent conference weekend, we were able to listen to our Prophet.  He is renowned for his way with words, ie **Think Celestial**.
 
-King Benjamin is a Prophet and King of a different time, but his doctrine and phrases have been with me for many years, ie **putteth off the Natural Man**, **a mighty change**
+King Benjamin is a Prophet and King of a different time, his doctrine and phrases have been with me for many years, ie **putteth off the Natural Man**, **a mighty change**
 
 Here are some of my favorite passages from the discourse by King Benjamin.
 
