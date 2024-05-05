@@ -15,7 +15,7 @@ image: /images/king_benjamin.webp
 
 ## AI and ML fun
 AI and its foundation ML are found in Mosiah.
-King Benjamin is setting up a Logistic Regression concept. The binary outcome is that King Benjamin is emphasizing the difference between knowing and not knowing God's mysteries.
+King Benjamin is setting up a Logistic Regression concept. The binary outcome is that King Benjamin is emphasizing the difference between knowing and not knowing **God's mysteries**.
 
 > Mosiah 1:3: Without the scriptures, we would be ignorant of God's mysteries.
 
@@ -27,7 +27,7 @@ Understanding of God's Mysteries:
        | Low (Without Scriptures)
 ```
 
-![]({{site.baseurl/images/linear_regression.png}})
+![]({{site.baseurl}}/images/linear_regression.png)
 
 Decision Tree Classification is another learning method, that breaks down the ability to **prosper in the land** into a series of steps to predict that outcome.  It begins by searching the scriptures and continues with the teachings in his discourse.
 
@@ -46,7 +46,7 @@ Understanding   the Land
 
 ```
 
-![]({{site.baseurl/images/decission_tree.png}})
+![]({{site.baseurl}}/images/decission_tree.png)
 
 
 ## Talking Points from King Benjamin's Discourse
