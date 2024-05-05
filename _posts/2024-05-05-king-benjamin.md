@@ -13,7 +13,7 @@ image: /images/king_benjamin.webp
 
 [Mosiah 1-3](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/17?lang=eng)
 
-## Finding God's will in Mosiah: Analogy with AI
+## Finding God's Will in Mosiah: Analogy with AI
 
 The Book of Mormon offers timeless wisdom, even on seemingly modern topics like Artificial Intelligence (AI). In King Benjamin's discourse (Mosiah 1:3-7), we find parallels to concepts in Machine Learning (ML), the foundation of AI.
 
@@ -103,7 +103,7 @@ King Benjamin asks for a roll call, in essence, **to number those who believe**.
 
 And **we are willing to enter into a covenant** with our God to do his will, and to be obedient to his commandments in all things that he shall command us, ...
 
-### Covenant and be sealed  to Jesus 5:5-7,15, reading by Mark C.
+### Covenant and be sealed to Jesus 5:5-7,15, reading by Mark C.
 King Benjamin is pleased that people have **spoken the words that he desired** to hear.
 
 And now, because of the covenant which ye have made ye shall be called the children of Christ,
