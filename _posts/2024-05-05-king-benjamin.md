@@ -64,8 +64,8 @@ And now, because of the covenant which ye have made ye shall be called the child
 I would that ye should be steadfast and immovable, always abounding in good works, that Christ, the Lord God Omnipotent, may seal you his, ...
 
 
-### Sunday School Teachers' words
-All things by the King Benjamin account continue to resonate.
+### Feelings on Benjamin
+All things in King Benjamin's account continue to resonate with me 2100 years later.
 
 - I choose to have faith, as the people in Mosiah
   - People of King Benjamin's days "And it is the faith which we have had on the things which our king has spoken unto us that has brought us to this great knowledge"
@@ -73,5 +73,5 @@ All things by the King Benjamin account continue to resonate.
 
 - I try to increase my Slope through covenants.
   - People of King Benamin's days "O have mercy, and apply the atoning blood of Christ that we may receive forgiveness of our sins, and our hearts may be purified; for we believe in Jesus Christ, the Son of God, ..."
-  - For me, I sometimes wonder about my growth as a human. But, when I serve my fellow beings and look forward to my next ordinance, ie Sacrament, It helps me with my belief in Jesus and his cleansing power.  It makes a big difference in my outlook and progression, my personal view is that my stock feels like it is on the rise.
+  - For me, I sometimes wonder about my growth as a human. But, when I serve my fellow beings and look forward to my next ordinance, ie Sacrament.   Each spiritual act helps me with my belief in Jesus and his cleansing power.  When I yoke to Jesus, it makes me believe that my current and eternal stock is on the rise.
 
