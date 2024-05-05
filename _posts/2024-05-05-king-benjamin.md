@@ -27,7 +27,7 @@ Understanding of God's Mysteries:
        | Low (Without Scriptures)
 ```
 
-The y-axis can be labeled "Understanding of God's Mysteries" and the x-axis labeled "With Scriptures" and "Without Scriptures." The line would jump from low understanding (without) to high understanding (with).
+The y-axis can be labeled "Understanding of God's Mysteries" and the x-axis labeled "With Scriptures" and "Without Scriptures." The line would jump from high understanding (with) to low understanding (without).
 
 ![]({{site.baseurl}}/images/linear_regression.png)
 
@@ -49,7 +49,11 @@ Understanding       the Land      Life
 
 ```
 
-Attribute Selection Measure - The usefulness of different attributes in splitting the data set.
+Attribute Selection Measure (ASM): This is a method used in Decision Tree Classification to decide which attribute (or step) is the most useful for splitting the data (or making a decision). 
+
+In the context of King Benjamin's discourse, it could represent the process of determining **which actions or principles (like studying scriptures, following commandments, or applying the Atonement) are most crucial in our journey to prosper in the land and achieve eternal life.**  
+
+In machine learning, and in the gospel, ASM is adapted to support a personal use case.  In my use case: Male, raised in California, former Widower, remarried, 5 kids, starting attending church in middle teens, 35 years in Tech, 2nd career as Teacher, Sunday School Teacher, EQ secretary.
 
 ![]({{site.baseurl}}/images/decission_tree.png)
 
