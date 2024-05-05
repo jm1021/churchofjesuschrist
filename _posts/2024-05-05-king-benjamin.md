@@ -34,15 +34,15 @@ Decision Tree Classification is another learning method, that breaks down the ab
 > Mosiah 1:5-7: By searching the scriptures and following the commandments, we can prosper in the land.
 
 ```text
-Seeking God's Will
+       Seeking God's Will
 
-     /        \
-Study      Follow
-Scriptures  Commandments
+     /          \               \
+Study          Follow          Apply 
+Scriptures    Commandments    Atonement
 
-     /                 \
-Increased  Prosper in  
-Understanding   the Land
+     /               \            \
+Increased         Prosper in     Eternal
+Understanding       the Land      Life
 
 ```
 
