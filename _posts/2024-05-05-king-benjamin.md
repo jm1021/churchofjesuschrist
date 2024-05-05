@@ -13,8 +13,9 @@ image: /images/king_benjamin.webp
 
 [Mosiah 1-3](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/17?lang=eng)
 
-## Logistic Regression and Decision Trees
-King Benjamin is setting up a Logistic Regression concept. The binary outcome King Benjamin is emphasizing the difference between knowing and not knowing God's mysteries.
+## AI and ML fun
+AI and its foundation ML are found in Mosiah.
+King Benjamin is setting up a Logistic Regression concept. The binary outcome is that King Benjamin is emphasizing the difference between knowing and not knowing God's mysteries.
 
 > Mosiah 1:3: Without the scriptures, we would be ignorant of God's mysteries.
 
@@ -46,13 +47,12 @@ Understanding   the Land
 ```
 
 ![]({{site.baseurl/images/decission_tree.png}})
-expand_more
 
 
 ## Talking Points from King Benjamin's Discourse
-Conference weekend we were able to listen to our Prophet.  He is renowned for his medical career and has had a way with words, ie **Think Celestial**.
+In the recent conference weekend, we were able to listen to our Prophet.  He is renowned for his way with words, ie **Think Celestial**.
 
-King Benjamin is a Prophet and King of a different time, but his doctrine and phrases have been with me for many years, ie **putteth off the Natural Man**, **mighty change**
+King Benjamin is a Prophet and King of a different time, but his doctrine and phrases have been with me for many years, ie **putteth off the Natural Man**, **a mighty change**
 
 Here are some of my favorite passages from the discourse by King Benjamin.
 
