@@ -10,7 +10,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target `all'.  Stop.
 
 
-# Make data base, printed on Sat Jul  6 08:07:27 2024
+# Make data base, printed on Sat Jul  6 18:50:03 2024
 
 # Variables
 
@@ -59,6 +59,7 @@ HOMEBREW_CELLAR = /opt/homebrew/Cellar
 # environment
 GEM_HOME = /Users/johnmortensen/gems
 # environment
+ 
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 # environment
 MANPATH = /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/share/man:/Library/Developer/CommandLineTools/usr/share/man:/Library/Developer/CommandLineTools/Toolchains/XcodeDefault.xctoolchain/usr/share/man:/opt/homebrew/share/man::
@@ -67,7 +68,6 @@ VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 HOME = /Users/johnmortensen
 # default
- 
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
 VSCODE_CODE_CACHE_PATH = /Users/johnmortensen/Library/Application Support/Code/CachedData/ea1445cc7016315d0f5728f8e8b12a45dc0a7286
@@ -222,6 +222,7 @@ remove: .FORCE
 #  File has not been updated.
 #  commands to execute (from `Makefile', line 38):
 	docker-compose stop  || true; docker-compose rm || true;
+ 
 	
 
 server: .FORCE
@@ -310,10 +311,9 @@ convert: .FORCE
 
 # # of strings in strcache: 1
 # # of strcache buffers: 1
- 
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Sat Jul  6 08:07:27 2024
+# Finished Make data base on Sat Jul  6 18:50:03 2024
 
  
