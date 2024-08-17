@@ -7,14 +7,16 @@ title: Stand Fast in the Faith of Christ
 image: /images/christ_resurrected.webp
 ---
 
-[August 5–11: “The Great Plan of Happiness” Alma 39–42](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/32?lang=eng)
-[August 12–18: “Stand Fast in the Faith of Christ” Alma 43–52](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/33?lang=eng)
+## Resources
+
+- [August 5–11: “The Great Plan of Happiness” Alma 39–42](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/32?lang=eng)
+- [August 12–18: “Stand Fast in the Faith of Christ” Alma 43–52](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/33?lang=eng)
 
 ## Mortensen Summary
 
-It is hard for me to summarize somthing for all of us, but or me it revolves around two words...
+It is hard for me to summarize somthing for all of us, but for me the summary revolves around two words...
 
-## Repenence
+## Repenence, Corianton
 
 What is repentence? We are raised into a socity with culture, words and definitions.  The word repentance came from early American cultures and movements.  Many of those were talked about by the Prophet Joseph Smith.
 
@@ -23,7 +25,7 @@ What is repentence? We are raised into a socity with culture, words and definiti
 
 <mark>How is repentance part of our plan of happiness?</mark>
 
-## Enmity
+## Enmity, The Wars
 
 What is enmity? In Genesis, in Moses, and in the temples ceremony we here the word enmitty.  
 
