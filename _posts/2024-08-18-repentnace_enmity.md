@@ -43,9 +43,11 @@ What is enmity? In Genesis, in Moses, and in the temples ceremony we here the wo
 
 Alma taught Corianton that there was a way back through repentance and Jesus Christ's atonment.
 
-We learn, that God has a perfect love and provided a plan for perfect mercy.  
+We learn, that God has a perfect love and provided a plan for perfect mercy.  Christ taught often, thy faith nade thee thee whole, thy faith healed thee.  Repenatance is about healing.
 
-Through Jesus Christ and the Prophet, we have been instructed, that keeping the commandments and becoming covenant keepers we gain greater access to the power of God.  We feel his lasting love, peace, comfort, and joy.
+Through Jesus Christ and the Prophet, we have been instructed, that keeping the commandments and becoming covenant keepers we gain greater access to the power of God.  We feel his lasting love, peace, comfort, joy, and healing.
+
+This moves us on the forward path.
 
 ### [10 Commandments](https://www.churchofjesuschrist.org/study/manual/gospel-topics/ten-commandments?lang=eng)
 
@@ -53,7 +55,7 @@ Through Jesus Christ and the Prophet, we have been instructed, that keeping the 
 
 ### [Temple Covenants](https://www.churchofjesuschrist.org/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng)
 
-Temple covenants are sacred promises made in temples that bind us to Heavenly Father and our Savior. 
+Temple covenants are sacred promises made in temples that bind us to Heavenly Father and our Savior.  The enable us to retain those feeling of joy, healing, ...
 
 - Law of Obedience, **strive to keep Heavenly Father’s commandments.**
 - Law of Sacrifice, sacrificing to support the Lord’s work and **repenting with a broken heart and contrite spirit**.
@@ -76,7 +78,7 @@ In the fall, we have learned that an **enmity** was placed between us and Satan.
 
 As we make coventants in the temple about, we learn that Satan will stop at nothing to our very desire to "Stand fast in our Faith of Christ".
 
-### Armies against Fredoms
+### Armies against Freedoms
 
 Alma 43:6 And now, as the Amalekites were of **a more wicked and murderous disposition** than the Lamanites were, in and of themselves, therefore, Zerahemnah appointed chief captains over the Lamanites, and they were all Amalekites and Zoramites.
 
