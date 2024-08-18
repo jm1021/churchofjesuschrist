@@ -106,31 +106,45 @@ There is a Great Plan, Jesus Christ is our Savior, and there is enmity in the wo
 
 What is our shield or protection?  How does the mortal stay away from darkness.
 
-### Enmity between woman and her Seed
+### Stories of Enmity
 
-The Light of Christ is defined in the scriptures as “the Spirit giveth light to every man that cometh into the world” (D&C 84:46; emphasis added); “the light which is in all things, which giveth life to all things, which is the law by which all things are governed” (D&C 88:13).
+Stories and wars of blood, power, teachery, cunning.  These are stories Faith in Christ and the Enmity of Satan.
 
-John 1:4–9... And the light shineth in darkness; and the darkness comprehended it not.
+- Captain Moroni (Faith In Christ)
+Alma 48;17 Yea, verily, verily I say unto you, if all men had been, and were, and ever would be, like unto Moroni, behold, **the very powers of hell would have been shaken** forever; yea, the devil would never have power over the hearts of the children of men.
+
+- Amalickiah (Bought by the Enmity of Satan)
+Alma 49:27 Yea, he was exceedingly wroth, and **he did curse God, and also Moroni, swearing with an oath that he would drink his blood**; and this because Moroni had kept the commandments of God in preparing for the safety of his people.
+
+### Protection through the Light of Christ
+
+Enmity between woman and her Seed and the powers of darkness, The Light of Christ.
+
+The Light of Christ is defined in the scriptures as “**the Spirit giveth light to every man that cometh into the world**” (D&C 84:46; emphasis added); “the light which is in all things, which giveth life to all things, which is the **law by which all things are governed**” (D&C 88:13).
+
+John 1:4–9... And **the light shineth in darkness; and the darkness comprehended it not**.
 
 [Light of Christ definition](https://www.churchofjesuschrist.org/study/manual/gospel-topics/light-of-christ?lang=eng)
 
-### Super Charge the Light
+### Protection throughtThe Holly Ghost
 
-[Holy Ghost](https://www.churchofjesuschrist.org/study/manual/gospel-topics/holy-ghost?lang=eng)
+Super Charge the Light of Christ with the constant companionship of a God.
 
-The Holy Ghost was received by me 9 months after my 8th birthday, but then I went back home.  
+[Holy Ghost definition](https://www.churchofjesuschrist.org/study/manual/gospel-topics/holy-ghost?lang=eng)
+
+The Holy Ghost was received by me about 9 months after my 8th birthday, but then I went back back from vacation with my Aunt.  
 
 - At about 12 I had someone knock on my door and he said he was my Home Teacher.  
 - I remember feeling guilty for hiding from this guy pretty much until I was about 15 and he mentioned baskeball.
-- My memory is clear, I often felt guilty without knowing gospel law on things like Pornograpy, Sexual relations (boy and girl), Alcohol, Marijuana, etc.
+- My memory is clear, **I often felt guilty without knowing gospel** law on things like Pornograpy, Sexual relations (boy and girl), Alcohol, Marijuana, etc.
 
-Today, I think that I have always lived with the Holy Ghost as my friend.  The Holy Ghost did guide me in my decisions and helped protect us from physical adictions and long term spiritual damage.
+Today, I think that **I have always lived with the Holy Ghost as my friend**.  The Holy Ghost did guide me in my decisions and helped protect us from physical adictions and long term spiritual damage.
 
-When it came time that I knew my gift, I learned as Eve said, to feel the Joy of my redemption and fell joy in this life as stated by Adam.
+When it came time that I knew my gift, **I learned**, as Eve said, to feel **the Joy of my redemption**.
 
 #### Moses: 5:8-11 S
 
-Note. Starts with **in the name of the Son** and **repentance**.
+Note. Adam's and Eve's testimony starts with **repentance**.
 
 8 Wherefore, thou shalt do all that thou doest in the name of the Son, and thou shalt **repent and call upon God in the name of the Son forevermore**.
 
@@ -142,7 +156,7 @@ Note. Starts with **in the name of the Son** and **repentance**.
 
 ### Moses 6:56-68
 
-Note.  Starts with it is given unto them to know good from evil.
+Note.  The next chapter tells us we have been the ligth to combat the darkenws, **our enmity**
 
 56 And **it is given unto them to know good from evil; wherefore they are agents unto themselves**, and I have given unto you another law and commandment.
 
