@@ -14,20 +14,20 @@ image: /images/christ_resurrected.webp
 
 ## Mortensen Summary
 
-It is hard for me to summarize somthing for all of us, but for me the summary revolves around two words...
+It is hard for me to summarize somthing for all of us, but for me the two week summary revolves around two words...
 
-## Repenence, Corianton
+## Repenence: Corianton
 
-What is repentence? We are raised into a socity with culture, words and definitions.  The word repentance came from early American cultures and movements.  Many of those were talked about by the Prophet Joseph Smith.
+What is repentence? We are raised into a society with culture, with words, and definitions.  The word repentance, for us, came from early Christian and Mormon cultures.  Many of those were talked about by the Prophet Joseph Smith and the restoration.
 
 [Repentance Definition #1](https://webstersdictionary1828.com/Dictionary/Repentance)
 [Repentance Definition #2](https://www.churchofjesuschrist.org/study/manual/gospel-topics/repentance?lang=eng)
 
 <mark>How is repentance part of our plan of happiness?</mark>
 
-## Enmity, The Wars
+## Enmity: The Wars
 
-What is enmity? In Genesis, in Moses, and in the temples ceremony we here the word enmitty.  
+What is enmity? In Genesis, in Moses, and in the temple ceremony we hear the word enmitty.  
 
 - Genesis 3:15 “And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.”
 - Moses 4:21 "And I will put enmity between thee and the woman, between thy seed and her seed; and he shall bruise thy head, and thou shalt bruise his heel"
@@ -39,15 +39,17 @@ What is enmity? In Genesis, in Moses, and in the temples ceremony we here the wo
 
 ---
 
-### Repentance is Happiness [Alma 42:1-15](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng)
+### Repentance, Atonement, Mercy
 
-Alma taught Corianton that there was a way back through repentance and Jesus Christ's atonment.
+Repentance is Happiness [Alma 42:1-15](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng)
 
-We learn, that God has a perfect love and provided a plan for perfect mercy.  Christ taught often, thy faith nade thee thee whole, thy faith healed thee.  Repenatance is about healing.
+Alma taught Corianton that there was a way back from his transgression through repentance and Jesus Christ's atonement.
 
-Through Jesus Christ and the Prophet, we have been instructed, that keeping the commandments and becoming covenant keepers we gain greater access to the power of God.  We feel his lasting love, peace, comfort, joy, and healing.
+We learn that God has a perfect love and has provided a plan for perfect mercy. Christ often taught: "Thy faith hath made thee whole," or "Thy faith hath healed thee." Repentance is about healing.
 
-This moves us on the forward path.
+Through Jesus Christ and the modern prophets, we have been instructed that by keeping the commandments and becoming covenant keepers, we gain greater access to the power of God.
+
+**Repentance moves us forward on the path of love, peace, comfort, joy, and healing**.
 
 ### [10 Commandments](https://www.churchofjesuschrist.org/study/manual/gospel-topics/ten-commandments?lang=eng)
 
@@ -55,28 +57,28 @@ This moves us on the forward path.
 
 ### [Temple Covenants](https://www.churchofjesuschrist.org/study/manual/general-handbook/27-temple-ordinances-for-the-living?lang=eng)
 
-Temple covenants are sacred promises made in temples that bind us to Heavenly Father and our Savior.  The enable us to retain those feeling of joy, healing, ...
+Temple covenants are sacred promises made in temples that bind us to Heavenly Father and our Savior. They enable us to retain those feelings of joy, healing, and ...
 
-- Law of Obedience, **strive to keep Heavenly Father’s commandments.**
-- Law of Sacrifice, sacrificing to support the Lord’s work and **repenting with a broken heart and contrite spirit**.
+- Law of Obedience: **Strive to keep Heavenly Father’s commandments.**
+- Law of Sacrifice: Sacrificing to support the Lord’s work and **repenting with a broken heart and contrite spirit**.
 - Law of the Gospel:
   - **Exercising faith in Jesus Christ**.
   - **Repenting daily**.
   - **Making covenants** with God by receiving the ordinances of salvation and exaltation.
   - Enduring to the end by **keeping covenants**.
-  - **Striving to live the two great commandments**...
-    - **Love the Lord** thy God with all thy heart, and with all thy soul, and with all thy mind
-    - **Love thy neighbor** as thyself
-- **Law of Chastity**, which means abstaining from sexual relations outside of a legal marriage between a man and a woman, which is **according to God’s law**.
-- Law of Consecration. which means that members **dedicate their time, talents, and everything** with which the Lord has blessed them to building up Jesus Christ’s Church on the earth.
+  - **Striving to live the two great commandments**:
+    - **Love the Lord** thy God with all thy heart, and with all thy soul, and with all thy mind.
+    - **Love thy neighbor** as thyself.
+- **Law of Chastity**: Abstaining from sexual relations outside of a legal marriage between a man and a woman, which is **according to God’s law**.
+- Law of Consecration: Members **dedicate their time, talents, and everything** with which the Lord has blessed them to building up Jesus Christ’s Church on the earth.
 
 ---
 
-## A Cause, Title, Sheld against Enmity
+## A Cause, Title, Shield against Enmity
 
-In the fall, we have learned that an **enmity** was placed between us and Satan.  
+In the Fall, we learn that an **enmity** was placed between us and Satan.
 
-As we make coventants in the temple about, we learn that Satan will stop at nothing to our very desire to "Stand fast in our Faith of Christ".
+As we make covenants in the temple, we learn that Satan will stop at nothing to undermine our very desire to "stand fast in our faith of Christ."
 
 ### Armies against Freedoms
 
@@ -100,15 +102,15 @@ Alma 45:20 Behold, whosoever will maintain this title upon the land, **let them 
 
 ---
 
-## Summary
+## Summary Topics
 
-There is a Great Plan, Jesus Christ is our Savior, and there is enmity in the world from the time of Genesis Chapter 3.
+There is a Great Plan, Jesus Christ is our Savior, and there has been enmity in the world since Genesis Chapter 3.
 
-What is our shield or protection?  How does the mortal stay away from darkness.
+What is our shield or protection? How does the mortal stay away from darkness?
 
 ### Stories of Enmity
 
-Stories and wars of blood, power, teachery, cunning.  These are stories Faith in Christ and the Enmity of Satan.
+Stories and wars of blood, power, treachery, and cunning. These are stories of faith in Christ and the enmity of Satan.
 
 - Captain Moroni (Faith In Christ)
 Alma 48;17 Yea, verily, verily I say unto you, if all men had been, and were, and ever would be, like unto Moroni, behold, **the very powers of hell would have been shaken** forever; yea, the devil would never have power over the hearts of the children of men.
@@ -118,29 +120,29 @@ Alma 49:27 Yea, he was exceedingly wroth, and **he did curse God, and also Moron
 
 ### Protection through the Light of Christ
 
-Enmity between woman and her Seed and the powers of darkness, The Light of Christ.
+Enmity between woman and her seed and the powers of darkness is countered by the Light of Christ.
 
 The Light of Christ is defined in the scriptures as “**the Spirit giveth light to every man that cometh into the world**” (D&C 84:46; emphasis added); “the light which is in all things, which giveth life to all things, which is the **law by which all things are governed**” (D&C 88:13).
 
-John 1:4–9... And **the light shineth in darkness; and the darkness comprehended it not**.
+John 1:4–9: "And **the light shineth in darkness; and the darkness comprehended it not**."
 
 [Light of Christ definition](https://www.churchofjesuschrist.org/study/manual/gospel-topics/light-of-christ?lang=eng)
 
-### Protection throughtThe Holly Ghost
+### Protection through The Holy Ghost
 
-Super Charge the Light of Christ with the constant companionship of a God.
+Supercharge the Light of Christ with the constant companionship of a God, The Holy Ghost.
 
 [Holy Ghost definition](https://www.churchofjesuschrist.org/study/manual/gospel-topics/holy-ghost?lang=eng)
 
-The Holy Ghost was received by me about 9 months after my 8th birthday, but then I went back back from vacation with my Aunt.  
+I received the Holy Ghost about 9 months after my 8th birthday, but then I went back home returning from vacation with my Aunt.
 
-- At about 12 I had someone knock on my door and he said he was my Home Teacher.  
-- I remember feeling guilty for hiding from this guy pretty much until I was about 15 and he mentioned baskeball.
-- My memory is clear, **I often felt guilty without knowing gospel** law on things like Pornograpy, Sexual relations (boy and girl), Alcohol, Marijuana, etc.
+- When I was about 12, someone knocked on my door and introduced himself as my Home Teacher.
+- I remember feeling guilty for hiding from him until I was about 15, when he mentioned basketball.
+- My memory is clear: **I often felt guilty without knowing the gospel law** on things like pornography, sexual relations, alcohol, marijuana, etc.
 
-Today, I think that **I have always lived with the Holy Ghost as my friend**.  The Holy Ghost did guide me in my decisions and helped protect us from physical adictions and long term spiritual damage.
+Today, I believe that **I have always lived with the Holy Ghost as my friend**. The Holy Ghost guided me in my decisions and helped protect me from physical addictions and long-term spiritual damage.
 
-When it came time that I knew my gift, **I learned**, as Eve said, to feel **the Joy of my redemption**.
+When it came time that I understood my gift, **I learned**, as Eve said, to feel **the joy of my redemption**.
 
 #### Moses: 5:8-11 S
 
@@ -156,7 +158,7 @@ Note. Adam's and Eve's testimony starts with **repentance**.
 
 ### Moses 6:56-68
 
-Note.  The next chapter tells us we have been the ligth to combat the darkenws, **our enmity**
+Note.  The this chapter, contining with Adam, tells us we have "the ligth" to combat "the darkness", **our gift of enmity**
 
 56 And **it is given unto them to know good from evil; wherefore they are agents unto themselves**, and I have given unto you another law and commandment.
 
@@ -164,9 +166,9 @@ Note.  The next chapter tells us we have been the ligth to combat the darkenws, 
 
 58 Therefore I give unto you a commandment, to teach these things freely unto your children, saying:
 
-59 That by reason of transgression cometh the fall, which fall bringeth death, and inasmuch as ye were born into the world by water, and blood, and the spirit, which I have made, and so became of dust a living soul, **even so ye must be born again into the kingdom of heaven, of water, and of the Spirit, and be cleansed by blood, even the blood of mine Only Begotten**; that ye might be sanctified from all sin**, and enjoy the words of eternal life in this world, and eternal life in the world to come, even immortal glory;
+59 That by reason of transgression cometh the fall, which fall bringeth death, and inasmuch as ye were born into the world by water, and blood, and the spirit, which I have made, and so became of dust a living soul, **even so ye must be born again into the kingdom of heaven, of water, and of the Spirit, and be cleansed by blood, even the blood of mine Only Begotten**; that ye might be **sanctified from all sin**, and enjoy the words of eternal life in this world, and eternal life in the world to come, even immortal glory;
 
-60 For by the water ye keep the commandment; by the Spirit ye are justified, and by the blood ye are sanctified;
+60 For by the water ye keep the commandment; **by the Spirit ye are justified, and by the blood ye are sanctified**;
 
 61 Therefore **it is given to abide in you; the record of heaven; the Comforter; the peaceable things of immortal glory; the truth of all things; that which quickeneth all things, which maketh alive all things**; that which knoweth all things, and hath all power according to wisdom, mercy, truth, justice, and judgment.
 
