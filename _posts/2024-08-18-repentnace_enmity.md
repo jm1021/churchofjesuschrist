@@ -10,7 +10,12 @@ image: /images/christ_resurrected.webp
 ## Resources
 
 - [August 5–11: “The Great Plan of Happiness” Alma 39–42](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/32?lang=eng)
+
+![Jesus]({{site.baseurl}}/images/christ_resurrected.webp)
+
 - [August 12–18: “Stand Fast in the Faith of Christ” Alma 43–52](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/33?lang=eng)
+
+![Captain Moroni]({{site.baseurl}}/images/captain_moroni_title_liberty.webp)
 
 ## Mortensen Summary
 
