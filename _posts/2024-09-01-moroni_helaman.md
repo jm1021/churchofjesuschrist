@@ -71,13 +71,13 @@ His descendants played crucial roles in the Reign of the Judges, facing signific
 
 In life, we may never know about the success or failure of our future generations. As I recall the teachings of my ancestors that I have researched through family history, I often feel a need to honor their past. I like how the Book of Mormon refers to King Benjamin, Amulek, and Zeezrom much later, after many generations. It gives me great hope for my future generations, through the traditions of Jesus Christ and the family values that I try to establish.
 
-## Amalickiah, Ammoron, Gadianton
+## The Other Perspective
 
-Amalickiah, Ammoron, Gadianton: Power, Greed, or Grievance?
+Amalickiah, Ammoron, Gadianton: Power and Greed, or Grievance?
 
-Amalickiah, Ammoron, and Gadianton are often depicted as villains driven by power and greed. However, a closer examination of their actions and declarations reveals that they often claimed to be wronged, using these grievances to justify their actions.
+Amalickiah, Ammoron, and Gadianton are commonly portrayed as villains driven by insatiable power and greed. But what if there's more to their story? A closer examination of their declarations reveals that they often claimed to be victims of injustice, using these grievances—both personal and inherited—to justify their actions. Their narrative wasn't just about their own perceived wrongs; it was about avenging the suffering endured by their fathers as well.
 
-## Amalickiah
+### Amalickiah
 
 Reference: [Alma 48:1-2](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/48?lang=eng&id=p1-p2#p1); [Alma 51:8-9](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/51?lang=eng&id=p8-p9#p8)
 
