@@ -101,7 +101,7 @@ We have many groups in society that feel that they have a cause.   Many, believe
 
 We may be quick to see all these "bad figures" as evil.   But, we may be "missing the people" behind the "bad people" that have good intentions.  Or, we may not see the "bad people" behind the "good people".  Do we think every German in WWII was bad?  Or do we think every Jew was good?
 
-## Responding to Grievances
+## Listneing to Grievances
 
 Reference: [Helaman 5:17-19](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng&id=p17-p19#p17)
 
