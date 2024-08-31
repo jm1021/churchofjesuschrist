@@ -111,4 +111,4 @@ Another example can be found in the story of Nephi and Lehi, the sons of Helaman
 
 ---
 
-In today’s world, where many groups declare they have been wronged for generations, the example of Ammon and Nephi suggests that **our response should be rooted in empathy, understanding, and service**. Rather than dismissing these grievances, we are called to listen, serve, and seek reconciliation, just as they did. This doesn’t mean compromising on righteousness but rather finding ways to address grievances in a Christlike manner.
+In today’s world, where many groups declare they have been wronged for generations, the example of Ammon and Nephi suggests that **our response should be rooted in empathy, understanding, and service**. Rather than dismissing these grievances, ****we are called to listen, serve, and seek reconciliation**, just as they did. This doesn’t mean compromising on righteousness but rather finding ways to address grievances in a Christlike manner.
