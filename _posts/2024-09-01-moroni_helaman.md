@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-description: Examples like the Strippling Warriors, Helaman, Pahoran and his descendents.
+description: The Strippling Warriors, Pahoran, Helaman and his descendents show the depth of faith, leadership, and the enduring power of righteous examples.
 title: “Preserved by His Marvelous Power”
 image: /images/two_thousand_stripling_warriors.webp
 ---
