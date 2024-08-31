@@ -1,4 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory `/Users/johnmortensen/vscode/churchofjesuschrist'
-cat Makefile
-make: Leaving directory `/Users/johnmortensen/vscode/churchofjesuschrist'
