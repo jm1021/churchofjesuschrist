@@ -83,7 +83,7 @@ Helaman, who led the Stripling Warriors, is remembered not just for his leadersh
 
 In life, we may never know about the success or failure of our future generations. As I discover the teachings of my ancestors that I have researched through family history, I often feel a need to honor their past.
 
-I appreciate how the Book of Mormon continues to reference King Benjamin, Amulek, and Zeezrom in these later chapters, long after their time and across many generations. **This continuity gives me great hope for my own future generations**, as we pass down the teachings of Jesus Christ we've embraced and the family values we've worked to establish as parents
+I appreciate how the Book of Mormon continues to reference King Benjamin, Amulek, and Zeezrom in these later chapters, long after their time and across many generations. **This continuity gives me great hope for my own future generations, as we pass down the teachings of Jesus Christ we've embraced** and the family values we've worked to establish as parents
 
 ## The Other Perspective
 
@@ -119,7 +119,7 @@ Gadianton, the leader of the Gadianton robbers, also framed his actions as a res
 
 ---
 
-`Nephites good? Lamanites bad?`
+**Nephites good? Lamanites bad?**
 
 We have many groups in society that feel they have a cause. Many believe, as the Book of Mormon people did, that these wrongs have persisted for generations. We have seen individuals like Ammon, who served King Limhi, going to serve those who were considered potential enemies. What is our call in a world where societies declare they have been wronged for generations?
 
@@ -137,4 +137,4 @@ Another example can be found in the story of **Nephi and Lehi**, the grandsons o
 
 ---
 
-In today’s world, where many groups declare they have been wronged for generations, the example of Ammon Nephi, and Lehi suggests that **our response should be rooted in empathy, understanding, and service. Rather than dismissing these grievances, we are called to listen, serve, and seek reconciliation**, just as they did. This doesn’t mean "compromising on righteousness" but rather finding ways to address grievances in a **Christlike manner**.
+In today’s world, where many groups declare they have been wronged for generations, the example of Ammon Nephi, and Lehi suggests that **our response should be rooted in empathy, understanding, and service. Rather than dismissing these grievances, we are called to listen, serve, and seek reconciliation**, just as they did. This doesn’t mean "compromising on righteousness" but rather finding ways to address grievances **in a Christlike manner**.
