@@ -105,8 +105,8 @@ Ammoron, Amalickiah’s brother, continued this narrative of grievance. He sough
 
 Reference: [Helaman 2:3-8](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/2?lang=eng&id=p3-p8#p3); [Helaman 6:18-24](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/6?lang=eng&id=p18-p24#p18)
 
-> Therefore he did flatter them, and also Kishkumen, that if they would place him in the judgment-seat he would grant unto those who belonged to his band that they should be placed in power and authority among the people;
-> Satan did stir up the hearts of the more part of the Nephites, insomuch that they did unite with those bands of robbers, and did enter into their covenants and their oaths
+> 2:5 Therefore he did flatter them, and also Kishkumen, that if they would place him in the judgment-seat he would grant unto those who belonged to his band that they should be placed in power and authority among the people;
+> 6:21 ... Satan did stir up the hearts of the more part of the Nephites, insomuch that they did unite with those bands of robbers, and did enter into their covenants and their oaths
 
 Gadianton, the leader of the Gadianton robbers, also framed his actions as a response to perceived injustices. The Gadianton robbers saw themselves as an oppressed group fighting against the Nephite society, which they viewed as corrupt and unjust. Their secret combinations were formed with the belief that they were reclaiming power and wealth that had been unfairly denied to them.
 
