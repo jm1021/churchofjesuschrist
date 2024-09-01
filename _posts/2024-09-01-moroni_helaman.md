@@ -27,13 +27,13 @@ To Pahoran
 
 Captain Moroni is renowned for his passionate and direct letters, particularly those directed at Amalickiah and Pahoran. His epistles reflect a profound commitment to his people's freedom and a willingness to confront perceived threats to righteousness head-on.
 
-However, `modern readers might find his fervor almost too intense`, perhaps even unsettling when considering today's more "inclusive" and "unity" approach. For example, his letter to Pahoran in Alma 60 is filled with frustration, accusations, and a call to action against perceived corruption. This reflects a deep zeal for righteousness, but in contemporary contexts, such a direct and confrontational tone might be seen as problematic or overly aggressive, likely leading to more negative responses or conflict rather than resolution.
+However, **modern readers might find his fervor almost too intense, perhaps even unsettling when considering today's more "inclusive" and "unity" approach**. For example, his letter to Pahoran in Alma 60 is filled with frustration, accusations, and a call to action against perceived corruption. This reflects a deep zeal for righteousness, but in contemporary contexts, such a direct and confrontational tone might be seen as problematic or overly aggressive, likely leading to more negative responses or conflict rather than resolution.
 
 ---
 
 Captain Moroni had to deal with a lot! How did he react when he heard about Pahoran and the rebellion at home?
 
-`As a missionary many years ago, we talked about "dusting your feet."` Mob behavior can be in our own midst.
+**As a missionary many years ago, we talked about "dusting your feet."** Mob behavior can be in our own midst.
 
 ## Pahoran's Response
 
@@ -43,7 +43,7 @@ Reference: [Alma 61](https://www.churchofjesuschrist.org/study/scriptures/bofm/a
 
 Pahoran's response to Captain Moroni’s accusatory epistle sets a remarkable example of patience, humility, and forgiveness. Despite being wrongly accused by Moroni of neglect and betrayal, Pahoran responds with kindness and understanding, explaining the true situation of internal conflict he was facing.
 
-F`or anyone struggling with feelings of anger or frustration—like road rage—Pahoran’s response serves as a standard of how to approach such situations with calm and grace`. Rather than reacting with defensiveness or hostility, he diffuses the situation by providing context and maintaining a "spirit of unity".
+`For anyone struggling with feelings of anger or frustration—like road rage—Pahoran’s response serves as a standard of how to approach such situations with calm and grace`. Rather than reacting with defensiveness or hostility, he diffuses the situation by providing context and maintaining a "spirit of unity".
 
 ---
 
