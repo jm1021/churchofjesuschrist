@@ -29,35 +29,46 @@ Sometimes in the gospel, I have felt that entropy or energy loss. Many years ago
 
 ## Praise to the Lord
 
-Thinking of the filling the greenery can in manageable chunks, let's read some scripture.
+As we consider the concept of filling our proverbial greenery can in manageable chunks, let's look at the scriptures from the ministry of Jesus to the Nephites. These passages provide profound insights and guidance that can help us incrementally work towards receiving the Savior's blessings in our lives. Though some of these key points may seem challenging or distant at first, by applying them step by step, we can achieve significant spiritual growth and strength in our mortal lives.
 
 ### 3 Nephi 11:10-11
 
 Highlight: Jesus Christ introduces Himself to the Nephites and declares His mission.
 Scripture: "Behold, I am Jesus Christ, whom the prophets testified shall come into the world. And behold, I am the light and the life of the world; and I have drunk out of that bitter cup which the Father hath given me, and have glorified the Father **in taking upon me the sins of the world**, in the which I have suffered the will of the Father in all things from the beginning."
 
+- All of us, no matter our sorrow or pain, are within the bounds of the Savior's redeeming love and atonement. By turning to Him incrementally, we can combat the spiritual entropy that seeks to pull us away from His light.
+
 ### 3 Nephi 12:48
 
 Highlight: Jesus teaches about perfection and following His example.
 Scripture: "Therefore **I would that ye should be perfect** even as I, or your Father who is in heaven is perfect."
+
+- The Greek word for perfect is "teleios," which means being whole, complete, mature, fully developed. These concepts are more manageable when we think of them as incremental steps towards spiritual maturity, rather than an unattainable state of flawlessness.
 
 ### 3 Nephi 18:15
 
 Highlight: Jesus emphasizes the importance of prayer to avoid temptation.
 Scripture: "Verily, verily, I say unto you, **ye must watch and pray always**, lest ye be tempted by the devil, and ye be led away captive by him."
 
+- Jesus later (chapter 20) instructs the Nephites that they should not cease to pray in their hearts. After prayer, we are often counseled to remain open to the Holy Ghost. This process of continuous prayer and openness to the Spirit helps us incrementally open our understanding, combat spiritual entropy, and open our understanding.
+
 ### 3 Nephi 19:25-26
 
 Highlight: The disciples are filled with the Holy Ghost and purified.
 Scripture: "And it came to pass that **Jesus blessed them as they did pray unto him**; and his countenance did smile upon them, and the light of his countenance did shine upon them, and behold, they were as white as the countenance and also the garments of Jesus; and behold the whiteness thereof did exceed all the whiteness, yea, even there could be nothing upon earth so white as the whiteness thereof."
 
-3 Nephi 27:27:
+- As a recently returned missionary, one of my best friends was someone who returned from their mission early. That was a hard place to be at that time, and he struggled in the Church. He relayed to me one night that his parents, who were temple workers, had radiant countenances when they returned. White in light is all colors of the spectrum, symbolizing the purity and completeness we can achieve incrementally through Christ.  
+
+### 3 Nephi 27:27
+
 Highlight: Jesus sets the standard for His disciples.
 Scripture: "And know ye that ye shall be judges of this people, according to the judgment which I shall give unto you, **which shall be just**. Therefore, what manner of men ought ye to be? Verily I say unto you, even as I am."
 
+- In recent reflections or dreams, I experienced exquisite sorrow and exquisite joy at the same time. To be like God, we need to experience all emotions: Good - Evil, Joy - Sorrow, Pleasure - Pain. Our incremental ability to maintain "all emotions" and "keep countenance radiant" is to become closer to God. This is the refiner's fire or mastery. Through Christ and His atonement, we are divinely gifted to succeed.
+
 ## Samuel the Laminite and President Nelson
 
-Watching conference, I felt and had a recollection of Samuel the Laminanite as I heard the Prophet speak.
+Watching conference, I felt and had a recollection of Samuel the Laminanite as I heard the Prophet speak.  Both Samuel the Lamanite and President Nelson emphasize the importance of preparing for the coming of Jesus Christ, staying steadfast in faith, and **the blessings that come from faithful discipleship**. These teachings are timeless and provide a strong foundation for combating spiritual entropy. By focusing on these principles, we can fill our proverbial greenery can and maintain spiritual strength and peace.
 
 ### Prophesying of Christ's Coming
 
@@ -83,6 +94,14 @@ Watching conference, I felt and had a recollection of Samuel the Laminanite as I
 **President Nelson:** President Nelson promises blessings and miracles to the faithful, especially through temple worship.
 **Highlight:** "So many wonderful things are ahead. In coming days, we will see the greatest manifestations of the Savior’s power that the world has ever seen. Between now and the time He returns 'with power and great glory,' He will bestow countless privileges, blessings, and miracles upon the faithful.
 
+### Resurrection and Work for the Dead
+
+**Samuel the Lamanite**: Samuel prophesied about the resurrection of the dead and the miraculous events that would accompany the coming of Jesus Christ.
+**Scripture**: "Verily I say unto you, I commanded my servant Samuel, the Lamanite, that he should testify unto this people, that at the day that the Father should glorify his name in me that there were many saints who should arise from the dead, and should appear unto many, and should minister unto them." (3 Nephi 23:9)
+
+**President Nelson**: President Nelson has emphasized the importance of temple work and performing ordinances for the dead, which is a way to ensure that all of God's children have the opportunity to receive the blessings of the gospel.
+**Highlight**: "Our message to the world is simple and sincere: We invite all of God’s children on both sides of the veil to come unto their Savior, receive the blessings of the holy temple, have enduring joy, and qualify for eternal life."
+
 ### Additional Parallels from 3 Nephi
 
 **Scripture:** "Behold, I am Jesus Christ, whom the prophets testified shall come into the world. And behold, I am the light and the life of the world; and I have drunk out of that bitter cup which the Father hath given me, and have glorified the Father in taking upon me the sins of the world, in the which I have suffered the will of the Father in all things from the beginning." (3 Nephi 11:10-11)
@@ -104,9 +123,10 @@ Brothers and sisters, the Lord will comfort you too! He will strengthen you. **H
 I really like the interactions of the resurrected Jesus with the people and I particularly like 3 Nephi 18-20.  
 
 - Chapter 18-20 
-  - I like to **visualize being in Jesus's presence** and taking the Sacrament.
-  - The **anticipation of the next meeting** with Jesus is particularly exciting and personal to me. Thinking about and knowing he will be coming. The steps of preparing (with baptism) and sharing (with family/frieds) are exciting.
-  - This is **a day fullfillment**, anticipation realized.  The gift of prayers answered, baptism and convenants realized, learning about how Jesus and the Father interact.  And, the second sacrament and withness with slightly different proceedings and miracles.
+  - I like to **visualize being in Jesus's presence** and taking the Sacrament while reading thes chapters.
+  - The **anticipation of the next meeting with Jesus** is particularly exciting and personal to me. Thinking about and knowing he will be coming is something we have been taught. The steps of preparing (with baptism) and sharing (with family/frieds) are things we have done.  
+  - This is **a day fullfillment**, anticipation realized.  The gift of witnessing prayers answered, baptism and convenants realized, observing how Jesus and the Father interact.  Learning how to pray and keep a prayer in my heart.
+  - The second sacrament and withness with **slightly different proceedings and miracles** of bread and water.  
 
 ## Sacrament Meeting 3 Nepi 18
 
