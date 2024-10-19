@@ -9,6 +9,8 @@ image: /images/christ_nephites.webp
 
 ## Resources
 
+- October 14–20: [Ye Are the Children of the Covenant](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/42?lang=eng)
+
 - October 7–13: [Behold, My Joy Is Full](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/41?lang=eng)
 
 - September 30–October 6: [I Am the Law, and the Light](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/40?lang=eng)
