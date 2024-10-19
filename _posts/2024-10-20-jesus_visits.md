@@ -23,7 +23,7 @@ We are all fallen, and through Jesus Christ, we can claim all of the glory of th
 
 I moved into this Ward in the year 2000. Having a young family, we focused on a pool, trampoline, rough scape, and garden. It was perfect. Between that and having gardeners, we had many years of **perfection** in our yard.
 
-At some point, we decided to cancel our gardening service, as surely roses were trimmed incorrectly and they seemed to be imperfect in weed removal. Surely, we could do things better ourselves. This year, as we looked around while preparing for summer primary pool parties, we were alarmed at the state of affairs.
+At some point, we decided to cancel our gardening service, as surely the roses were trimmed incorrectly and they, the gardners, seemed to be imperfect in weed removal. Surely, we could do things better ourselves. Fast forward, this year, as we looked around while preparing for summer primary pool parties, we were alarmed at the state of affairs.  What had happened?
 
 Entropy is a measure of how much energy is lost in a system. If a system loses too much energy, it will disintegrate into chaos. Our gardening focus seemed to wane over the years. Many plants and ground covers seemed to be beyond hope. This would take a lot of energy to fix. To stop the chaos, it seemed it would take an extreme amount of time and ability, taking away from our ability to enjoy or accomplish other things. Then my wife said, **Let's start by filling up the greenery can every week.** We still have a ways to go, but on Saturday, October 19th, 2024, I see hope for the area around the pool again.
 
