@@ -17,21 +17,37 @@ image: /images/christ_nephites.webp
 
 ![Christ Visits Americas][{{site.baseurl}}/images/christ_nephites.webp]
 
-## Entropy
+## Spirtual Entropy
 
-We are all fallen, and through Jesus Christ, we can claim all of the glory of the Father. Today we may feel great in our path to follow the example of Jesus. But I caution you about entropy.
+We are all fallen, and through Jesus Christ, we can claim all of the glory of the Father. Today, I caution you about **spirtual entropy**.
 
-I moved into this Ward in the year 2000. Having a young family, we focused on a pool, trampoline, rough scape, and garden. It was perfect. Between that and having gardeners, we had many years of **perfection** in our yard.
+I moved into this ward in the year 2000. Having a young family, we focused on a pool, trampoline, rough scape, and garden. It was perfect. Between that and having gardeners, we had many years of **perfection** in our yard.
 
-At some point, we decided to cancel our gardening service, as surely the roses were trimmed incorrectly and they, the gardners, seemed to be imperfect in weed removal. Surely, we could do things better ourselves. Fast forward, this year, as we looked around while preparing for summer primary pool parties, we were alarmed at the state of affairs.  What had happened?
+At some point, we decided to cancel our gardening service, as surely the roses were being trimmed incorrectly. Additionally, the gardeners seemed to be imperfect in weed removal. Surely, we could do things better ourselves.
 
-Entropy is a measure of how much energy is lost in a system. If a system loses too much energy, it will disintegrate into chaos. Our gardening focus seemed to wane over the years. Many plants and ground covers seemed to be beyond hope. This would take a lot of energy to fix. To stop the chaos, it seemed it would take an extreme amount of time and ability, taking away from our ability to enjoy or accomplish other things. Then my wife said, **Let's start by filling up the greenery can every week.** We still have a ways to go, but on Saturday, October 19th, 2024, I see hope for the area around the pool again.
+Fast forward to this year, as we looked around while preparing for summer primary pool parties, we were alarmed at the state of affairs. What had happened? Perfection is not the word we would use to describe our garden, particularly around the pool.
 
-Sometimes in the gospel, I have felt that entropy or energy loss. Many years ago, before Shay was born, perhaps it was my wife again, we decided to read scriptures every night. Also, when Tiernan returned from his mission, we got out of the habit of **butts on bed** prayers to **knee** prayers. Additionally, at some point, I started personal prayer in the car and then silence as I drive to work. Also, just coming off of Conference Weekend, this is an event that I try to never interrupt. I try to treat it like the **big game.** These are my proverbial actions to "fill up the greenery can."
+Entropy is a measure of how much energy is lost in a system. If a system loses too much energy, it will disintegrate into chaos. Our gardening focus seemed to wane over the years, not entirely but little by little. Many formerly beautiful plants and ground covers now seemed to be overgrown and beyond hope. This would take a lot of energy to fix.
+
+To stop the chaos, it seemed it would take an extreme amount of time and effort, taking away from our ability to enjoy or accomplish other things. Then my wife said, **"Let's start by filling up the greenery can every week."** We still have a ways to go, but on Saturday, October 19th, 2024, I see hope for the area around the pool again. The removal of years of neglect has started to make progress, and now we are starting to reimagine what could be.
+
+Sometimes in the gospel, I have felt that entropy or energy loss. Over the years, in my family, we put routines in place that have helped **fill our lives** as well as combat **spiritual entropy.**.
+
+1. Many years ago, early in our marriage, perhaps it was my wife again, we decided to **read scriptures every night @8:45pm**.  We don't recoall the date but we do know that Shay has had regular scriptues his entire life.
+2. Tiernan blessed us when he returned from his mission, he got out of the habit of **butts on bed** prayers to **knee** prayers.
+3. At some point, I started a **personal prayer** habit when entering my car, followed by **silence and pondering** as I drive to work.
+4. Reflecting on the recent Conference weekend, **this is an event that I try to never interrupt**. In my mind, I try to treat it like is the **big game**.  I now look forward to it months in advance.
+5. Church and Sacrament Meeting are my weekly **tune up**.  This habit started as a 15 year old.  Talking aoubt Church with my wife is a big part of our Sunday tradition.
+
+These are my proverbial actions to "fill up the greenery can".  In a more doctrinal evaluation, these elements are my repentance or turning toward Jesus Christ.
+
+![Christ Visits Americas][{{site.baseurl}}/images/greenery_can.png]
 
 ## Praise to the Lord
 
-As we consider the concept of filling our proverbial greenery can in manageable chunks, let's look at the scriptures from the ministry of Jesus to the Nephites. These passages provide profound insights and guidance that can help us incrementally work towards receiving the Savior's blessings in our lives. Though some of these key points may seem challenging or distant at first, by applying them step by step, we can achieve significant spiritual growth and strength in our mortal lives.
+In all things we should praise Jesus Christ for the beauties we find in life and a plan that enables us to be imperfect.  Today, I would like to consider the concept of filling our proverbial greenery can in manageable chunks.
+
+Let's look at the scriptures from the ministry of Jesus to the Nephites. These passages provide profound insights and guidance that can help us incrementally work towards receiving the Savior's blessings in our lives. Though some of these key points may seem challenging or distant at first, by applying them step by step, we can achieve significant spiritual growth and accomplishment in our mortal lives.
 
 ### 3 Nephi 11:10-11
 
