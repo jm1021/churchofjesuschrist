@@ -43,7 +43,7 @@ These are my proverbial actions to "fill up the greenery can." In a more doctrin
 
 ![Christ Visits Americas][{{site.baseurl}}/images/greenery_can.png]
 
-## Praise to the Lord
+## Teachings of the Lord
 
 In all things, we should praise Jesus Christ for the beauties we find in life and a plan that enables us to be imperfect. Today, I would like to consider the concept of filling our proverbial greenery can in manageable chunks.
 
