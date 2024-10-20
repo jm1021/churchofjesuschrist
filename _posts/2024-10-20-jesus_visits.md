@@ -15,7 +15,7 @@ image: /images/christ_nephites.webp
 
 - September 30–October 6: [I Am the Law, and the Light](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/40?lang=eng)
 
-![Christ Visits Americas][{{site.baseurl}}/images/christ_nephites.webp]
+![Christ Visits Americas]({{site.baseurl}}/images/christ_nephites.webp)
 
 ## Spiritual Entropy
 
@@ -41,7 +41,7 @@ Sometimes in the gospel, I have felt that entropy or energy loss. Over the years
 
 These are my proverbial actions to "fill up the greenery can." In a more doctrinal evaluation, these elements are my repentance or turning toward Jesus Christ.
 
-![Christ Visits Americas][{{site.baseurl}}/images/greenery_can.png]
+![Christ Visits Americas]({{site.baseurl}}/images/greenery_can.png)
 
 ## Teachings of the Lord
 
