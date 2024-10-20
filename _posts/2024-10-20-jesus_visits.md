@@ -17,9 +17,9 @@ image: /images/christ_nephites.webp
 
 ![Christ Visits Americas][{{site.baseurl}}/images/christ_nephites.webp]
 
-## Spirtual Entropy
+## Spiritual Entropy
 
-We are all fallen, and through Jesus Christ, we can claim all of the glory of the Father. Today, I caution you about **spirtual entropy**.
+We are all fallen, and through Jesus Christ, we can claim all of the glory of the Father. Today, I caution you about **spiritual entropy**.
 
 I moved into this ward in the year 2000. Having a young family, we focused on a pool, trampoline, rough scape, and garden. It was perfect. Between that and having gardeners, we had many years of **perfection** in our yard.
 
@@ -31,21 +31,21 @@ Entropy is a measure of how much energy is lost in a system. If a system loses t
 
 To stop the chaos, it seemed it would take an extreme amount of time and effort, taking away from our ability to enjoy or accomplish other things. Then my wife said, **"Let's start by filling up the greenery can every week."** We still have a ways to go, but on Saturday, October 19th, 2024, I see hope for the area around the pool again. The removal of years of neglect has started to make progress, and now we are starting to reimagine what could be.
 
-Sometimes in the gospel, I have felt that entropy or energy loss. Over the years, in my family, we put routines in place that have helped **fill our lives** as well as combat **spiritual entropy.**.
+Sometimes in the gospel, I have felt that entropy or energy loss. Over the years, in my family, we put routines in place that have helped **fill our lives** as well as combat **spiritual entropy**.
 
-1. Many years ago, early in our marriage, perhaps it was my wife again, we decided to **read scriptures every night @8:45pm**.  We don't recoall the date but we do know that Shay has had regular scriptues his entire life.
-2. Tiernan blessed us when he returned from his mission, he got out of the habit of **butts on bed** prayers to **knee** prayers.
+1. Many years ago, early in our marriage, perhaps it was my wife again, we decided to **read scriptures every night at 8:45 PM**. We don't recall the exact date, but we do know that Shay has had regular scriptures his entire life.
+2. Tiernan blessed us when he returned from his mission; he got out of the habit of **butts on bed** prayers to **knee** prayers.
 3. At some point, I started a **personal prayer** habit when entering my car, followed by **silence and pondering** as I drive to work.
-4. Reflecting on the recent Conference weekend, **this is an event that I try to never interrupt**. In my mind, I try to treat it like is the **big game**.  I now look forward to it months in advance.
-5. Church and Sacrament Meeting are my weekly **tune up**.  This habit started as a 15 year old.  Talking aoubt Church with my wife is a big part of our Sunday tradition.
+4. Reflecting on the recent Conference weekend, **this is an event that I try to never interrupt**. In my mind, I try to treat it like the **big game**. I now look forward to it months in advance.
+5. Church and Sacrament Meeting are my weekly **tune-up**. This habit started when I was 15 years old. Talking about Church with my wife is a big part of our Sunday tradition.
 
-These are my proverbial actions to "fill up the greenery can".  In a more doctrinal evaluation, these elements are my repentance or turning toward Jesus Christ.
+These are my proverbial actions to "fill up the greenery can." In a more doctrinal evaluation, these elements are my repentance or turning toward Jesus Christ.
 
 ![Christ Visits Americas][{{site.baseurl}}/images/greenery_can.png]
 
 ## Praise to the Lord
 
-In all things we should praise Jesus Christ for the beauties we find in life and a plan that enables us to be imperfect.  Today, I would like to consider the concept of filling our proverbial greenery can in manageable chunks.
+In all things, we should praise Jesus Christ for the beauties we find in life and a plan that enables us to be imperfect. Today, I would like to consider the concept of filling our proverbial greenery can in manageable chunks.
 
 Let's look at the scriptures from the ministry of Jesus to the Nephites. These passages provide profound insights and guidance that can help us incrementally work towards receiving the Savior's blessings in our lives. Though some of these key points may seem challenging or distant at first, by applying them step by step, we can achieve significant spiritual growth and accomplishment in our mortal lives.
 
@@ -68,25 +68,29 @@ Scripture: "Therefore **I would that ye should be perfect** even as I, or your F
 Highlight: Jesus emphasizes the importance of prayer to avoid temptation.
 Scripture: "Verily, verily, I say unto you, **ye must watch and pray always**, lest ye be tempted by the devil, and ye be led away captive by him."
 
-- Jesus later (chapter 20) instructs the Nephites that they should not cease to pray in their hearts. After prayer, we are often counseled to remain open to the Holy Ghost. This process of continuous prayer and openness to the Spirit helps us incrementally open our understanding, combat spiritual entropy, and open our understanding.
+- Jesus later instructs the Nephites that they should not cease to pray in their hearts. In summary, **"Amen" should not mean the prayer is over.** The word "Amen" in Hebrew means "truly," "so be it," or "let it be." These words signify to me action, to continue in a spirit of prayer, and openness to the Holy Ghost.This process of continuous prayer and openness to the Spirit helps us incrementally open our understanding and combat spiritual entropy.
 
 ### 3 Nephi 19:25-26
 
 Highlight: The disciples are filled with the Holy Ghost and purified.
-Scripture: "And it came to pass that **Jesus blessed them as they did pray unto him**; and his countenance did smile upon them, and the light of his countenance did shine upon them, and behold, they were as white as the countenance and also the garments of Jesus; and behold the whiteness thereof did exceed all the whiteness, yea, even there could be nothing upon earth so white as the whiteness thereof."
+Scripture: "And it came to pass that **Jesus blessed them as they did pray unto him**; and his countenance did smile upon them, and the light of his countenance did shine upon them, and behold, **they were as white as the countenance and also the garments of Jesus**; and behold the whiteness thereof did exceed all the whiteness, yea, even there could be nothing upon earth so white as the whiteness thereof."
 
-- As a recently returned missionary, one of my best friends was someone who returned from their mission early. That was a hard place to be at that time, and he struggled in the Church. He relayed to me one night that his parents, who were temple workers, had radiant countenances when they returned. White in light is all colors of the spectrum, symbolizing the purity and completeness we can achieve incrementally through Christ.  
+- When I was a recently returned missionary, one of my best friends was someone who returned from their mission early. That was a hard place to be at that time, and he struggled in the Church. But, in this state he relayed to me one night that his parents, who were temple workers, had **radiant countenances** when they returned from the temple. I like to think of the white, as in light, is **the spectrum of all colors together**.  This scripture **symbolizing the purity and completeness we can achieve incrementally** through the blessings of Jesus Christ.
 
 ### 3 Nephi 27:27
 
 Highlight: Jesus sets the standard for His disciples.
-Scripture: "And know ye that ye shall be judges of this people, according to the judgment which I shall give unto you, **which shall be just**. Therefore, what manner of men ought ye to be? Verily I say unto you, even as I am."
+Scripture: "And know ye that ye shall be judges of this people, according to the judgment which I shall give unto you, **which shall be just**. Therefore, what manner of men ought ye to be? Verily I say unto you, **even as I am**."
 
-- In recent reflections or dreams, I experienced exquisite sorrow and exquisite joy at the same time. To be like God, we need to experience all emotions: Good - Evil, Joy - Sorrow, Pleasure - Pain. Our incremental ability to maintain "all emotions" and "keep countenance radiant" is to become closer to God. This is the refiner's fire or mastery. Through Christ and His atonement, we are divinely gifted to succeed.
+- In recent reflections or dreams, **I experienced exquisite sorrow and exquisite joy** at the same time. To become like God, we need to experience all emotions: Good - Evil, Joy - Sorrow, Pleasure - Pain. Our incremental ability to experience "all emotions" and maintain a "radiant countenance" brings us closer to God, helps us feel His presence, and enables us to become as He is. This is **the refiner's fire or mastery**. Through Christ and His atonement, **we are divinely gifted to succeed**.
 
-## Samuel the Laminite and President Nelson
+## Samuel the Lamanite and President Nelson
 
-Watching conference, I felt and had a recollection of Samuel the Laminanite as I heard the Prophet speak.  Both Samuel the Lamanite and President Nelson emphasize the importance of preparing for the coming of Jesus Christ, staying steadfast in faith, and **the blessings that come from faithful discipleship**. These teachings are timeless and provide a strong foundation for combating spiritual entropy. By focusing on these principles, we can fill our proverbial greenery can and maintain spiritual strength and peace.
+Watching conference, I experienced a recollection of Samuel the Lamanite's words as I heard the Prophet speak. Both Samuel the Lamanite and President Nelson emphasize the importance of **preparing for the coming of Jesus Christ**, **staying steadfast in faith**, and **the blessings that come from faithful discipleship**.
+
+These **teachings are timeless**. We saw many people fall in the story of Samuel the Lamanite. We have heard the declaration of the Prophet repeatedly to live the **covenant path**, **maintain a strong foundation**, and to **combat spiritual entropy**. By focusing on these principles, we can fill our proverbial greenery can and maintain spiritual strength and peace.
+
+While it may be **difficult for many to grasp the immediacy of these events**, the call to be prepared is clear. Whether the Second Coming is imminent or not, **being spiritually prepared ensures that we are ready for any event in our lives**. By heeding the counsel of both ancient and modern prophets, we can be in tune with the signs that are declared and **be ready for what will be the most significant event in history**, the Millennial Events and the Second Coming of Jesus Christ.
 
 ### Prophesying of Christ's Coming
 
@@ -140,7 +144,7 @@ Brothers and sisters, the Lord will comfort you too! He will strengthen you. **H
 
 I really like the interactions of the resurrected Jesus with the people and I particularly like 3 Nephi 18-20.  
 
-- Chapter 18-20 
+- Chapter 18-20
   - I like to **visualize being in Jesus's presence** and taking the Sacrament while reading thes chapters.
   - The **anticipation of the next meeting with Jesus** is particularly exciting and personal to me. Thinking about and knowing he will be coming is something we have been taught. The steps of preparing (with baptism) and sharing (with family/frieds) are things we have done.  
   - This is **a day fullfillment**, anticipation realized.  The gift of witnessing prayers answered, baptism and convenants realized, observing how Jesus and the Father interact.  Learning how to pray and keep a prayer in my heart.
