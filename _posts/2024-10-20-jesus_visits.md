@@ -140,7 +140,7 @@ Here is my promise to you: **Every sincere seeker of Jesus Christ will find Him 
 
 Brothers and sisters, the Lord will comfort you too! He will strengthen you. **He will bless you with peace, even amidst chaos.**
 
-## Savior meets with People (True Etropy cure)
+## Savior meets with People (True Entropy cure)
 
 I really like the interactions of the resurrected Jesus with the people and I particularly like 3 Nephi 18-20.  
 
