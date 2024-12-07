@@ -12,7 +12,7 @@ image: /images/nativity.webp
 1. **Pianist**: Responsible for playing the music for the songs.
 2. **Chorister**: Leads the children in singing the songs and reading scriptures.
 3. **Helpers for Role Play**: Assists in organizing and guiding the children in dressing up and acting out the journey to Bethlehem and the events surrounding the birth of Jesus. Reads the scriptures and stories about the birth of Jesus to the children.  Facilitates discussions about the different people in Bethlehem and their roles, as well as the significance of each event and prophecy.
-4. **Craft Helper**: Assists the children in creating star ornaments or nativity scenes using craft supplies.
+4. **Craft Helper**: Assists the children in creating star ornaments using craft supplies.
 
 ![Star]({{site.baseurl}}/images/Star-of-Bethlehem.jpg)
 
@@ -205,3 +205,7 @@ image: /images/nativity.webp
 **Story**:
 
 - "We traveled from the East, following a bright star that signaled the birth of a great King. Our journey led us to Judea, where we sought the newborn King to offer our gifts of gold, frankincense, and myrrh."
+
+## Craft Plan
+
+Find a pinterest article on how to make a paper ornament: [Paper Ornament](https://www.tinselbells.com/2018/05/make-paper-star-ornament.html)
