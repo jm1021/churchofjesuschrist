@@ -205,9 +205,3 @@ image: /images/nativity.webp
 **Question**:
 
 - "Can you tell us where we might find the child who has been born King of the Jews? We have come to honor Him."
-
-## Guide to Activities
-
-1. **Story Time/Songs**: Sing Christmas songs like "Away in a Manger" and "Star Bright Song" to reinforce the story and create a joyful atmosphere. Read the scriptures and stories about the birth of Jesus, and discuss the significance of each event and prophecy.
-2. **Role Play/Dress Up/Journey**: Talk about the different people who were in Bethlehem and their roles. Discuss how each person might have felt and what they might have experienced.  Have the children set out on the journey to Bethlehem and stop and discuss events surrounding the birth of Jesus. Assign roles from dialog  Mary, Joseph, the innkeeper, shepherds, and wise men.
-3. **Crafts**: Create star ornaments out of paper using craft supplies. This will help the children remember the story and take something home from the activities.
