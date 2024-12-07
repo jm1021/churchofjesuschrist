@@ -7,7 +7,7 @@ title: The Journey to Bethlehem
 image: /images/nativity.webp
 ---
 
-![Star]({{site.baseurl}}/images/nativity.webp)
+![Star]({{site.baseurl}}/images/Star-of-Bethlehem.jpg)
 
 ## A Bright Night
 
