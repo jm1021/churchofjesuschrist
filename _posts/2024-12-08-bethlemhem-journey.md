@@ -107,11 +107,63 @@ image: /images/nativity.webp
 
 ### Merchants
 
+**Dialogue**:
+
+- "Fresh fruits and spices! Come and see the best goods in Bethlehem!"
+- "Have you heard about the census? So many people are coming to the city!"
+
+**Story**:
+
+- "I traveled all the way from Jericho to sell my goods here. The city is bustling with people because of the decree from Caesar Augustus."
+
+**Question**:
+
+- "Where are you from? Are you here for the census too?"
+
 ### Inn Keeper
+
+**Dialogue**:
+
+- "I'm sorry, but there is no room left in the inn. The city is full because of the census."
+- "You can stay in the stable if you need a place to rest."
+
+**Story**:
+
+- "Last night, a young couple came looking for a place to stay. The woman was about to give birth, and I had to offer them the stable since all the rooms were taken."
+
+**Question**:
+
+- "Have you found a place to stay yet? The city is very crowded."
 
 ### Centurions
 
+**Dialogue**:
+
+- "Keep moving, everyone! We need to maintain order in the city."
+- "Make sure you are registered for the census as required by Caesar Augustus."
+
+**Story**:
+
+- "We've been stationed here to ensure that everyone complies with the census. It's a busy time, and we need to keep the peace."
+
+**Question**:
+
+- "Have you completed your registration for the census?"
+
 ### Tax Collectors
+
+**Dialogue**:
+
+- "Please have your documents ready for the census registration."
+- "Remember, you must pay your taxes as part of the census requirements."
+
+**Story**:
+
+- "I've been collecting taxes all day. People from all over Judea are here to be counted and taxed."
+
+**Question**:
+
+- "Have you paid your taxes yet? Make sure you have everything in order."
 
 ![Wisemen]({{site.baseurl}}/images/wise_men_camels_star.webp)
 
@@ -119,7 +171,33 @@ image: /images/nativity.webp
 
 ### Shepherds
 
+**Dialogue**:
+
+- "Look at the sky! It's so bright tonight. What could it mean?"
+- "Did you hear that? An angel just spoke to us! We must go to Bethlehem and see this thing that has happened."
+
+**Story**:
+
+- "We were watching our flocks by night when suddenly, an angel appeared and told us about the birth of the Savior. We hurried to Bethlehem and found Mary, Joseph, and the baby lying in a manger."
+
+**Question**:
+
+- "Have you heard the good news? The Savior has been born in Bethlehem!"
+
 ### Wise Men
+
+**Dialogue**:
+
+- "We have seen His star in the East and have come to worship Him."
+- "Where is He who has been born King of the Jews? We have followed His star and brought gifts for Him."
+
+**Story**:
+
+- "We traveled from the East, following a bright star that signaled the birth of a great King. Our journey led us to Judea, where we sought the newborn King to offer our gifts of gold, frankincense, and myrrh."
+
+**Question**:
+
+- "Can you tell us where we might find the child who has been born King of the Jews? We have come to honor Him."
 
 ## Activity Ideas
 
