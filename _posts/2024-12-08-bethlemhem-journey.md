@@ -101,16 +101,24 @@ image: /images/nativity.webp
    Asleep, (Asleep,) asleep, (asleep,)
    asleep, the Lord of all.
 
+[Bethlehem]({{site.baseurl}}/images/modern_bethlehem.jpg)
+
 ## People Who Made Bethlehem Crowded
 
 ### Merchants
+
 ### Inn Keeper
+
 ### Centurions
+
 ### Tax Collectors
+
+[Wisemen]({{site.baseurl}}/images/wise_men_camels_star.webp)
 
 ## Those Told of the Birth
 
 ### Shepherds
+
 ### Wise Men
 
 ## Activity Ideas
