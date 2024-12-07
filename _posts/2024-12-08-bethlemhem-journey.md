@@ -7,9 +7,16 @@ title: The Journey to Bethlehem
 image: /images/nativity.webp
 ---
 
+## Roles for the Lesson
+
+1. **Pianist**: Responsible for playing the music for the songs.
+2. **Chorister**: Leads the children in singing the songs.
+3. **Helpers for Role Play**: Assists in organizing and guiding the children in dressing up and acting out the journey to Bethlehem and the events surrounding the birth of Jesus. Reads the scriptures and stories about the birth of Jesus to the children.  Facilitates discussions about the different people in Bethlehem and their roles, as well as the significance of each event and prophecy.
+4. **Craft Helper**: Assists the children in creating star ornaments or nativity scenes using craft supplies.
+
 ![Star]({{site.baseurl}}/images/Star-of-Bethlehem.jpg)
 
-## A Bright Night
+## Singing/Reading - A Bright Night
 
 ### Samuel the Lamanite
 
@@ -55,7 +62,7 @@ image: /images/nativity.webp
 
 ![Manger]({{site.baseurl}}/images/nativity.webp)
 
-## Mary and Joseph
+## Singing/Reading - Manger Scene
 
 ### Joseph and Mary's Travels
 
