@@ -206,6 +206,8 @@ image: /images/nativity.webp
 
 - "We traveled from the East, following a bright star that signaled the birth of a great King. Our journey led us to Judea, where we sought the newborn King to offer our gifts of gold, frankincense, and myrrh."
 
+![Star Ornament]({{site.baseurl}}/images/ornament.jpg)
+
 ## Craft Plan
 
 Find a pinterest article on how to make a paper ornament: [Paper Ornament](https://www.tinselbells.com/2018/05/make-paper-star-ornament.html)
