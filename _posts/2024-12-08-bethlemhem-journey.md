@@ -10,7 +10,7 @@ image: /images/nativity.webp
 ## Roles for the Lesson
 
 1. **Pianist**: Responsible for playing the music for the songs.
-2. **Chorister**: Leads the children in singing the songs.
+2. **Chorister**: Leads the children in singing the songs and reading scriptures.
 3. **Helpers for Role Play**: Assists in organizing and guiding the children in dressing up and acting out the journey to Bethlehem and the events surrounding the birth of Jesus. Reads the scriptures and stories about the birth of Jesus to the children.  Facilitates discussions about the different people in Bethlehem and their roles, as well as the significance of each event and prophecy.
 4. **Craft Helper**: Assists the children in creating star ornaments or nativity scenes using craft supplies.
 
@@ -110,7 +110,7 @@ image: /images/nativity.webp
 
 ![Bethlehem]({{site.baseurl}}/images/modern_bethlehem.jpg)
 
-## People Who Made Bethlehem Crowded
+## Crowded Bethlehem Role Play
 
 ### Merchants
 
