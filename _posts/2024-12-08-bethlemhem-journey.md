@@ -128,8 +128,11 @@ image: /images/nativity.webp
 
 - "Make sure you are registered for the census as required by Caesar Augustus."
 - "Have you completed your registration for the census?"
-- "We've been stationed here to ensure that everyone complies with the census. It's a busy time, and we need to keep the peace."
 - "Keep moving, everyone! We need to maintain order in the city."
+
+**Story**:
+
+- "We've been stationed here to ensure that everyone complies with the census. It's a busy time, and we need to keep the peace."
 
 ### 2. Entering the Market - Merchants
 
@@ -179,11 +182,17 @@ image: /images/nativity.webp
 
 - "We were watching our flocks by night when suddenly, an angel appeared and told us about the birth of the Savior. We hurried to Bethlehem and found Mary, Joseph, and the baby lying in a manger."
 
-### 6. Seeing the Manger Scene
+### 6. Seeing the Manger Scene - Mary and Joseph
 
-**Joseph and Mary's Travels**
+**Dialogue**:
 
+- "We have traveled from Nazareth to Bethlehem because of the decree from Caesar Augustus."
+- "Our baby was born here, and we have had visions of Him being the Son of God."
+- "We wish we could provide the baby more, but we are happy for this great blessing."
 
+**Story**:
+
+- "We came to Bethlehem for the census, and while we were here, our baby was born. We have had visions that He is the Son of God, and we are grateful for this miraculous blessing, even though we had to lay Him in a manger."
 
 ### 7. Meeting the Wise Men
 
