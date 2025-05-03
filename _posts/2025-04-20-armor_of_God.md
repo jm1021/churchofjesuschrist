@@ -52,21 +52,30 @@ The armor was restored to us by the angels providing us the restoration of all t
 
 18 And take the **helmet of salvation**, and the **sword of my Spirit**, which I will pour out upon you, and my word which I reveal unto you, and be agreed as touching all things whatsoever ye ask of me, and be faithful until I come, and ye shall be caught up, that where I am ye shall be also. Amen.
 
-## President Nelson
+## 🔍 President Nelson Connection: "Confidence Before God" as the Armor's Purpose
 
-Spoke, in April 2025, of having confidence before God, **I am referring to having confidence in approaching God right now!** I am referring to praying with confidence that Heavenly Father hears us, that He understands our needs better than we do. I am referring to having confidence that He loves us more than we can comprehend, **that He sends angels to be with us and with those we love**. I am referring to having confidence that He yearns to help each of us reach our highest potential.
+President Nelson’s April 2025 talk aligns perfectly as a culmination of the Armor of God imagery. Consider framing his quote as the fruit of wearing the armor:
 
--- Prayer, Woship, Temple bring confidence, comprehension, angels, and reaching our potential.
+Wearing the whole armor—restored through angelic visitations—prepares us to approach the Lord with confidence. It enables covenant disciples to move forward with faith, be filled with the Spirit, and be ministered to by angels, just as he promised.
 
-### Faith, Charity, Virtue  (D&C 121)
+**I am referring to having confidence in approaching God right now!** I am referring to praying with confidence that Heavenly Father hears us, that He understands our needs better than we do. I am referring to having confidence that He loves us more than we can comprehend, **that He sends angels to be with us and with those we love**. I am referring to having confidence that He yearns to help each of us reach our highest potential.
 
---- Sanctify ourselves through Charity, Faith, and Virtue ---
+### Sanctify ourselves through Faith, Charity and Virtue
 
 45 **Let thy bowels also be full of charity** towards all men, and to the household of faith, and **let virtue garnish thy thoughts unceasingly**; then shall thy confidence wax strong in the presence of God; and the doctrine of the priesthood shall distil upon thy soul as the dews from heaven.
 
---- The Holy Ghost and gifts become a scepter forever ---
+46 The **Holy Ghost shall be thy constant companion, and thy scepter an unchanging scepter of righteousness and truth**; and thy dominion shall be an everlasting dominion, and without compulsory means it shall flow unto thee forever and ever.
 
-46 The Holy Ghost shall be thy constant companion, and thy scepter an unchanging scepter of righteousness and truth; and thy dominion shall be an everlasting dominion, and without compulsory means it shall flow unto thee forever and ever.
+🔗 Related Doctrine:
+D&C 84:88 — “I will go before your face... and mine angels round about you.”
+
+D&C 27:15–18 — The armor protects us to *“stand in the evil day.”
+
+D&C 121:45–46 — Virtue and charity sanctify us until our confidence waxes strong.
+
+## Reflections
+
+<div id="questions-container" class="space-y-6 border-t border-gray-200 pt-6"></div>
 
 <script>
 const columnsData = [
@@ -96,6 +105,24 @@ const columnsData = [
     }
 ];
 
+const questionsData = [
+    {
+        id: "dc27-will-of-god",
+        title: "Aligning with God's Will",
+        question: "What does it mean to be 'caught up' with Christ (D&C 27:18)? How can we align our will with His?"
+    },
+    {
+        id: "dc27-prayer-confidence",
+        title: "Confidence in Prayer",
+        question: "Have you had a time when you prayed with confidence, truly trusting that God heard you?"
+    },
+    {
+        id: "dc27-angels-armor",
+        title: "Angels and Armor",
+        question: "What do you want to remember/personalize, right now, about 'Angels', 'Armor', 'Confidence'?"
+    }
+];
+
 function renderColumns() {
     const columnsContainer = document.getElementById("columns");
     columnsData.forEach(column => {
@@ -112,8 +139,34 @@ function renderColumns() {
     });
 }
 
+
+// Render questions
+function renderQuestions() {
+    const questionsContainer = document.getElementById("questions-container");
+    questionsData.forEach(question => {
+        const savedResponse = localStorage.getItem(question.id) || "";
+        const questionHTML = `
+            <div class="bg-gray-100 p-4 rounded-lg shadow-md">
+                <h3 class="text-lg font-semibold mb-2">${question.title}</h3>
+                <p class="text-sm mb-4">${question.question}</p>
+                <textarea id="${question.id}" class="w-full border rounded-lg p-2 text-sm" rows="2" placeholder="Write your response here...">${savedResponse}</textarea>
+            </div>
+        `;
+        questionsContainer.innerHTML += questionHTML;
+    });
+
+    // Add event listeners to save responses
+    questionsData.forEach(question => {
+        const textarea = document.getElementById(question.id);
+        textarea.addEventListener("input", () => {
+            localStorage.setItem(question.id, textarea.value);
+        });
+    });
+}
+
 // Initialize the page
 document.addEventListener("DOMContentLoaded", () => {
     renderColumns();
+    renderQuestions();
 });
 </script>
