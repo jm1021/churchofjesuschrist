@@ -13,7 +13,7 @@ image: /images/the_law.png
 
 In the presence of twelve elders and in fulfillment of the Lord’s promise previously made that the “law” would be given in Ohio.
 
-### The Law to Preach
+### 📣The Law to Preach
 
 They, the Elders, are to teach and prophesy by the power of the Spirit;
 
@@ -37,7 +37,7 @@ They, the Elders, are to teach and prophesy by the power of the Spirit;
 
 17 For, behold, **the Comforter knoweth all things**, and beareth record of the Father and of the Son.
 
-### The Law of Commandments
+### 📜The Law of Commandments
 
 The Saints are commanded not to kill, steal, lie, lust, commit adultery, or speak evil against others;
 
@@ -65,8 +65,7 @@ The Saints are commanded not to kill, steal, lie, lust, commit adultery, or spea
 
 29 **If thou lovest me thou shalt serve me and keep all my commandments**.
 
-
-### The Law of Consecration
+### 🧺The Law of Consecration
 
 Laws governing the consecration of properties are set forth.
 
