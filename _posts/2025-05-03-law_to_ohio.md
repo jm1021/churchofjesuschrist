@@ -12,7 +12,7 @@ image: /images/temple_covenants.png
 <div class="max-w-4xl mx-auto px-4 py-8">
     <header class="mb-6">
         <h1 class="text-3xl font-bold text-gray-900">D&C 42: The Law</h1>
-        <p class="text-lg text-gray-600">Ohio, Feb 1831</p>
+        <p class="text-lg text-gray-600">Ohio, Feb 1831, revised 1835</p>
     </header>
     <!-- Dynamic Sections Container -->
     <div id="sections-container"></div>
@@ -52,9 +52,20 @@ image: /images/temple_covenants.png
                 "“And behold, thou wilt remember the poor, and consecrate of thy properties for their support that which thou hast to impart unto them, with a covenant and a deed which cannot be broken.” (D&C 42:30)",
                 "“Every man shall be made accountable unto me, a steward over his own property” (D&C 42:32)",
                 "“That my covenant people may be gathered in one in that day when I shall come to my temple. And this I do for the salvation of my people.” (D&C 42:36)",
+                "“Ye shall observe the laws which ye have received and be faithful.” (D&C 42:66)"
             ],
             description: "This law is more than tithing—it’s a full-hearted offering of ourselves to build Zion. Each gives according to their ability and receives according to their needs. The bishop is a judge in Israel.",
             reflectionPlaceholder: "What does living the law of consecration look like today?"
+        },
+        {
+            title: "🕊️ Blessings",
+            scriptures: [
+                "“Until the time shall come when it shall be revealed unto you from on high, when the city of the New Jerusalem shall be prepared, that ye may be gathered in one, that ye may be my people and I will be your God.” (D&C 42:9)",
+                "“If thou shalt ask, thou shalt receive revelation upon revelation, knowledge upon knowledge, that thou mayest know the mysteries and peaceable things—that which bringeth joy, that which bringeth life eternal.” (D&C 42:61)",
+                "“And ye shall hereafter receive church covenants, such as shall be sufficient to establish you, both here and in the New Jerusalem.” (D&C 42:67)",
+            ],
+            description: "The law provides a pathway to commune with God and receive His blessings. Through consecration and obedience, we align ourselves with His will, preparing for the gathering of Zion and the joy of eternal life.",
+            reflectionPlaceholder: "What keeps you on the convenant path?"
         },
  
     ];
