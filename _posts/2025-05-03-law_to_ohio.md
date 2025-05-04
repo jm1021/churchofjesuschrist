@@ -62,7 +62,7 @@ image: /images/temple_covenants.png
         },
         {
             title: "🕊️ Blessings",
-            image: "{{site.baseurl}}/images/law_blessings.png",
+            image: "{{site.baseurl}}/images/blessings.png",
             scriptures: [
                 "“Until the time shall come when it shall be revealed unto you from on high, when the city of the New Jerusalem shall be prepared, that ye may be gathered in one, that ye may be my people and I will be your God.” (D&C 42:9)",
                 "“If thou shalt ask, thou shalt receive revelation upon revelation, knowledge upon knowledge, that thou mayest know the mysteries and peaceable things—that which bringeth joy, that which bringeth life eternal.” (D&C 42:61)",
