@@ -10,7 +10,7 @@ image: /images/temple_covenants.png
 ![armor]({{site.baseurl}}/images/temple_covenants.png)
 
 <div class="max-w-4xl mx-auto px-4 py-8">
-    <header class="text-center mb-10">
+    <header class="mb-6">
         <h1 class="text-3xl font-bold text-gray-900">D&C 42: The Law</h1>
         <p class="text-lg text-gray-600">Ohio, Feb 1831</p>
     </header>
@@ -26,34 +26,18 @@ image: /images/temple_covenants.png
     // JSON Data for Sections
     const sectionsData = [
         {
-            title: "📖 The Law Begins with Preaching",
+            title: "📖 The Law Begins with Preaching: Obedience, Sacrifice, and the Gospel",
             scriptures: [
                 "“Ye shall go forth in the power of my Spirit... two by two” (D&C 42:6)",
-                "“It shall not be given to any one to go forth to preach... except he be ordained by some one who has authority” (D&C 42:11)"
+                "“It shall not be given to any one to go forth to preach... except he be ordained by some one who has authority” (D&C 42:11)",
+                "“Teach the principles of my gospel... as directed by the Spirit” (D&C 42:12–13)",
+                "“The Spirit shall be given by the prayer of faith; if ye receive not the Spirit ye shall not teach” (D&C 42:14)"
             ],
-            description: "This begins with a missionary effort and personal preparation. We share the gospel out of love, and the promise is that those who receive it will be gathered to Zion.",
-            reflectionPlaceholder: "How do I prepare to teach or testify to others?"
+            description: "Teaching the gospel requires the Spirit. Those who teach must be called, ordained, and led by the Holy Ghost. The scriptures are the law and standard by which we teach and live.",
+            reflectionPlaceholder: "How do I prepare to teach or testify to others? How do I let the spirit guide me?"
         },
         {
-            title: "👩‍⚖️ The Law and the Bishop",
-            scriptures: [
-                "“He shall be appointed... to be a bishop unto the church” (D&C 42:10)",
-                "“They shall be laid before the bishop... to administer to the poor and the needy” (D&C 42:31–34)"
-            ],
-            description: "Priesthood authority is critical in administering the law. The bishop becomes the steward over consecrated offerings and the needs of the poor, ensuring fairness and spiritual welfare.",
-            reflectionPlaceholder: "How does the role of a bishop shape our community care?"
-        },
-        {
-            title: "🤝 The Law of Consecration",
-            scriptures: [
-                "“Remember the poor... with a covenant and a deed which cannot be broken” (D&C 42:30)",
-                "“Every man shall be made accountable unto me, a steward over his own property” (D&C 42:32)"
-            ],
-            description: "This law is more than tithing—it’s a full-hearted offering of ourselves to build Zion. Each gives according to their ability and receives according to their needs. The bishop is a judge in Israel.",
-            reflectionPlaceholder: "What would living the law of consecration look like today?"
-        },
-        {
-            title: "🛡️ The Law of Protection",
+            title: "🛡️ The Law of Obedience: Chasity",
             scriptures: [
                 "“Thou shalt not kill... he shall not have forgiveness” (D&C 42:18)",
                 "“Thou shalt not steal... lie... commit adultery... speak evil” (D&C 42:20–27)",
@@ -63,14 +47,16 @@ image: /images/temple_covenants.png
             reflectionPlaceholder: "How does God's law protect freedom and peace?"
         },
         {
-            title: "📜 The Law of Scripture",
+            title: "🤝 The Law of Consecration",
             scriptures: [
-                "“Teach the principles of my gospel... as directed by the Spirit” (D&C 42:12–13)",
-                "“The Spirit shall be given by the prayer of faith; if ye receive not the Spirit ye shall not teach” (D&C 42:14)"
+                "“And behold, thou wilt remember the poor, and consecrate of thy properties for their support that which thou hast to impart unto them, with a covenant and a deed which cannot be broken.” (D&C 42:30)",
+                "“Every man shall be made accountable unto me, a steward over his own property” (D&C 42:32)",
+                "“That my covenant people may be gathered in one in that day when I shall come to my temple. And this I do for the salvation of my people.” (D&C 42:36)",
             ],
-            description: "Teaching the gospel requires the Spirit. Those who teach must be called, ordained, and led by the Holy Ghost. The scriptures are the law and standard by which we teach and live.",
-            reflectionPlaceholder: "How do I let scripture and the Spirit guide what I teach and learn?"
-        }
+            description: "This law is more than tithing—it’s a full-hearted offering of ourselves to build Zion. Each gives according to their ability and receives according to their needs. The bishop is a judge in Israel.",
+            reflectionPlaceholder: "What does living the law of consecration look like today?"
+        },
+ 
     ];
 
     // Function to generate a unique ID based on the title
