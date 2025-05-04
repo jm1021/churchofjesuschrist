@@ -9,13 +9,11 @@ image: /images/armor_of_god.png
 
 ![armor]({{site.baseurl}}/images/armor_of_god.png)
 
-## Revelation on the Armor (D&C 27)
+## D&C 27 The Sacrament connects to the Atonement
 
-### The Sacrament connects to the Atonement
+27:2 For, behold, I say unto you, that it mattereth not what ye shall eat or what ye shall drink when ye partake of the sacrament, if it so be that ye do it with an eye single to my glory—remembering unto the Father my body which was laid down for you, and my blood which was shed for the remission of your sins.
 
-2 For, behold, I say unto you, that it mattereth not what ye shall eat or what ye shall drink when ye partake of the sacrament, if it so be that ye do it with an eye single to my glory—remembering unto the Father my body which was laid down for you, and my blood which was shed for the remission of your sins.
-
-## 🛡️ The Armor of God: Restored Through Angels (D&C 27:5-18)
+## 🛡️ D&C 27:5-18 The Armor of God: Restored Through Angels
 
 The armor was restored to us by the Angels. **They brought the keys** of restoration of all things.
 
@@ -23,7 +21,7 @@ The armor was restored to us by the Angels. **They brought the keys** of restora
 
 <div id="questions-container" class="space-y-6 border-t border-gray-200 pt-6"></div>
 
-## Angels of the Restoration, D&C 27
+## D&C 27 Angels of the Restoration,
 
 5 Behold, this is wisdom in me; wherefore, marvel not, for the hour cometh that I will drink of the fruit of the vine with you on the earth, and with **Moroni**, whom I have sent unto you to reveal the Book of Mormon, containing the fulness of my everlasting gospel, to whom I have committed **the keys of the record of the stick of Ephraim**;
 
@@ -120,7 +118,7 @@ const questionsData = [
     {
         id: "dc27-angels-armor",
         title: "Angels and Armor",
-        scripture: "16 Stand, therefore, having your loins girt about with truth, having on the breastplate of righteousness, and your feet shod with the preparation of the gospel of peace, <b>which I have sent mine angels to commit unto you;</b>",
+        scripture: "27:16 Stand, therefore, having your loins girt about with truth, having on the breastplate of righteousness, and your feet shod with the preparation of the gospel of peace, <b>which I have sent mine angels to commit unto you;</b>",
         question: "What do you want to remember/personalize, right now, about 'Angels', 'Armor', 'Confidence'?"
     }
 ];
