@@ -15,14 +15,15 @@ image: /images/armor_of_god.png
 
 2 For, behold, I say unto you, that it mattereth not what ye shall eat or what ye shall drink when ye partake of the sacrament, if it so be that ye do it with an eye single to my glory—remembering unto the Father my body which was laid down for you, and my blood which was shed for the remission of your sins.
 
-
 ## 🛡️ The Armor of God: Restored Through Angels (D&C 27:5-18)
 
-### The Angels brought the keys
-
-The armor was restored to us by the angels providing us the restoration of all things.
+The armor was restored to us by the Angels. **They brought the keys** of restoration of all things.
 
 <div id="columns" class="grid grid-cols-3 gap-4 bg-blue-50"></div>
+
+<div id="questions-container" class="space-y-6 border-t border-gray-200 pt-6"></div>
+
+## Angels of the Restoration, D&C 27
 
 5 Behold, this is wisdom in me; wherefore, marvel not, for the hour cometh that I will drink of the fruit of the vine with you on the earth, and with **Moroni**, whom I have sent unto you to reveal the Book of Mormon, containing the fulness of my everlasting gospel, to whom I have committed **the keys of the record of the stick of Ephraim**;
 
@@ -43,6 +44,8 @@ The armor was restored to us by the angels providing us the restoration of all t
 13 **Unto whom I have committed the keys of my kingdom, and a dispensation of the gospel for the last times; and for the fulness of times**, in the which I will gather together in one all things, both which are in heaven, and which are on earth;
 
 14 And also with all those whom my Father hath given me out of the world.
+
+## Armor of God, D&C 27
 
 15 Wherefore, lift up your hearts and rejoice, and gird up your loins, and **take upon you my whole armor**, that ye may be able to withstand the evil day, having done all, that ye may be able to stand.
 
@@ -72,10 +75,6 @@ D&C 84:88 — “I will go before your face... and mine angels round about you.�
 D&C 27:15–18 — The armor protects us to *“stand in the evil day.”
 
 D&C 121:45–46 — Virtue and charity sanctify us until our confidence waxes strong.
-
-## Reflections
-
-<div id="questions-container" class="space-y-6 border-t border-gray-200 pt-6"></div>
 
 <script>
 const columnsData = [
@@ -109,16 +108,19 @@ const questionsData = [
     {
         id: "dc27-will-of-god",
         title: "Aligning with God's Will",
-        question: "What does it mean to be 'caught up' with Christ (D&C 27:18)? How can we align our will with His?"
+        scripture: "27:18 And take the helmet of salvation, and the sword of my Spirit, which I will pour out upon you, and my word which I reveal unto you, and be agreed as touching all things whatsoever ye ask of me, and be faithful until I come, and ye shall be <b>caught up</b>, that where I am ye shall be also. Amen.",
+        question: "What does it mean to be 'caught up' with Christ? How can we align our will with His?"
     },
     {
         id: "dc27-prayer-confidence",
         title: "Confidence in Prayer",
+        scripture: "121:45 Let thy bowels also be full of charity towards all men, and to the household of faith, and let virtue garnish thy thoughts unceasingly; <b>then shall thy confidence wax strong in the presence of God</b>; and the doctrine of the priesthood shall distil upon thy soul as the dews from heaven.",
         question: "Have you had a time when you prayed with confidence, truly trusting that God heard you?"
     },
     {
         id: "dc27-angels-armor",
         title: "Angels and Armor",
+        scripture: "16 Stand, therefore, having your loins girt about with truth, having on the breastplate of righteousness, and your feet shod with the preparation of the gospel of peace, <b>which I have sent mine angels to commit unto you;</b>",
         question: "What do you want to remember/personalize, right now, about 'Angels', 'Armor', 'Confidence'?"
     }
 ];
@@ -148,6 +150,7 @@ function renderQuestions() {
         const questionHTML = `
             <div class="bg-gray-100 p-4 rounded-lg shadow-md">
                 <h3 class="text-lg font-semibold mb-2">${question.title}</h3>
+                <p class="text-sm mb-4">${question.scripture}</p>
                 <p class="text-sm mb-4">${question.question}</p>
                 <textarea id="${question.id}" class="w-full border rounded-lg p-2 text-sm" rows="2" placeholder="Write your response here...">${savedResponse}</textarea>
             </div>
