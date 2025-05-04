@@ -4,12 +4,15 @@ comments: true
 layout: tailwind
 description: Doctrine in Covenants Chapter 42 describes the Law given to the Saints of Ohio.
 title: The Law 
-image: /images/the_law.png
+image: /images/temple_covenants.png
 ---
+
+![armor]({{site.baseurl}}/images/temple_covenants.png)
 
 <div class="max-w-4xl mx-auto px-4 py-8">
     <header class="text-center mb-10">
         <h1 class="text-3xl font-bold text-gray-900">D&C 42: The Law</h1>
+        <p class="text-lg text-gray-600">Ohio, Feb 1831</p>
     </header>
     <!-- Dynamic Sections Container -->
     <div id="sections-container"></div>
