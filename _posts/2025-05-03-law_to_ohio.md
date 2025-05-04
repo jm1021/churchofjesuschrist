@@ -27,6 +27,7 @@ image: /images/temple_covenants.png
     const sectionsData = [
         {
             title: "📖 The Law Begins with Preaching: Obedience, Sacrifice, and the Gospel",
+            image: "{{site.baseurl}}/images/preaching.webp",
             scriptures: [
                 "“Ye shall go forth in the power of my Spirit... two by two” (D&C 42:6)",
                 "“It shall not be given to any one to go forth to preach... except he be ordained by some one who has authority” (D&C 42:11)",
@@ -38,6 +39,7 @@ image: /images/temple_covenants.png
         },
         {
             title: "🛡️ The Law of Obedience: Chasity",
+            image: "{{site.baseurl}}/images/meme_obedience.webp",
             scriptures: [
                 "“Thou shalt not kill... he shall not have forgiveness” (D&C 42:18)",
                 "“Thou shalt not steal... lie... commit adultery... speak evil” (D&C 42:20–27)",
@@ -48,6 +50,7 @@ image: /images/temple_covenants.png
         },
         {
             title: "🤝 The Law of Consecration",
+            image: "{{site.baseurl}}/images/law-of-consecration-kirtland-temple.webp",
             scriptures: [
                 "“And behold, thou wilt remember the poor, and consecrate of thy properties for their support that which thou hast to impart unto them, with a covenant and a deed which cannot be broken.” (D&C 42:30)",
                 "“Every man shall be made accountable unto me, a steward over his own property” (D&C 42:32)",
@@ -59,6 +62,7 @@ image: /images/temple_covenants.png
         },
         {
             title: "🕊️ Blessings",
+            image: "{{site.baseurl}}/images/law_blessings.png",
             scriptures: [
                 "“Until the time shall come when it shall be revealed unto you from on high, when the city of the New Jerusalem shall be prepared, that ye may be gathered in one, that ye may be my people and I will be your God.” (D&C 42:9)",
                 "“If thou shalt ask, thou shalt receive revelation upon revelation, knowledge upon knowledge, that thou mayest know the mysteries and peaceable things—that which bringeth joy, that which bringeth life eternal.” (D&C 42:61)",
@@ -86,6 +90,7 @@ image: /images/temple_covenants.png
 
             const sectionHTML = `
                 <section class="bg-gray-100 shadow rounded-xl p-6 mb-6">
+                    ${section.image ? `<img src="${section.image}" alt="${section.title}" class="w-full h-48 object-cover rounded mb-4">` : ""}
                     <h2 class="text-xl font-semibold mb-2">${section.title}</h2>
                     ${scripturesHTML}
                     <p class="mb-4">${section.description}</p>
@@ -93,6 +98,7 @@ image: /images/temple_covenants.png
                     <textarea id="${id}" class="w-full p-2 border rounded" placeholder="${section.reflectionPlaceholder}"></textarea>
                 </section>
             `;
+
             container.insertAdjacentHTML("beforeend", sectionHTML);
         });
     }
